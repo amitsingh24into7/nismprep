@@ -1,0 +1,78 @@
+2°94 The calculation of premium of an option is a function of
+
+The volatility of a stock
+
+Time left to expiry and interest rates
+The current stock price and strike price
+All of the above
+
+> WRONG ANSWER
+CORRECT ANSWER:
+
+All of the above
+Explanation:
+There are five fundamental parameters on which the option price depends upon:
+
+1) Spot price of the underlying asset 2) Strike price of the option 3) Volatility of the underlying asset's price 4) Time to expiration 5) Interest rates
+
+295: Mr. Deepak wants to buy 20 contracts of October series at Rs. 3500 and Mr. Suraj wants to buy 12 contracts of November series at Rs. 3600. Lot size is 50 for both these contracts. The
+initial margin is fixed at 8%. How much initial margin is required to be collected from both these traders by the broker?
+Rs. 5,84,500
+Rs. 3,75,200
+Rs. 6,12,600
+Rs. 4,52,800
+% WRONG ANSWER
+CORRECT ANSWER:
+Rs. 4,52,800
+Explanation: 4a
+Intial Margin from Mr. Deepak
+Rs 3500 X 20 contracts X 50 (lot size) X 8% = Rs. 2,80,000
+Initial Margin from Mr. Suraj
+Rs 3600 X 12 contracts X 50 (lot size) X 8% = Rs. 1,72,800
+Total Margin = 280000 + 172800 = Rs. 4,52,800
+Q96. .
+Identify the TRUE statement -
+The clearing members set the limits for the trading members under him
+For enhanced risk management, the Clearing Corporation sets the limits for the trading members
+The trading members have to possess a higher level of book networth than Clearing Members
+The trading members should have the same level of Book networth as that of Clearing Members
+%X WRONG ANSWER
+CORRECT ANSWER:
+The clearing members set the limits for the trading members under him
+Explanation: a
+Each Clearing Member may have several Trading Members with him. The trading limits for each such Trading Member are decided by Clearing Members on the computerized trading system.
+If the Trading Member reaches his position limit, he will not be able to enter any fresh transactions which have the impact of increase his exposure. He will enter only those transactions which have the impact of
+reducing his exposure. Thus, new positions will not be permitted, but only squaring-off of existing positions will be permitted.
+97. 7 — - "
+2 Is the statement correct or incorrect - A hedged portfolio will give higher returns than unhedged portfolio at all times.
+Correct
+Incorrect
+% WRONG ANSWER
+CORRECT ANSWER:
+Incorrect
+Explanation:
+Hedging controls your losses but also controls your profits. It does not ensure higher profits.
+An open position can give you more profits or more losses.
+Q 98.
+
+A trader has taken a short position of one contract in September ABC futures (Contract Multiplier 50) at a price of Rs. 1200. When he closed this position after some days, he realised
+that he has made a profit of Rs. 8000. Identify the action which would have enabled him to generate this profit of Rs. 8000.
+
+Selling one September ABC futures contract at Rs. 1040
+
+Selling one September ABC futures contract at Rs. 1080
+
+Buying one September ABC futures contract at Rs. 1040
+
+Buying one September ABC futures contract at Rs. 1080
+
+%X WRONG ANSWER
+CORRECT ANSWER:
+
+Buying one September ABC futures contract at Rs. 1040
+Explanation: aA
+
+The trader is short ie. he has sold ABC futures. He will make a profit when the future price falls. His profit is Rs 8000 and lot size is 50, so per share he has to get Rs 160 (8000 / 50) to make a profit of Rs 8000 (160
+x 50)
+
+So when the ABC futures falls to 1040 and the trader buys it to square up his position, he will make a profit of Rs 8000.

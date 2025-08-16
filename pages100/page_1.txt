@@ -1,0 +1,78 @@
+Qi.
+
+Q2.
+
+Q3.
+
+Q4
+
+Q6.
+
+Can Professional Clearing members act only on behalf of institutional clients ?
+Yes
+No
+
+v¥ CORRECTANSWER
+Explanation:
+
+Professional clearing member clears the trades of his associate Trading Member and institutional clients.
+
+Trading members shall maintain a higher level of Book networth than the clearing members - State True or False ?
+True
+False
+
+¥ CORRECT ANSWER
+Explanation:
+
+Clearing Members have to maintain higher book networth than trading members.
+
+If you have a long or short position in a futures contract, this can be closed by initiating a reverse trade - True or False ?
+True
+False
+
+v CORRECT ANSWER A
+
+Explanation:
+Closing a position means either buying or selling a contract, which essentially results in reduction of client’s open position (long or short). A client is said to be closed a position if he sells a contract which he
+had bought before or he buys a contract which he had sold earlier.
+
+The idea and economic rational of introducing forward contracts is to.
+help arbitrage
+help trading
+help hedgeing
+both 1 and 3
+
+X WRONG ANSWER
+CORRECT ANSWER:
+
+help hedgeing
+Explanation:
+The essential idea of entering into a forward is to fix the price and thereby avoid the price risk. By entering into forwards, one is assured of the price at which one can buy/sell an underlying asset.
+
+Thus Forward contracts are basically meant for hedgeing / managing the risks.
+
+As per Accounting Standards, the initial margin paid by an option seller is shown under in the balance sheet
+Bad Debts
+Fixed Assets
+Current Assets
+Current Liabilities
+
+XX WRONG ANSWER
+CORRECT ANSWER:
+
+Current Assets
+Explanation:
+The seller/ writer of the option is required to pay initial margin for entering into the option contract and its should be debited to an appropriate account, say, "Equity Index/ Stock Option Margin Account".
+
+In the balance sheet, such account should be shown separately under the head "Current Assets".
+
+Aperson who is bullish and a payer of premium is a “
+buyer of call option
+seller of call option
+buyer of put option
+seller of put option
+
+v CORRECT ANSWER
+Explanation:
+
+A buyer of a Call is bullish and believes that the price will rise. He pays a premium which is his maximum loss but the profits can be unlimited.

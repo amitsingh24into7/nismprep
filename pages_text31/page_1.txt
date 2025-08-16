@@ -1,0 +1,93 @@
+Q2
+
+Q7
+
+Along position in futures market can be reversed only with the same counterparty from whom the contract was initially purchased - State whether True or False?
+True
+False
+
+XX WRONG ANSWER
+CORRECT ANSWER:
+
+False
+
+Explanation: 4
+
+Futures contracts are traded on screen based derivatives market where the identity of the buyer and seller is unknown to each other. A trade can be squared off with any buyer or seller whose quotes are available
+on the screen.
+
+The Clearing Corporation acts as a legal counterparty for every contract and guarantees the trades.
+
+The broker is compulsorily required to get a Risk Disclosure Document signed by the client, at the time of client registration - State True or False?
+True
+False
+
+¥ CORRECT ANSWER 4
+Explanation:
+
+The broker is required to get a Risk Disclosure Document signed by the client, at the time of client registration. This document informs clients about the kind of risks that derivatives can involve for the client. It
+makes the client aware and well informed.
+
+Meghna wants to sell 34 contracts of ABC futures at Rs. 2450 (contract multiplier is 50) . Initial margin is 7%. How much will be the i
+Rs. 4165000
+Rs. 83300
+Rs. 5831
+Rs. 291550
+
+itial margin to be paid ?
+
+v CORRECT ANSWER a
+Explanation:
+
+Initial Margin = Number of Contracts x Price per Contract x Contract Multiplier x Margin Rate
+Initial Margin to be collected from Meghna : 34 contracts x Rs 2450 X X 50 (Market lot) at 7%
+
+= Rs 4165000 x 7% = Rs 291550
+
+Arbitrage is basically earning a risk-free profit by simultaneous buying and selling replicating assets in two or more different markets - State True or False?
+True
+False
+
+¥ CORRECT ANSWER 4
+Explanation:
+
+Arbitrage is a deal that produces profit by exploiting a price difference in a product in two different markets. Arbitrage originates when a trader purchases an asset cheaply in one location and simultaneously
+arranges to sell it at a higher price in another location.
+
+In case of a member’s default, the Clearing Corporation cannot transfer clients positions to another member or close out all open positions of defaulting member, without prior approva
+from SEBI — State True or False ?
+
+True
+False
+
+% WRONG ANSWER
+CORRECT ANSWER:
+
+False
+
+Explanation: 4
+As per SEBI rules - The Clearing Corporation can transfer client positions from one broker member to another broker member in the event of a default by the first broker member.
+
+Areportis then sent to SEBI regarding this.
+
+roanny Vurpurauun aute ae a eyer CUS party ww an auce uF ocy!
+
+For which type of options is it profitable to exercise the options ?
+At the Money
+Out of the Money
+In the Money
+None of the above
+
+% WRONG ANSWER
+CORRECT ANSWER:
+
+In the Money
+Explanation: 4
+
+IN THE MONEY - A call option with a strike price that is lower than the market price of the underlying asset, or a put option with a strike price that is higher than the market price of the underlying asset. In the
+money means that your stock option is worth money and you can turn around and sell or exercise it.
+
+For example, consider a stock that is trading at Rs 100. For such a stock, call options with strike prices below Rs 100 would be In the money calls ( ie Rs 80, Rs 90 calls) while put options with strike prices above
+Rs 100 (Rs 110 , Rs 120 calls etc.) would be In the money puts.
+
+For easy understanding, those calls or puts which are profitable are In the Money.

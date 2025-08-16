@@ -1,0 +1,97 @@
+The IPF (Investor Protection Fund) for the derivatives segment is
+Same as that of cash segment
+Independent of that of cash segment
+There is no IPF in derivatives segment
+100% Contributed by Ministry of Finance
+
+¥ CORRECT ANSWER a
+Explanation:
+
+Clearing corporations are required to have in place a Core Settlement Guarantee Fund (Core SGF). The primary objective of the Core SGF is to have a fund for each segment (for e.g., Cash, F&O, CD, etc.) to
+guarantee the settlement of trades executed in the respective segment of the stock exchange.
+
+The Investor Protection Fund Trust, based on the recommendations of the Member and Core Settlement Guarantee Fund Committee, compensates the investors to the extent of funds found insufficient in
+Defaulters’ account to meet the admitted value of claim.
+
+Mr. Sriniwas takes a short position in a call option but does not take any offsetting position in the underlying stock. This strategy is known as
+Writing a covered call
+Writing a naked call
+Butterfly strategy
+Protective put strategy
+
+¥ CORRECT ANSWER
+Explanation:
+Naked position in options market simply means a long or short position in any option contract without having any position in the underlying asset.
+
+When one sells (short) a call it is also known as ‘writing’ a call.
+
+So the above strategy is - Writing a naked call option.
+
+With regards to futures market, BASIS is the ‘
+price of the underlying stock
+difference in price between spot and future prices
+risk free rate of interest
+volatility in the stock
+
+¥ CORRECT ANSWER
+Explanation:
+
+‘The difference between the spot price and the futures price is called basis.
+
+If the futures price is greater than spot price, basis for the asset is negative. Similarly, if the spot price is greater than futures price, basis for the asset is positive.
+
+If the futures price of a stock is and open interest of the futures contract of that stock is , then it signals a bullish trend.
+Falling , Rising
+Rising , Falling
+Rising , Rising
+Falling , Falling
+
+% WRONG ANSWER
+CORRECT ANSWER:
+
+Rising , Rising
+Explanation:
+Traders can decide whether to buy or sell futures based on changes in the open interest and the futures price.
+
+For eg - If the futures price is rising and open interest of the futures contract is also increasing, it signals a bullish trend. Traders usually prefer to go long the futures in such situations.
+
+Each forward contract can have a different delivery location, a different maturity date and a different contract size. State whether True or False?
+True
+False
+
+X WRONG ANSWER
+CORRECT ANSWER:
+
+True
+
+Explanation:
+Forward contract is a contractual agreement between two parties to buy/sell an underlying asset at a certain future date for a particular price that is pre-decided on the date of contract.
+
+Since forwards are negotiated between two parties, the terms and conditions of contracts are customized. Each contract can have a different delivery location, maturity date and contract size.
+
+State whether True or False - The Clearing Corporation of an Exchange has the power to disable a defaulting trading member from trading further.
+True
+False
+
+¥ CORRECT ANSWER
+Explanation:
+
+The Clearing Corporation has powers to levy additional margins, special margins, define maximum exposure limits and disable brokers from trading.
+
+Mr. Ashish had purchased 25 PUT options on a stock X by paying a premium of Rs 20 per put (strike price of Rs 180). The stock price has closed at Rs 240 on the exercise date. In such a
+situation. Mr. Ashish will choose to
+
+Exercise the option
+
+Not to exercise the option
+
+Exercise the option but should decline giving delivery of the underlying
+
+Exercise the option as he likes the company X and its management
+
+v CORRECT ANSWER sa
+Explanation:
+
+Mr. Ashish has bought Put options assuming that prices will fall and he will make a profit.
+
+But the price has risen and he is in a loss. So he will choose not to exercise his option. His loss will be restricted to the premium paid.

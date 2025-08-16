@@ -1,0 +1,83 @@
+Qi1.
+
+Qi2
+
+Q13.
+
+Qis.
+
+When a person enters into a forward contract, the loss that can occur on the position is
+known
+unknown
+
+¥ CORRECT ANSWER
+Explanation:
+
+When a person enters into a forward or a futures contract, his profits or losses are uncertain as it depends on the movement of prices.
+
+(Only in the case of buying an option, the losses are fixed ie. premium paid)
+
+You sold a call option on a share. The strike price of the Call was Rs 250 and you received a premium of Rs 16 from the option buyer. What can be the maximum loss on this position?
+Unlimited
+Zero
+Rs. 250
+Rs. 234
+
+¥ CORRECT ANSWER 4
+Explanation:
+
+When you sell a Call Option, you believe that the price will fall.
+
+If the price rises, you start making losses. Prices can rise theoretically to unlimited levels, so the losses can be unlimited.
+
+Clearing Member Mr. Prabhu focuses mainly on proprietary trading, while Clearing Member Mr. Mehta does not do any proprietary trades and does trades only for clients. If both have
+deposited the same amount of assets with Clearing Corporation, which of the following statement is true?
+
+Mr. Prabhu enjoys a lower exposure limit than Mr. Mehta
+
+Mr. Prabhu enjoys a higher exposure limit than Mr. Mehta
+
+Both of them enjoy the same exposure limits
+
+XX WRONG ANSWER
+CORRECT ANSWER:
+
+Mr. Prabhu enjoys a higher exposure limit than Mr. Mehta
+
+Explanation: 4
+On Indian stock exchanges, exposure limits are influenced by risk perception and type of trading activity:
+
++ Mr, Prabhu: Engages in proprietary trading (i.e., trades on his own account). Since the risk is limited to himself and not to clients, the risk to the Clearing Corporation is lower.
+
+- Mr. Mehta: Trades only for clients. This involves client-related risks (e.g., default risk, regulatory compliance), so the clearing corporation assigns stricter risk controls and lower exposure limits for client-only
+clearing members.
+
+Even if both have deposited the same collateral, proprietary traders are generally allowed higher exposure limits due to the lower systemic risk they pose.
+
+Atickis ts
+Minimum price difference between two buy quotes
+Minimum price difference between two sell quotes
+Both 1 and 2
+None of the above
+
+¥ CORRECTANSWER 4
+Explanation:
+
+Tick Size is the minimum move allowed in the price quotations.
+
+(Eg - Suppose the tick size is 5 paise. A buyer has entered an order to buy at Rs 100. If some other buyer wants to enter a buying quote at a higher price, he can quote the price as Rs 100.05 and not 100.01)
+
+A stock index like Nifty F
+is a basket of stocks
+can be easily manipulated
+Both 1 and 2
+None of the above
+
+X WRONG ANSWER
+CORRECT ANSWER:
+
+is a basket of stocks
+
+Explanation:
+
+Stock Index like Nifty and Sensex consists of a basket of stocks and so its very difficult / almost impossible to manipulate the index.

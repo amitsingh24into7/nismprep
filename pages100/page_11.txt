@@ -1,0 +1,67 @@
+Q 62.
+
+Q 63.
+
+Q64.
+
+For portfolio hedging by institutions and mutual funds, index based derivatives are more suitable and are much more cost effective than derivative based on individual stocks - State
+True or False ?
+
+True
+
+False
+
+¥ CORRECT ANSWER A
+Explanation:
+
+A portfolio consists of many stocks and not all stocks are available for trading in the futures/derivatives market. Also many stock futures have low volumes. Therefore institutions use index based derivatives for
+hedging. Although it may not give a perfect hedge but with proper choice of index futures, a good hedge can be created.
+
+A Trading cum Clearing Member is responsible to the exchange for his transactions & also for the position of his trading members under him - True or False ?
+False
+True
+
+¥ CORRECT ANSWER a&
+Explanation:
+
+Trading cum Clearing Member: This is a Clearing Member (CM) who Is also a Trading Member (TM) of the exchange. Such CMs may clear and settle their own proprietary trades, their clients’ trades as well as
+trades of other Trading Members.
+
+A default by a member in the derivatives segment will be not be treated as default in the cash segments of that exchange - State True or False ?
+False
+True
+
+XX WRONG ANSWER
+CORRECT ANSWER:
+
+False
+
+Explanation:
+
+A default by a member in the derivatives segment will be treated as default in all segments of that exchange and as default on all exchanges where he is a member.
+
+Does trading in derivatives become expensive due to high margins ? State Yes or No.
+Yes
+No
+
+¥ CORRECTANSWER
+Explanation:
+
+Cost components of futures transaction include margins, transaction costs (commissions), taxes etc.
+
+So higher the margins more expensive the trading.
+
+risk is the component of price risk that is unique to particular events of the company and/or industry and this risk could be reduced to a certain extent by diversifying the
+portfolio.
+Unsystematic Risk
+Systematic Risk
+Arbitrage Risk
+Interest Rate Risk
+
+% WRONG ANSWER
+CORRECT ANSWER:
+
+Unsystematic Risk
+Explanation: a
+
+‘The risk that is specific to an industry or firm. Examples of unsystematic risk include losses caused by labor problems, nationalization of assets etc. Also called diversifiable risk

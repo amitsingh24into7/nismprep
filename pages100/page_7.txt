@@ -1,0 +1,92 @@
+Q39.
+
+Q40.
+
+Q41.
+
+Q 42.
+
+Q43.
+
+If the price of a future contract increases, the mark to market margin account of the holder of the short position in that contract is credited for the gain. State whether True or False ?
+True
+False
+
+X WRONG ANSWER
+CORRECT ANSWER:
+
+False
+Explanation: rN
+
+In a short position, if the price increases, there is a loss. So, the mark to market margin will be debited.
+
+The absolute amount of minimum capital adequacy requirement for derivative brokers is same as that for cash market - True or False ?
+True
+False
+
+v CORRECT ANSWER
+Explanation:
+
+The absolute amount of minimum capital adequacy requirement for derivative brokers/dealers has to be much higher than for cash market.
+
+Further, if a broker/dealer is involved both in cash and futures segments, or in several exchanges, the capital adequacy requirement should be satisfied for each exchange/segment separately.
+
+Change in option premium for a unit change in is known as Rho.
+market volatility
+Price of the underlying asset
+Risk free interest rate
+liquidity
+¥ CORRECTANSWER
+Explanation:
+
+Rho is the change in option price given a one percentage point change in the risk-free interest rate.
+
+The 'Ask' price is the price at which .
+the clearing corporation settles the transaction
+the trader is prepared to sell the share
+the trader is prepared to purchase the share
+the trader is prepared to either buy or sell the share
+
+X WRONG ANSWER
+CORRECT ANSWER:
+
+the trader is prepared to sell the share
+
+Explanation:
+BID-ASK price means Buyer and Seller price - eg The BID-ASK price of a stock as seen on the trading screen is Rs 100 - 101
+So Ask price is the price at which the trader is prepared to sell the share ( i.e. Rs 101 in above example)
+
+The ‘Ask’ price (or Offer price) represents the lowest price a seller is willing to accept for a security, while the "Bid' price is the highest price a buyer is willing to pay.
+
+In India, futures and options on individual stocks are allowed on.
+A few selected stocks only
+All stocks listed on any of the exchanges
+All stocks with stock price of more than Rs.100 or Rs 50 in A and B group resp.
+Only those stocks which are simultaneously listed on all the stock exchange in India
+
+¥ CORRECT ANSWER
+Explanation:
+
+Only those stocks are included to be traded in the derivatives segment which meet the SEBI / Exchange criteria for derivatives trading.
+
+Higher the price volatility, higher would be the initial margin requirement - State True or False ?
+True
+False
+
+v CORRECT ANSWER
+Explanation:
+
+If the price of a stock is very volatile, the risk of losses increases. So the Stock Exchanges collect higher initial margins in such cases.
+
+In a derivative exchange, the net worth requirement for a clearing member is higher than that of a non-clearing member (ie. a member who only clears his trades).
+True
+False
+
+% WRONG ANSWER
+CORRECT ANSWER:
+
+True
+
+Explanation:
+Clearing Member Eligibility Norms : Net-worth of at least Rs.300 lakhs.
+The Net-worth requirement for a Clearing Member who clears and settles only deals executed by him is Rs. 100 lakhs.

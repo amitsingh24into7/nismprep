@@ -1,0 +1,11 @@
+250 in , the strike price and market price are equal.
+
+Out-of-the money option
+Same-the-money option
+At-the-money option
+In-the-money option
+
+¥ CORRECT ANSWER
+Explanation:
+
+At-the-money (ATM) option: At-the-money option would lead to zero cash flow if it were exercised immediately. Therefore, for both call and put ATM options, strike price is equal to spot / market price.

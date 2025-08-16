@@ -1,0 +1,88 @@
+Q33.
+
+Q 34.
+
+Q35.
+
+Q36.
+
+Q37.
+
+The volatility estimation methodology is known only to the Clearing Corporation and not to others - State True or False?
+True
+False
+
+¥ CORRECT ANSWER A
+Explanation:
+
+Volatility is the magnitude of movement in the underlying asset's price, either up or down. It affects both call and put options in the same way. Higher the volatility of the underlying stock, higher the premium.
+
+Calculation of volatility is not a secret. There are many formulas available. For example, many option traders calculate this expected volatility by running the Black-Scholes model in the reverse order.
+
+If the futures price is rising but open interest is declining, it indicates
+Short Covering
+Long positions are being squared up
+Flat trend
+Very Volatile trend
+
+¥ CORRECT ANSWER
+Explanation:
+
+If the futures price is rising but open interest is declining, it indicates short-covering. It usually indicates that existing short positions are being squared up.
+
+is an order with a Time Condition.
+Stop-Loss order
+Good till cancelled order
+Market order
+Limit order
+
+v CORRECT ANSWER a
+Explanation:
+
+Good Till Cancel (GTC) is a type of order that enables client to place buying and selling orders with specifying time interval for which instruction of request remains valid. The maximum validity of a GTC order is
+365 days.
+
+Miss Tanisha has gone short on October Futures on ABC stock at 2300. She will make a profit if futures price move to
+2250
+2350
+2325
+2450
+
+v¥ CORRECTANSWER
+Explanation:
+
+Ashort futures position will be profitable if the price falls below the sale price. In the above question, the sale price is Rs 2300. Therefore, when the futures price falls to Rs 2250, there will be profits.
+
+What does Value-at-risk measures?
+value of a volatile portfolio
+Risk level of a financial portfolio
+Value of illiquid shares portfolio
+Index PE value
+
+> WRONG ANSWER
+CORRECT ANSWER:
+
+Risk level of a financial portfolio
+
+Explanation:
+
+Value at Risk calculates the expected maximum loss, which may be incurred by a portfolio over a given period of time and specified confidence level.
+
+Mr. Nayar has purchased 8 contracts of March series and sold 6 contracts of April series of the NSE Nifty futures. How many lots will get categorized as Regular (non-spread) open
+positions?
+
+14
+
+8
+
+2
+
+6
+
+¥ CORRECTANSWER 4a
+Explanation:
+
+Various future contract position in the same underlying ( even at various expiry dates ) are netted off before arriving at open position. Here in this case its 8 - 6 = 2.
+
+This is because a long and a short position in the same underlying will have no risk (if one will make profit, the other will be in a simillar loss) and only the open position will have the risks and margins will be
+collected from these open positions.

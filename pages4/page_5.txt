@@ -1,0 +1,84 @@
+Q25.
+
+Q28.
+
+Q29.
+
+If the interest rate increases, the premium on CALL option will also increase - State True or False ?
+True
+False
+
+¥ CORRECTANSWER
+Explanation:
+
+Relationship between Interest Rates and Option Premiums:
+
+- Interest rates affect the cost of carry. Higher interest rates increase the cost of holding the underlying asset.
+
+- For call options, higher interest rates make it more attractive to hold the option rather than the underlying asset. This increased attractiveness translates to a higher premium.
+- Conversely, for put options, higher interest rates tend to decrease the premium.
+
+Therefore, an increase in interest rates generally leads to an increase in the premium of a call option.
+
+The Clearing Corporation gives exposure limits to Clearing Members based on the number of Trading Members using the services of that Clearing Member - State True or False ?
+True
+False
+
+X WRONG ANSWER
+CORRECT ANSWER:
+
+False
+Explanation: 4
+
+Clearing Corporation gives exposure limits to Clearing Members based on deposits and not the number of members with that clearing member.
+
+In derivative exchanges, the exposure amount possible for each member broker is linked to the amount of deposits / margins kept by the member with the clearing house - True or False
+z
+
+True
+False
+
+¥ CORRECT ANSWER 4a
+Explanation:
+
+Higher the deposits / margins kept, more will be the exposure amount available to the member brokers.
+
+Which of these is/are true for Unsystematic Risk ?
+Unsystematic Risk is related to risk in a specific security and not pertaining to overall market
+Unsystematic Risk can be reduced through diversification
+Both 1 and 2
+None of the above
+
+¥ CORRECT ANSWER
+Explanation:
+
+Unsystematic Risk (also called specific risk) refers to the risk associated with a particular company or industry, and not the overall market.
+Examples include: Company management changes, Strike in factory, Regulatory issues affecting a specific sector etc.
+
+It can be reduced or eliminated through diversification, by holding a well-diversified portfolio of assets across different sectors and companies.
+
+How can risks be controlled in the derivatives segment by the stock exchange ?
+By implementing a effective margin system
+By having a well organized control systems and audit procedures
+By periodic evaluation of member positions
+All of the above
+
+% WRONG ANSWER
+CORRECT ANSWER:
+
+All of the above
+
+Explanation:
+
+All the above steps need to be taken to control risks in the derivative segment.
+
+In the derivative segment, once initial margin requirement is fixed, it cannot be changed by the exchange, during the lifetime of the futures contract - State True or False ?
+True
+False
+
+v CORRECT ANSWER A
+Explanation:
+
+The initial margin is dependent on price movement of the underlying asset.
+
+So the Initial Margin levels are dynamic and recalculated continuously based on volatility levels.

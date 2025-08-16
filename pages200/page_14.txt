@@ -1,0 +1,90 @@
+Q74.
+
+Q 76.
+
+Q77.
+
+Q7.
+
+Beta of a portfolio is 1.3 and the portfolio value is Rs 9,00,000. The benchmark index level is 8000 and one futures contract lot size is 75. Calculate the number of contracts required for a
+good hedge?
+
+5 contracts
+
+4 contracts
+
+3 contracts
+
+2 contracts
+
+2% WRONG ANSWER
+CORRECT ANSWER:
+
+2 contracts
+
+Explanation:
+
+Hedge Ratio = Value of the portfolio x Beta of the portfolio / Value of index futures contract
+=9,00,000 x 1.3/ 8000
+
+= 146.25
+
+Contracts required for a good hedge = 146.25 / Contract size = 146.25 / 75 = 1.95
+
+‘Since one cannot hedge 1.95 contracts, the hedge will be for 2 futures contracts.
+
+In futures contract, the clearing house / clearing corporation practically becomes the counter party for all transactions - State True or False ?
+True
+False
+
+¥ CORRECT ANSWER
+Explanation:
+
+Clearing Corporation is responsible for clearing and settlement of all trades executed on the F&O Segment of the Exchange.
+
+Clearing Corporation acts as a legal counterparty to all trades on this segment and also guarantees their financial settlement.
+
+If you buy a PUT option at premium of Rs 37 at the Strike Price of Rs 260, then the maximum possible loss on this position is
+Unlimited
+Rs 37
+Rs 297
+Rs 223
+
+¥ CORRECTANSWER A
+Explanation:
+
+‘The maximum possible loss for a buyer of any option is the premium paid. Here you have paid Rs 37 as premium to buy a put option, so the maximum possible loss is Rs 37.
+
+More Explanation - Buying a PUT means expecting the price to fall. When the price falls, the premium rises and you make a profit. When price rises, the premium falls so the buyer of put makes a loss.
+In above case the premium can technically fall from Rs 37 to zero, so the maximum loss is Rs 37.
+
+Hedging would ensure that your profits are always on the higher side compared to an unhedged position - State True or False ?
+True
+False
+
+¥ CORRECT ANSWER
+Explanation:
+
+Hedging controls your losses but also controls your profits. It does not ensure higher profits.
+
+An open position can give you more profits or more losses.
+
+If the tick size of a scrip is 5 paise and the spot price of that scrip is Rs. 70, what will be the next upward tick ?
+69.95
+70.005
+70.05
+70.50
+
+7 CORRECT ANSWER
+Explanation:
+
+Tick size is the minimum move allowed in the price quotations. So a 5 paise tick size will lead to a upward tick of .05.
+
+Forward contracts are OTC contracts - True or False ?
+True
+False
+
+¥ CORRECTANSWER
+Explanation:
+
+The forward contracts are negotiated between two parties, the terms and conditions of contracts are customized as per their requirements. These are OTC contracts.

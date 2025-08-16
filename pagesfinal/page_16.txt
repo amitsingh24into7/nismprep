@@ -1,0 +1,106 @@
+Q 89.
+
+Q90.
+
+Q93.
+
+When the initial margin is kept at lower levels, it becomes attractive for market participants to transact in the derivatives market - State whether True or False?
+True
+False
+
+v CORRECT ANSWER A
+Explanation:
+
+The Clearing Corporation generally keeps the margins for derivatives trading on the higher side as the risk of losses are high and it wants only financially strong traders to trade in the derivatives market.
+
+Ifthe margins are kept on a lower side, many more traders will start trading in the derivatives market.
+
+Identify the TRUE statement with respect to Futures Contracts?
+Futures contracts and Forward contracts are basically one and the same
+Futures contracts can be traded either on the OTC market or on an exchange
+Futures contracts can be traded only on OTC market
+Futures contracts can be traded only on an exchange
+
+% WRONG ANSWER
+CORRECT ANSWER:
+
+Futures contracts can be traded only on an exchange
+
+Explanation:
+A futures contract is similar to a forward, except that the deal is made through an organized and regulated exchange rather than being negotiated directly between two parties.
+
+Futures are also standardized contracts (in terms of their lot size, maturity date, etc.) so that they can be traded on the exchange. Indeed, we may say futures are exchange traded forward contracts.
+
+The Unique Client Code, which is allotted by the broker, is linked to the a
+Trading Account
+Demat Account
+Aadhaar card number
+PAN CARD number
+
+X wRONc ANSWER
+CORRECT ANSWER:
+
+PAN CARD number
+
+Explanation:
+
+In the process of on-boarding a new client, the broker allots a Unique Client Code (UCC) to the client. The UCC is linked to the PAN of the client and serves as an exclusive identification of the client.
+
+If there are three series of one, two and three months futures open at a given point of time, how many calendar spread possibilities can arise?
+4
+
+2
+3
+4
+
+Y CORRECT ANSWER
+Explanation:
+
+The three calendar spreads can be between months 1 and 2, 2 and 3 and 1 and 3.
+
+Which type of order will you place to buy/sell a certain quantity of a share at a specified price or better.
+All or none order
+Limit order
+Market order
+Good for day order
+
+v CORRECT ANSWER A
+Explanation:
+
+Limit order is an order to buy or sell a contract at a specified price. The user has to specify this limit price while placing the order and the order gets executed only at this specified limit price or at a better price
+than that.
+
+Ms. Mishra sold a Put option of strike Rs 500 on PQR stock for a premium of Rs 50. The lot size is 1000. On expiry day, PQR stock closed at Rs. 440. What is Ms. Mishra’s net profit (+) or
+loss (-) ?
+
++ 20,000
+
+- 20,000
+
++ 10,000
+
+- 10,000
+
+X WRONG ANSWER
+CORRECT ANSWER:
+
+~ 10,000
+
+Explanation:
+When one sells a put option, the view is bullish ie. price will rise. Here the price has fallen by Rs 60 (500-440). So there is a loss of Rs 60.
+When one sells an option, premium is received. Premium received is Rs 50.
+
+Therefore Net loss = 60 - 50 = 10 x lot sixe of 1000 = 10000 loss.
+
+The volatility estimation methodology =
+Is known only to clearing corporations
+Is known to all market participants
+Is kept secret by the exchanges
+Is known to only institutional clients
+
+v CORRECTANSWER 4a
+Explanation:
+
+Volatility is the magnitude of movement in the underlying asset's price, either up or down. It affects both call and put options in the same way. Higher the volatility of the underlying stock, higher the premium.
+
+Calculation of volatility is not a secret. There are many formulas available. For example, many option traders calculate this expected volatility by running the Black-Scholes model in the reverse order.

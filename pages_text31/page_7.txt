@@ -1,0 +1,79 @@
+Q34.
+
+Q35.
+
+236.
+
+Identify the FALSE statement.
+For Call Options : With decrease in strike price, the premium on call increases
+For Call Options : With increase in strike price, the premium on call increases
+For Put Options : With increase in strike price, the premium on put increases
+For Put Options : With decrease in strike price, the premium on put decreases
+
+X WRONG ANSWER
+CORRECT ANSWER:
+
+For Call Options : With increase in strike price, the premium on call increases
+
+Explanation:
+Call Option Premium Behavior:
+
+ACall Option gives the buyer the right (but not the obligation) to buy an asset at a specified strike price before expiration.
+
+© If the strike price decreases, the option becomes more attractive because the buyer can purchase the asset at a cheaper price. This increases the premium. (Statement 4 is TRUE)
+* Conversely, if the strike price increases, the call option becomes less attractive, reducing the premium. (Statement 2 is FALSE)
+
+Put Option Premium Behavior:
+A Put Option gives the buyer the right to sell an asset at a specified strike price before expiration.
+
+© If the strike price increases, the put option becomes more valuable since the asset can be sold at a higher price, leading to a higher premium. (Statement 3 is TRUE)
+© If the strike price decreases, the put option becomes less attractive, leading to a lower premium. (Statement 4is TRUE)
+
+Conclusion: Since statement 2 contradicts the basic principle of call options, it is the false statement.
+
+guarantees the performance of exchange traded contracts.
+Clearing Corporation
+SEBI
+Depositories
+Custodians
+
+v CORRECT ANSWER 4a
+Explanation:
+
+Clearing Corporation is responsible for clearing and settlement of all trades executed in the F&O Segment of the Exchange. According to the legal principle of ‘novation’, the Clearing Corporation becomes the
+central counterparty to all trades that take place on the exchange’s derivatives platform.
+
+Aclearing corporation guarantees contract performance (settlement of transactions).
+
+If there is no cross margining between cash and derivative segments of an exchange, this will
+Promotes economic inefficiency
+Increase the cost of trading
+Reduces the volumes for given level of risk capital in the economy
+All of the above
+
+X WRONG ANSWER
+CORRECT ANSWER:
+
+All of the above
+Explanation: 4
+If cross margining is not allowed between the cash and derivative segments, it leads to the following:
+
+Promotes economic inefficiency -Without cross margining, traders must maintain separate margins for positions that may offset each other (e.g., long in cash and short in futures), which is inefficient from a
+capital utilization perspective.
+
+Increases the cost of trading - More margin requirements mean higher capital tied up, increasing the opportunity cost and overall trading cost.
+
+Reduces the volumes for a given level of risk capital in the economy - Since capital is not optimally used, the same amount of risk capital supports fewer trades, reducing trading volumes.
+
+How should a seller of an option treat the premium received in his books of accounts?
+It should be treated as an Income
+It should be treated as an Expense
+It should be treated as an Asset
+It should be treated as a Liability
+
+¥ CORRECTANSWER A
+Explanation:
+
+‘The buyer/ holder of the option is required to pay the premium. In the books of the buyer/ holder, such premium should be debited to an appropriate account, say, "Equity Index/ Stock Option Premium Account".
+
+In the books of the seller/ writer such premium received should be credited to an appropriate account, say, "Equity Index/ Stock Option Premium Account".

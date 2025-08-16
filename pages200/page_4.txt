@@ -1,0 +1,105 @@
+Q19.
+
+Q 20.
+
+Q21.
+
+Q 23.
+
+Q 24.
+
+Astock exchange has ON LINE SURVEILLANCE capability to monitor the
+Volumes
+Prices
+Positions
+All of the above
+
+¥ CORRECT ANSWER
+Explanation:
+
+All modern stock exchanges have highly developed online surveillance sytems to monitor the volumes / position and prices of all listed products and also check any unusual activity etc. in them.
+
+Equities can also be traded through Professional Clearing Members.
+True
+False
+
+> WRONG ANSWER
+CORRECT ANSWER:
+
+False
+
+Explanation:
+
+Professional clearing member clears the trades of his associate Trading Member and institutional clients. He need not be a member of an exchange.
+
+Important element (s) of risk management in the derivatives segment is (are) :
+Monitoring capital adequacy requirements of members
+Regular evaluation of trading members positions
+Collection of Margins
+All of the above
+
+¥ CORRECT ANSWER
+Explanation:
+
+Exchanges, with the help of Clearing Corporations, manage the risk in the derivatives segment using a comprehensive risk containment mechanism.
+There are stringent requirements of capital adequacy for membership (Financial strength of a member)
+
+The most critical component of risk containment mechanism for F&O segment is the margining system and online position monitoring.
+
+Whatis a covered call ?
+Its a strategy to sell calls at various strike prices to profit from the premium received
+Its used to generate extra income from existing holdings in the cash market.
+Its a strategy of buying a call and sell its future for hedgeing
+Its done by buying a call and put of the same strike price.
+
+% WRONG ANSWER
+
+CORRECT ANSWER:
+
+Its used to generate extra income from existing holdings in the cash market.
+
+4a
+
+Explanation:
+
+Acovered call is an options trading strategy where an investor sells (writes) a call option while owning the underlying stock. This strategy helps generate extra income through the premium received from selling
+the call.
+
+How It Works:
+
+- The trader already owns the stock in the cash market.
+
+- They sell a call option on the same stock, collecting a premium.
+
+- If the stock price remains below the strike price, the trader keeps the premium as profit.
+
+- If the stock price rises above the strike price, the trader may have to sell the stock at the strike price, potentially limiting their upside gains.
+
+A trader buys a call and a put option of same strike price and same expiry. This is called as
+Butterfly
+Short Straddle
+Long Straddle
+Calendar Spread
+
+/ CORRECTANSWER a
+Explanation:
+
+To do a long straddle strategy one has to buy a call and a put option of the same strike price and expiry. Together, they produce a position which will lead to profits if the market / stock is very volatile and it makes
+a big move - either up or down.
+
+For eg- A person buys a Rs 200 call at Rs 30 and a Rs 200 put at Rs 20 of a stock. If the stock rises significantly the call will rise greatly but his put will fall by maximum Rs 20. So he makes a good profit. If the
+stock falls significantly, he loses his call money buy gains greatly in the put option as it rises.
+
+Thus the Long Straddle is used when a trader expects a big move in the stock - in any direction is ok.
+
+Position limits have been designed to
+prevent the markets from being wrongly influenced by Government policies
+support the market and determine its movements
+stop the markets being wrongly influenced by the trading activities of investor(s)
+all of the above
+
+Y CORRECTANSWER
+Explanation:
+Position limits are the maximum exposure levels which the entire market can go up to and each Clearing Member or investor can go up to.
+
+Position limits for the entire market and Clearing Members and investors are defined by SEBI.

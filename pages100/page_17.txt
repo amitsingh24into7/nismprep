@@ -1,0 +1,95 @@
+Qo4.
+
+Q95.
+
+Q97.
+
+Q98.
+
+Shorter the time to maturity of the call option, higher will be the time value - State whether True or False ?
+True
+False
+
+2 WRONG ANSWER
+CORRECT ANSWER:
+
+False
+
+Explanation:
+Other things being equal, options tend to lose time value each day throughout their life. This is due to the fact that the uncertainty element in the price decreases.
+
+Thus shorter the time to maturity, lower will be the time value.
+
+Mr. Anand asks his broker to buy certain number of contracts at the market price, this instruction is called,
+arbitrage order
+limit order
+stop loss order
+market order
+
+v CORRECT ANSWER
+
+Explanation:
+Amarket order is an order to buy or sell a contract at the best bid/offer price currently available in the market. Price is not specified at the time of placing this order.
+
+A Client Registration form contains client's
+investment objectives
+background
+beneficial identity
+all of the above
+
+¥ CORRECTANSWER 4
+Explanation:
+
+While opening a clients account, the broker should know some important details of his clients. Therefore the Client Registration form asks for deatils on the backgroung of the client ( to know if there is a criminal
+background or is not banned in any other manner, whether in terms of criminal or civil proceedings by any enforcement agency worldwide).
+
+The client should be identified by the intermediary by using reliable sources including documents/information. The intermediary should obtain adequate information to satisfactorily establish the identity of each
+new client and the purpose of the intended nature of the relationship.
+
+Any person who wishes to open a Trading Account must be given the following documents by his trading member -
+Complete version of all the laws of SEBI
+Risk disclosure document
+All the rules & regulations of the exchange
+SEBI guidelines on the subject
+
+¥ CORRECTANSWER
+Explanation:
+
+The broker is required to get a Risk Disclosure Document signed by the client, at the time of client registration.
+
+The ‘ASK’ price is always 2
+greater than the bid price
+equal to bid price
+lower than the bid price
+none of the above
+
+% WRONG ANSWER
+CORRECT ANSWER:
+
+greater than the bid price
+
+Explanation:
+
+Bid and Ask price means the Buyer and Seller price.
+
+For eg price of a stock as quoted on a stock market is Rs. 100 - 101.
+So 100 is the Bid price and 101 is the Ask price.
+
+The Ask will always be higher than Bid price.
+
+Mr. Mohan entered into a contract with Mr. Soham to buy 500 bags of Cotton at a price of Rs 800 per bag. Delivery of goods and payment of money will take place 4 months from now.
+Both Mr. Mohan and Mr. Soham have a right as well as an obligation under this contract. What type of contract is this?
+
+Options
+
+Forwards
+
+Futures
+
+Swaps
+
+¥ CORRECTANSWER a
+Explanation:
+
+Forward contract is an agreement made directly between two parties to buy or sell an asset on a specific date in the future, at the terms decided today. There is no Stock Exchange, Commodity Exchange
+etc.involved.

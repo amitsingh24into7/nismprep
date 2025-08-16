@@ -1,0 +1,77 @@
+Q13.
+
+Qs.
+
+Q16.
+
+A trader is very bearish on specific companies. However he is bullish on the market as a whole. Which of the following is the most appropriate strategy to take advantage from this view?
+sell the shares of those specific companies in futures and also sell index futures
+sell the shares of those specific companies in futures and buy index futures
+buy the shares of those specific companies in futures and sell index futures.
+do nothing
+
+¥ CORRECTANSWER A
+Explanation:
+The trader is bearish on specific companies : This means they expect the prices of these companies to fall. So, they should sell the futures of these specific companies.
+
+‘The trader is bullish on the overall market : This means they expect the market index to rise. So, they should buy index futures to benefit from the market's upward movement.
+
+This strategy allows the trader to profit from the decline in specific stocks while benefiting from the overall market's rise.
+
+The concept in which the derivative trader gets a higher exposure for the small portion of margin amount brought by him is called as
+Arbitrage
+
+Leverage
+Delta Hedgeing
+Speculation
+
+¥ CORRECT ANSWER
+Explanation:
+
+A trader in the future’s market pays a relatively small margin for market exposure in relation to the contract value. This is known as leverage.
+
+Which of the following problem(s) that exist in the forward contracts are solved by the Futures contracts ?
+acentral agency for monitoring
+settlement problems
+counter party risk
+all of the above
+
+¥ CORRECTANSWER Aa
+Explanation:
+
+Forwards are bilateral over-the-counter (OTC) transactions where the terms of the contract, such as price, quantity, quality, time and place are negotiated between two parties to the contract. There is a risk of an
+economic loss from the failure of counterparty to fulfil its contractual obligation.
+
+Futures markets were innovated to overcome the limitations of forwards. A futures contract is an agreement made through an organized exchange. The clearing corporation associated with the exchange
+guarantees settlement of these trades.
+
+Loss incurred on derivatives transactions can be carried forward for a period of 12 assessment years - State whether True or False ?
+True
+False
+
+¥ CORRECT ANSWER
+Explanation:
+
+Loss incurred on derivatives transactions which are carried out in a recognized stock exchange can be carried forward for a period of 8 assessment years.
+
+Ashort position in a CALL option can be closed out by taking a long position in a PUT option with same exercise date and exercise price - State True or False ?
+True
+
+False
+
+¥ CORRECTANSWER
+Explanation:
+
+Ashort position in a CALL option can be closed out by taking a long position in a same CALL option with same exercise date and exercise price.
+
+Which of the following complaints can be taken up by the exchange for redressal ?
+Claims for notional loss, opportunity loss for the disputed period or trade
+Complaints pertaining to trades not executed on the Exchange by the complainant
+Claims of sub-broker/authorized persons for private commercial dealings with the trading member
+Excess Brokerage charged by Trading Member / Sub-broker
+
+7 CORRECT ANSWER &
+Explanation:
+
+Exchanges provide assistance if the complaints fall within the purview of the Exchange and are related to trades that are executed on the Exchange Platform. Excess Brokerage charged by Trading Member / Sub-
+broker comes under this assistance.

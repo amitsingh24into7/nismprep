@@ -1,0 +1,94 @@
+Q3.
+
+The relationship between the spot price and the future price is known as
+Dividend
+Risk premium
+Payout difference
+Cost of Carry
+
+X WRONG ANSWER
+CORRECT ANSWER:
+
+Cost of Carry
+
+Explanation:
+
+Cost of Carry is the relationship between futures prices and spot prices. For equity derivatives, carrying cost is the interest paid to finance the purchase less (minus) dividend earned.
+
+Longer the time to maturity of a PUT option, higher will be its
+Arbitrage value
+Technical and Fundamental value
+Intrinsic value
+Time value
+
+> WRONG ANSWER
+CORRECT ANSWER:
+
+Time value
+
+Explanation: A
+Time value of the option depends upon how much time is remaining for the option to expire. Longer the time to maturity, higher will be the time value.
+
+‘The effect of time to expiration on both call and put options is similar to that of volatility on option premiums. Generally, longer the maturity of the option greater is the uncertainty and hence the higher premiums.
+Ifall other factors affecting an option’s price remain same, the time value portion of an option’s premium will decrease with the passage of time.
+
+The price of Stock P and the price of stock Q is the same at Rs. 500. If every thing else is constant and if Stock P is more volatile than Stock Q, the call option on
+higher.
+
+Stock P
+
+Stock Q
+
+Both calls will be equally priced
+
+Inadequate information
+
+will be priced
+
+X WRONG ANSWER
+CORRECT ANSWER:
+
+Stock P
+
+Explanation: 4
+More the volatility in a stock, higher will be its price of its call and put option as compared to less volatile stocks of the same price.
+
+Vega is the measure of the sensitivity of an option price to changes in market volatility. It is the change of an option premium for a given change in the underlying volatility.
+
+Identify the correct statement with respect to a short position in a PUT option.
+Short position in a put option can be closed out by executing a long position in a put option with any exercise date and exercise price
+Short position in a put option can be closed out by executing a long position in a put option with the same exercise date and exercise price
+Short position in a put option can be closed out by executing a short position in a call option with the same exercise date and exercise price
+Short position in a put option can be closed out by executing a long position in a call option with the same exercise date and exercise price
+
+v CORRECT ANSWER
+Explanation:
+
+Ashort position in a Put Option can be closed out (squared up) only by buying the same Put Option of the same exercise date and exercise (strike) price.
+
+Which of these is not included in the Indian equity derivatives market ?
+Interest rate futures
+Individual stock options
+Individual stock futures
+Options on equity market indices
+
+% WRONG ANSWER
+CORRECT ANSWER:
+
+Interest rate futures
+
+Explanation:
+
+Although NSE and BSE allows trading in interest rate futures but it is not a part of equity derivatives.
+
+The last Thursday is usually the last trading day of a future series. If its a holiday on this day then which will be last trading day?
+The next working day
+The previous working day
+The first day of the next month
+Two days after
+
+v CORRECT ANSWER oN
+Explanation:
+
+Expiration Day: This is the day on which a derivative contract ceases to exist. It is the last trading day of the contract. Generally, it is the last Thursday of the expiry. If the last Thursday is a trading holiday, the
+contracts expire on the previous trading day.

@@ -1,0 +1,28 @@
+Q99.
+
+100.
+
+In index futures, if the near leg of the calendar spread transaction expires then the farther leg becomes a regular open position.
+True
+False
+
+v CORRECT ANSWER '
+Explanation:
+
+Calendar spread means an options or futures spread established by simultaneously entering a long and short position on the same underlying asset but with different delivery months.
+
+In the above question, lets assume a trader has gone long in index options in current month and short in index options in third month. Incase he does not close his position by the end of current month, his
+current month option will expire and the third month option contract will become an open position as there is no opposite option contract in his account.
+
+A short seller .
+Must own the share
+Must own at least 75% of the shares
+Need not own the shares
+None of the above
+
+¥ CORRECT ANSWER
+Explanation:
+
+Short Selling means the selling of a security that the seller does not own.
+
+Short sellers assume that they will be able to buy the stock at a lower amount than the price at which they sold short.

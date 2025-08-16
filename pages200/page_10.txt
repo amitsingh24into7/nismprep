@@ -1,0 +1,84 @@
+Q47.
+
+Q 48.
+
+Q49.
+
+Q 50.
+
+Q51.
+
+Q52.
+
+In the Options segment, if you buy a CALL, you expect the market / scrip to move
+Down
+Up
+One cannot buy a Call in options market
+Remain range bound
+
+v CORRECTANSWER
+Explanation:
+
+A buyer of a CALL Option has a bullish view - so he will expect the market / script to move up to make a profit.
+
+The right to buy an asset for a certain price on or before a specified date is the characteristics of a
+American Put Option
+American Call Option
+European Put Option
+European Call Option
+
+Vv CORRECT ANSWER
+Explanation:
+
+A Call Option gives the holder the right to buy the underlying asset on or before a particular date for a certain price.
+American option: The owner of such option can exercise his right at any time on or before the expiry date/day of the contract.
+Therefore, an American Call option gives the holder the right to buy an asset for a certain price on or before a specified date.
+
+(European option: The owner of such option can exercise his right only on the expiry date/day of the contract. In India, all Index and stock options are European)
+
+The spot price of Grasim Industries Ltd share is Rs 900, the call option of Strike Price Rs 850 is .
+At the money
+Out of the money
+In the money
+None of the above
+
+v¥ CORRECTANSWER
+Explanation:
+
+In call options, when the Spot price is higher than Strike price - that call option is In the Money.
+
+Acalendar spread contract in index futures attracts higher margin than sum of two independent legs of futures contract.
+False
+
+True
+
+¥ CORRECT ANSWER
+Explanation:
+
+Acalendar spread contract in index futures attracts LOWER margin than sum of two independent legs of futures contract. This because the risk is very less on calender spreads.
+
+When a stock which is part of the index has a stock split, it does not have an impact on the index.
+True
+False
+
+X WRONG ANSWER
+CORRECT ANSWER:
+
+True
+
+Explanation:
+
+Stock Split has an effect on Options, Strike Price etc. but has no impact on the index as such.
+
+Generally the Future prices converge to Spot prices on expiry day - True or False?
+False
+True
+
+> WRONG ANSWER
+CORRECT ANSWER:
+
+True
+Explanation:
+Future Price essentially means Spot Price + Cost of Carry ie. interest cost etc.
+
+On the expiry day ie. the last day, the cost of interest etc. will be nil, so the Future Price and Spot price should ideally be same.

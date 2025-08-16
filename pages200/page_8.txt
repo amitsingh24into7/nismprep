@@ -1,0 +1,68 @@
+23% The Option which gives its holder a positive cash flow is called a ss
+
+At the money option
+Out of the money option
+In the money option
+Delta
+
+¥ CORRECT ANSWER
+Explanation:
+
+An ‘In the money’ (ITM) option gives the holder a positive cash flow, if it were exercised immediately.
+
+Acall option is said to be ITM, when spot price is higher than strike price. And, a put option is said to be ITM when spot price is lower than strike price.
+
+23% The Option which gives its holder a positive cash flow is called a
+
+At the money option
+Out of the money option
+In the money option
+Delta
+
+¥ CORRECT ANSWER
+Explanation:
+
+An ‘In the money’ (ITM) option gives the holder a positive cash flow, if it were exercised immediately.
+
+Acall option is said to be ITM, when spot price is higher than strike price. And, a put option is said to be ITM when spot price is lower than strike price.
+
+An investor who is less risk averse would like to have greater exposure to equity and other risky investments compared to fixed income instruments - State True or False ?
+False
+True
+
+% WRONG ANSWER
+CORRECT ANSWER:
+
+True
+
+Explanation:
+Although Equity Markets can give good returns but they are quiet risky to invest. So only a less risk averse investor would prefer to invest in equity.
+Amore risk-averse investor would prefer investments that are more secure and thus would have higher portfolio allocations to debt and fixed income instruments.
+
+(Risk Averse person is reluctant to take risk. A more risk averse person plays very safe and does not take any risk. A less risk averse person can take some risks)
+
+241 You are interested in creating a perfect hedge for your portfolio. For this you need to sell index futures and the index futures sold should be equal to
+
+Value of your portfolio + Beta of your portfolio
+Value of your portfolio / Beta of your portfolio
+Value of your portfolio * Beta of your portfolio
+Value of your portfolio - Beta of your portfolio
+
+¥ CORRECTANSWER
+Explanation:
+
+To get a hedge, one has to multiply the beta of his portfolio with the value of the portfolio and them sell that value of index futures.
+
+Q42 wir. Shah purchased two futures contracts of Ambuja Cements Ltd at Rs. 600 (lot size 2000 shares). What will be his profit or loss if he sells them at Rs 607.
+
+Rs 14000
+Rs 28000
+Rs 20000
+Rs 27500
+
+¥ CORRECTANSWER
+Explanation:
+
+Mr Shah bought at Rs 600 and sold at Rs 607, so he made a profit of Rs 7.
+
+Lot size is Rs 2000 and he has purchased 2 lots, so 4000 shares x Rs 7 profit = Rs 28,000

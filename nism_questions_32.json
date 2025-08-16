@@ -1,0 +1,128 @@
+[
+    {
+        "question_number": "25",
+        "question_text": "In stock markets, Beta is a statistical measure of the sensitivity of the movement of a share price to the movement of prevailing interest rates - State True or False?",
+        "options": ["True", "False"],
+        "correct_answer": "False",
+        "explanation": "Beta measures the sensitivity of a stock / portfolio vis-a-vis index movement over a period of time, on the basis of historical prices."
+    },
+    {
+        "question_number": "20",
+        "question_text": "The trades done by dealers in their own account has to be totally segregated from the trades done in their clients account - State True or False?",
+        "options": ["True", "False"],
+        "correct_answer": "True",
+        "explanation": "The trades done by dealers are in the ‘PRO’ account ie. Proprietary account and the trades done by Clients are in the 'CLI' account."
+    },
+    {
+        "question_number": "227",
+        "question_text": "The Time value of an option is the portion of option premium that is linked to the amount of time left till expiry of the option contract and also due to the fact that the underlying components that determine the value of option may change during that time - State True or False?",
+        "options": ["True", "False"],
+        "correct_answer": "True",
+        "explanation": "Time value is a key component of an option’s premium, and it reflects two main ideas: Remaining time to expiry: The longer the time left, the more chance the option has to become profitable. As expiry nears, this value decays—this is called time decay or theta decay. Possibility of price movement: Since the underlying asset could change in price before expiry, the option retains extra value beyond its intrinsic value due to this uncertainty."
+    },
+    {
+        "question_number": "28",
+        "question_text": "In the Options segment, if you buy a PUT, you expect the market / scrip to move",      
+        "options": ["Up", "Down", "Range bound", "One cannot buy a PUT in options market."],
+        "correct_answer": "Down",
+        "explanation": "A buyer of a PUT option has a negative / bearish view and so he expects the market / script to move down to make a profit."
+    },
+    {
+        "question_number": "29",
+        "question_text": "What advantage does the screen based trading has over floor trading?",
+        "options": ["There are no set up costs in screen based trading", "There is transparency in trade execution and execution price", "The technology needs are lower", "There is no need to route the order through an exchange"],
+        "correct_answer": "There is transparency in trade execution and execution price",
+        "explanation": "Screen based (Trading thro’ computers) trading is fully transparent."
+    },
+    {
+        "question_number": "30",
+        "question_text": "When there is a ‘Closing buy transaction’, this will have the effect of partly or fully offsetting",
+        "options": ["Across position", "A short position", "A high position", "Along position"],
+        "correct_answer": "A short position",
+        "explanation": "Creating a Short Position means selling the asset on an exchange with a view to buy it back when the price falls. So a Closing Buy transaction will be used to buy back / offset the short position created."
+    },
+    {
+        "question_number": "31",
+        "question_text": "Mr P and Mr Q are brokers of a stock exchange . Both of them have maintained Rs 7 crores of liquid assets consisting of equity shares and other assets. Both have the same exposure limits on day one. Based on this, which of the following statements is true?",
+        "options": ["The minimum exposure possible for the two brokers may change from time to time based on the changes in those asset valuations, even if they do not withdraw the assets deposited", "The minimum exposure possible for the two brokers will remain same for ever, even if they withdraw the asset deposited subsequently", "The minimum exposure possible for the two brokers will remain the same forever as long as they do not withdraw the assets deposited", "None of the above"],
+        "correct_answer": "The minimum exposure possible for the two brokers may change from time to time based on the changes in those asset valuations, even if they do not withdraw the assets deposited",
+        "explanation": "The exposure depends on the value of assets deposited. Although both P and Q have deposited assets worth Rs.7 crores, the assets could be different (equity shares of different companies) and the value of these will become higher or lower as time passes. So the exposure limits will also change accordingly."        
+    },
+    {
+        "question_number": "32",
+        "question_text": "Ms. Deepika is bearish on the market, so she is expecting the market to",
+        "options": ["Rise", "Fall", "Remain constant", "Move sideways"],
+        "correct_answer": "Fall",
+        "explanation": "Investors who have a bearish on the stock or index expect the stock price or index level to fall, take a short position in the stock futures or index futures contract."
+    },
+    {
+        "question_number": "33",
+        "question_text": "Identify the True formula for Cost of Carry model.",
+        "options": ["Price of Futures = Cost of carry", "Price of Futures = Spot price", "Price of Futures = Spot + Cost of carry", "Price of Futures = Spot - Cost of carry"],
+        "correct_answer": "Price of Futures = Spot + Cost of carry",
+        "explanation": "Cost of Carry is the relationship between futures prices and spot prices. For stock derivatives, carrying cost Is the interest paid to finance the purchase."
+    },
+    {
+        "question_number": "34",
+        "question_text": "Identify the FALSE statement.",
+        "options": ["For Call Options : With decrease in strike price, the premium on call increases", "For Call Options : With increase in strike price, the premium on call increases", "For Put Options : With increase in strike price, the premium on put increases", "For Put Options : With decrease in strike price, the premium on put decreases"],
+        "correct_answer": "For Call Options : With increase in strike price, the premium on call increases",     
+        "explanation": "Call Option Premium Behavior: If the strike price decreases, the option becomes more attractive because the buyer can purchase the asset at a cheaper price. This increases the premium. Conversely, if the strike price increases, the call option becomes less attractive, reducing the premium."
+    },
+    {
+        "question_number": "35",
+        "question_text": "guarantees the performance of exchange traded contracts.",
+        "options": ["Clearing Corporation", "SEBI", "Depositories", "Custodians"],
+        "correct_answer": "Clearing Corporation",
+        "explanation": "Clearing Corporation is responsible for clearing and settlement of all trades executed in the F&O Segment of the Exchange. According to the legal principle of ‘novation’, the Clearing Corporation becomes the central counterparty to all trades that take place on the exchange’s derivatives platform. A clearing corporation guarantees contract performance (settlement of transactions)."
+    },
+    {
+        "question_number": "36",
+        "question_text": "If there is no cross margining between cash and derivative segments of an exchange, this will",
+        "options": ["Promotes economic inefficiency", "Increase the cost of trading", "Reduces the volumes for given level of risk capital in the economy", "All of the above"],
+        "correct_answer": "All of the above",
+        "explanation": "If cross margining is not allowed between the cash and derivative segments, it leads to the following: Promotes economic inefficiency -Without cross margining, traders must maintain separate margins for positions that may offset each other (e.g., long in cash and short in futures), which is inefficient from a capital utilization perspective. Increases the cost of trading - More margin requirements mean higher capital tied up, increasing the opportunity cost and overall trading cost. Reduces the volumes for a given level of risk capital in the economy - Since capital is not optimally used, the same amount of risk capital supports fewer trades, reducing trading volumes."
+    },
+    {
+        "question_number": "37",
+        "question_text": "How should a seller of an option treat the premium received in his books of accounts?",
+        "options": ["It should be treated as an Income", "It should be treated as an Expense", "It should be treated as an Asset", "It should be treated as a Liability"],
+        "correct_answer": "It should be treated as an Income",
+        "explanation": "The buyer/ holder of the option is required to pay the premium. In the books of the buyer/ holder, such premium should be debited to an appropriate account, say, 'Equity Index/ Stock Option Premium Account'. In the books of the seller/ writer such premium received should be credited to an appropriate account, say, 'Equity Index/ Stock Option Premium Account'."
+    },
+    {
+        "question_number": "38",
+        "question_text": "From the various complaints against a trading member given below, identify which one can be taken up by the exchange for redressal?",
+        "options": ["Complaints in respect of transactions which are already subject matter of arbitration proceedings", "Non-receipt of funds or securities", "Complaints relating to land dealings between a client and a trading member", "Claims for notional loss for the disputed period"],
+        "correct_answer": "Non-receipt of funds or securities",
+        "explanation": "Exchanges provide assistance if the complaints fall within the purview of the Exchange and are related to trades that are executed on the Exchange Platform. ‘Non-receipt of funds / securities’ comes under this assistance."
+    },
+    {
+        "question_number": "39",
+        "question_text": "Mr X sells one ABC stock futures contract at Rs. 745. What is his profit (+) or loss (-), if he purchases the contract back at Rs. 754 ? Lot size is 1500",
+        "options": ["+13500", "-13500", "+9800", "-9800"],
+        "correct_answer": "-13500",
+        "explanation": "When you sell a stock future contract you make a profit if the share price falls or you make a loss if the price rises. In this case, ABC stock futures has risen by Rs. 9 (754 - 745). So there will be a loss. Rs. 9 x 1500 (Lot size) = Loss of Rs 13500"
+    },
+    {
+        "question_number": "40",
+        "question_text": "Identify the CORRECT statement.",
+        "options": ["A short position in a put option can be closed out by taking a long position in a put option of any exercise price and exercise date", "A short position in a put option can be closed out by taking a long position in a call option with the same exercise price and exercise date", "A short position in a put option can be closed out by taking a long position in a put option with the same exercise price and exercise date", "A short position in a put option can be closed out by taking a short position in a call option with the same exercise price and exercise date"],
+        "correct_answer": "A short position in a put option can be closed out by taking a long position in a put option with the same exercise price and exercise date",
+        "explanation": "A closing transaction for an option involves the sale or purchase of an option contract with the same terms (contract specifications), i.e., an option with the same strike price and same expiry date. A short position in a put option means the trader has sold a put option and is obligated to buy the underlying asset if exercised. To close out this position, the trader must take an opposite position, which is buying (going long) the same put option with the same strike price and expiration date."
+    },
+    {
+        "question_number": "41",
+        "question_text": "Hedgers and speculators are two important participants of a securities market and they strike a balance due to their needs as",
+        "options": ["Hedger wants to avoids risk while the speculator wants to takes risk", "Hedger wants to takes risk while speculators wants to avoids risk", "Both hedgers and speculators want to avoid risk", "Both hedgers and speculators want to take risk"],
+        "correct_answer": "Hedger wants to avoids risk while the speculator wants to takes risk",
+        "explanation": "Corporations, Investing Institutions, banks and governments all use derivative products to hedge or reduce their exposures to market variables such as interest rates, share values, bond prices, currency exchange rates and commodity prices. Speculators/Traders try to predict the future movements in prices of underlying assets and based on the view, take positions in derivative contracts. They take a risk to make profits. Hedgers aim to hedge their risk where as speculators take the risk which hedgers plan to offload from their exposure."
+    },
+    {
+        "question_number": "42",
+        "question_text": "Mr. Harish had purchased 20 call options on a stock by paying a premium of Rs 10 per call (Strike price of Rs. 125). The stock price has closed at Rs. 100 on the exercise date. Based on economic rationale alone, Mr. Harish ‘a",
+        "options": ["Should exercise the option but he should not take delivery of the underlying", "Should exercise the option", "Should not exercise the option", "Should exercise the option as he likes the management of the company"],
+        "correct_answer": "Should not exercise the option",
+        "explanation": "Mr. Harish has purchased a call option which means he believed that the price of that call will go up. Instead the price has fallen. So he should not exercise the option and the maximum loss he will suffer is the premium paid by him."
+    }
+]

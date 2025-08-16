@@ -1,0 +1,137 @@
+[
+    {
+        "question": "Q20.",
+        "options": {},
+        "correct_option": "",
+        "explanation": "",
+        "raw_chunk": "Q20.",
+        "llm_raw": "Here is the extracted JSON:\n\n{\n  \"question\": \"Q20.\",\n  \"options\": {\n     \"a\": \"\",\n     \"b\": \"\",\n     \"c\": \"\",\n     \"d\": \"\"\n  },\n  \"correct_option\": \"\",\n  \"explanation\": \"\"\n}",
+        "confidence_est": 0.0
+    },
+    {
+        "question": "Q21.",
+        "options": {},
+        "correct_option": "",
+        "explanation": "",
+        "raw_chunk": "Q21.",
+        "llm_raw": "{ \"question\": \"Q21.\", \"options\": { \"a\": \"\", \"b\": \"\", \"c\": \"\", \"d\": \"\" }, \"correct_option\": \"\", \"explanation\": \"\" }",
+        "confidence_est": 0.0
+    },
+    {
+        "question": "Q22.",
+        "options": {},
+        "correct_option": "",
+        "explanation": "",
+        "raw_chunk": "Q22.",
+        "llm_raw": "Here is the extracted JSON:\n\n{\n  \"question\": \"Q22.\",\n  \"options\": {\n     \"a\": \"\",\n     \"b\": \"\",\n     \"c\": \"\",\n     \"d\": \"\"\n  },\n  \"correct_option\": \"\",\n  \"explanation\": \"\"\n}",
+        "confidence_est": 0.0
+    },
+    {
+        "question": "Q23.",
+        "options": {},
+        "correct_option": "",
+        "explanation": "",
+        "raw_chunk": "Q23.",
+        "llm_raw": "{ \"question\": \"Q23.\", \"options\": { \"a\": \"\", \"b\": \"\", \"c\": \"\", \"d\": \"\" }, \"correct_option\": \"\", \"explanation\": \"\" }",
+        "confidence_est": 0.0
+    },
+    {
+        "question": "Q27.",
+        "options": {},
+        "correct_option": "",
+        "explanation": "",
+        "raw_chunk": "Q27.",
+        "llm_raw": "Here is the extracted JSON:\n\n{\n  \"question\": \"Q27.\",\n  \"options\": {\n     \"a\": \"\",\n     \"b\": \"\",\n     \"c\": \"\",\n     \"d\": \"\"\n  },\n  \"correct_option\": \"\",\n  \"explanation\": \"\"\n}",
+        "confidence_est": 0.0
+    },
+    {
+        "question": "Q28.",
+        "options": {},
+        "correct_option": "",
+        "explanation": "",
+        "raw_chunk": "Q28.",
+        "llm_raw": "Here is the extracted JSON:\n\n{\n  \"question\": \"Q28.\",\n  \"options\": {\n     \"a\": \"\",\n     \"b\": \"\",\n     \"c\": \"\",\n     \"d\": \"\"\n  },\n  \"correct_option\": \"\",\n  \"explanation\": \"\"\n}",
+        "confidence_est": 0.0
+    },
+    {
+        "question": "Q29.",
+        "options": {},
+        "correct_option": "",
+        "explanation": "",
+        "raw_chunk": "Q29.",
+        "llm_raw": "Here is the extracted JSON:\n\n{\n  \"question\": \"Q29.\",\n  \"options\": {\n     \"a\": \"\",\n     \"b\": \"\",\n     \"c\": \"\",\n     \"d\": \"\"\n  },\n  \"correct_option\": \"\",\n  \"explanation\": \"\"\n}",
+        "confidence_est": 0.0
+    },
+    {
+        "question": "Q30.",
+        "options": {},
+        "correct_option": "",
+        "explanation": "",
+        "raw_chunk": "Q30.",
+        "llm_raw": "Here is the extracted JSON:\n\n{\n  \"question\": \"Q30.\",\n  \"options\": {\n     \"a\": \"\",\n     \"b\": \"\",\n     \"c\": \"\",\n     \"d\": \"\"\n  },\n  \"correct_option\": \"\",\n  \"explanation\": \"\"\n}",
+        "confidence_est": 0.0
+    },
+    {
+        "question": "Q32.",
+        "options": {},
+        "correct_option": "",
+        "explanation": "",
+        "raw_chunk": "Q32.",
+        "llm_raw": "{ \"question\": \"Q32.\", \"options\": { \"a\": \"\", \"b\": \"\", \"c\": \"\", \"d\": \"\" }, \"correct_option\": \"\", \"explanation\": \"\" }",
+        "confidence_est": 0.0
+    },
+    {
+        "question": "Q34.",
+        "options": {},
+        "correct_option": "",
+        "explanation": "",
+        "raw_chunk": "Q34.",
+        "llm_raw": "{ \"question\": \"Q34.\", \"options\": { \"a\": \"\", \"b\": \"\", \"c\": \"\", \"d\": \"\" }, \"correct_option\": \"\", \"explanation\": \"\" }",
+        "confidence_est": 0.0
+    },
+    {
+        "question": "Q35.",
+        "options": {},
+        "correct_option": "",
+        "explanation": "",
+        "raw_chunk": "Q35.",
+        "llm_raw": "Here is the extracted JSON:\n\n{\n  \"question\": \"Q35.\",\n  \"options\": {\n     \"a\": \"\",\n     \"b\": \"\",\n     \"c\": \"\",\n     \"d\": \"\"\n  },\n  \"correct_option\": \"\",\n  \"explanation\": \"\"\n}",
+        "confidence_est": 0.0
+    },
+    {
+        "question": "Q43.",
+        "options": {},
+        "correct_option": "",
+        "explanation": "",
+        "raw_chunk": "Q43.",
+        "llm_raw": "{ \"question\": \"Q43.\", \"options\": { \"a\": \"\", \"b\": \"\", \"c\": \"\", \"d\": \"\" }, \"correct_option\": \"\", \"explanation\": \"\" }",
+        "confidence_est": 0.0
+    },
+    {
+        "question": "Q46.",
+        "options": {},
+        "correct_option": "",
+        "explanation": "",
+        "raw_chunk": "Q46.\nQa47.",
+        "llm_raw": "Here is the extracted JSON:\n\n{\n  \"question\": \"Q46.\",\n  \"options\": {\n     \"a\": \"\",\n     \"b\": \"\",\n     \"c\": \"\",\n     \"d\": \"\"\n  },\n  \"correct_option\": \"\",\n  \"explanation\": \"\"\n}",
+        "confidence_est": 0.0
+    },
+    {
+        "question": "Q48.",
+        "options": {},
+        "correct_option": "",
+        "explanation": "",
+        "raw_chunk": "Q48.",
+        "llm_raw": "Here is the extracted JSON:\n\n{\n  \"question\": \"Q48.\",\n  \"options\": {\n     \"a\": \"\",\n     \"b\": \"\",\n     \"c\": \"\",\n     \"d\": \"\"\n  },\n  \"correct_option\": \"\",\n  \"explanation\": \"\"\n}",
+        "confidence_est": 0.0
+    },
+    {
+        "question": "Q49.",
+        "options": {},
+        "correct_option": "",
+        "explanation": "",
+        "raw_chunk": "Q49.",
+        "llm_raw": "Here is the extracted JSON:\n\n{\n  \"question\": \"Q49.\",\n  \"options\": {\n     \"a\": \"\",\n     \"b\": \"\",\n     \"c\": \"\",\n     \"d\": \"\"\n  },\n  \"correct_option\": \"\",\n  \"explanation\": \"\"\n}",
+        "confidence_est": 0.0
+    }
+]

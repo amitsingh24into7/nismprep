@@ -1,0 +1,102 @@
+In a one-month CALL option on PQR stock with a strike price of Rs. 700 is Out-of-the money. Identify which of these could be the spot price of PQR stock?
+Rs. 650
+Rs. 700
+Rs. 750
+Inadequate information
+
+% WRONG ANSWER
+CORRECT ANSWER:
+
+Rs. 650
+Explanation: 4a
+
+Out-of-the-money option is one with strike price worse than the spot price for the holder of option. In other words, this option would give the holder a negative cash flow if it were exercised immediately. A call
+option is said to be OTM, when spot price is lower than strike price.
+
+In the above question, the strike price is 700, therefore, when the spot price of 650, it will be Out-of-the-money call option.
+
+Ue Identify the FALSE statement with respect to Impact Cost.
+
+Impact cost is also to be considered while selecting stocks to be included in the index
+Impact cost is the same for the seller and the buyer of the stock
+
+Impact cost varies as per the transaction size
+
+Impact cost of a stock is a measure of its liquidity
+
+¥ CORRECT ANSWER A
+Explanation:
+
+Impact cost represents the cost of executing a transaction in a given stock, for a specific predefined order size, at any given point of time. It is the cost that a buyer or seller of stocks incurs while executing a
+transaction due to the prevailing liquidity condition on the counter.
+
+Impact cost can be different for buyers and sellers. For eg. - If there less sellers of a particular security in the market, then the impact cost will be higher for the buyers and vice versa.
+
+Qos. F _—
+is an example of a derivative on energy resources.
+
+Silver futures
+Copper futures
+Natural gas futures
+Rubber futures
+
+% WRONG ANSWER
+CORRECT ANSWER:
+
+Natural gas futures
+
+Explanation:
+
+Derivatives are also based on energy resources such as Oil (crude oil, products, cracks), Coal, Electricity, Natural Gas, etc.
+
+25 Which function of the Exchange is focussed at maintaining stability in the derivatives market?
+
+Risk Management
+
+Investor grievance handling
+Arbitration
+
+Listing
+
+> WRONG ANSWER
+
+CORRECT ANSWER:
+
+Risk Management
+
+Explanation: 4a
+
+Derivatives market enables the shift of speculative trades from unorganized market to organized market. Risk management mechanism and surveillance of activities of various participants in organized space
+provide stability to the financial system.
+
+Q57. Which are the two most important things to be considered while constructing an index?
+
+Liquidity and market capitalisation
+Impact cost and tracking error
+Risk and return
+
+Diversification and liquidity
+
+X WRONG ANSWER
+CORRECT ANSWER:
+
+Diversification and liquidity
+Explanation:
+
+A good index is a trade-off between diversification and liquidity. A well-diversified index reflects the behaviour of the overall market/economy.
+
+258 Mr. Surya has gone long on April Futures on ABC stock at 1200. He will make a loss if futures price move to
+
+1250
+1375
+1225
+1175
+
+> WRONG ANSWER
+CORRECT ANSWER:
+
+M75
+Explanation: A
+
+A long futures position will be loss making if the price falls below the purchase price. In the above question, the purchase price is Rs 1200. Therefore, when the futures price moves to Rs 1175, there will be
+losses.

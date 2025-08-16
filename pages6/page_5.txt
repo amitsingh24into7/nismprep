@@ -1,0 +1,76 @@
+Q24.
+
+Q25.
+
+A fall in the price of Wipro stock will increase the value of the Wipro call option - State True or False?
+True
+False
+
+¥ CORRECT ANSWER
+Explanation:
+
+In normal market, price of a call option rises with a rise in the underlying stock price and the premium falls if the price of the underlying stock falls.
+
+So, if the price of Wipro falls, the value of Wipro call option will also fall.
+
+Mr. Sunil places a stop loss sell order on ABC stock with a trigger price of Rs. 450. The current market price of ABC stock is Rs 470. The order will be released for execution
+As soon as the market price of ABC touches Rs. 470
+As soon as the market price of ABC touches Rs. 450
+As soon as the order is placed in the system
+If similar orders are available in the order book at Rs. 450
+
+> WRONG ANSWER
+CORRECT ANSWER:
+
+As soon as the market price of ABC touches Rs. 450
+Explanation: A
+AStop Loss Sell Order is designed to limit losses by triggering a sell when the stock price falls to a certain level (called the trigger price).
+
+* In this case, Mr. Sunil has set a trigger price of Rs. 450, and the current market price is Rs. 470.
+
+* The stop loss sell order is inactive until the market price falls to Rs. 450.
+* Once the stock touches or drops below Rs. 450, the order is released to the exchange for execution at the best available price (depending on whether it's a market or limit order).
+
+Put-call parity refers to the relationship between: .
+call and put options on the same stock with the same strike prices and same maturity
+put and call options on the same stock but different strike prices and different maturity
+call options on the same stock with the same maturity but different strike prices
+futures and options on the same stock
+
+v CORRECT ANSWER
+Explanation:
+
+Arbitrage strategies can be executed whenever the traded price of a futures contract deviates from its fair or theoretical price or whenever the traded price of an option deviates from its fair price,
+
+Such arbitrage is based on an important principle known as ‘put-call parity’. It simply states the relationship between calls and puts with the same strike price and time to maturity.
+
+If the clearing / trading member fails to pay the dues, the clearing corporation can disable the clearing / trading members from trading - State True or False?
+True
+False
+
+¥ CORRECT ANSWER
+
+Explanation:
+The Clearing Corporation has powers to levy additional margins, special margins, define maximum exposure limits and disable brokers from trading.
+
+Trade Guarantee Fund (TGF) is maintained for :
+Protecting the interests of investors
+Inculcating confidence in the minds of investors and brokers
+Guaranteeing the settlement of trades
+All of the above
+
+% WRONG ANSWER
+CORRECT ANSWER:
+
+All of the above
+
+Explanation:
+
+Main objectives of Trade Guarantee Fund (TGF):
+
+- To guarantee settlement of bonafide transactions of the members of the exchange.
++ To inculcate confidence in the minds of market participants.
+
+- To protect the interest of the investors in securities.
+
+All active members of the Exchange are required to make initial contribution towards Trade Guarantee Fund of the Exchange.

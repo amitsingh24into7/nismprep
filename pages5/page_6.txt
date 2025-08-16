@@ -1,0 +1,101 @@
+Q27.
+
+Q 28.
+
+Q30.
+
+Q31.
+
+Identify the INCORRECT statement with respect to Tracking error of index funds.
+From the point of view of the investors a low tracking error is desirable
+Tracking error can also arise due to mutual fund expenses
+Tracking error is same for all index funds as it is fixed by the regulator
+Cash balances which are maintained by the fund manager can cause tracking error
+
+X WRONG ANSWER
+CORRECT ANSWER:
+
+Tracking error is same for all index funds as it is fixed by the regulator
+
+Explanation:
+
+Tracking error measures how closely an index fund’s performance follows its benchmark index.
+A low tracking error is desirable (1, correct).
+
+It can arise due to mutual fund expenses like expense ratios (2, correct)
+
+Cash balances held for liquidity, causing deviations from the index (4, correct).
+
+However, tracking error is not fixed by the regulator and varies across index funds based on management, expenses, and strategy. (Therefore statement 3 is incorrect)
+
+Which type of index is NSE NIFTY?
+Its a price-weighted index
+Its a free-float market capitalisation index
+Its an equally-weighted index
+Its a market capitalisation — weighted index
+
+% WRONG ANSWER
+CORRECT ANSWER:
+
+Its a free-float market capitalisation index
+
+Explanation: a
+
+The free-float methodology is a method of calculating the market capitalization of a stock market index's underlying companies. With the free-float methodology, market capitalization is calculated by taking the
+equity's price and multiplying it by the number of shares readily available in the market.
+
+Amajority of the stock indices globally, over a period of time, have moved to free float basis, including the Indian equity indices - Sensex, Nifty and SX40.
+
+Identify the strategy in which an investor takes a short position in call option and long position in the underlying stock.
+Writing a naked call
+Protective call strategy
+Writing a covered call
+Butterfly strategy
+
+% WRONG ANSWER
+CORRECT ANSWER:
+Writing a covered call
+
+Explanation: 4
+
+A Covered Call is a basic option trading strategy frequently used by traders to protect their share holdings. It is a strategy in which you own shares of a company and Sell OTM Call Option of the company in
+similar proportion.
+
+The Call Option would not get exercised unless the stock price increases. Till then you will earn the Premium. This a unlimited risk and limited reward strategy.
+
+Identify the FALSE statement with respect to trading on the OTC market.
+OTC markets have a centralised clearing and settlement of all trades
+On the OTC markets, there are no limits on the positions that buyers and sellers can take
+Buyers and sellers can trade in tailor-made contracts in the OTC markets
+In the OTC markets, risk management is usually the responsibility of the parties themselves
+
+¥ CORRECT ANSWER 4a
+Explanation:
+
+Forward contracts are also known as OTC contracts,
+
+It is a contractual agreement between two parties to buy/sell an underlying asset at a certain future date for a particular price that is pre-decided on the date of contract. Both the contracting parties are committed
+and are obliged to honour the transaction irrespective of the price of the underlying asset at the time of delivery. Since forwards are negotiated between two parties, the terms and conditions of contracts are
+customized/tailor made.
+
+These contracts are not regulated by an Exchange and there is no centralised clearing and settlement of trades.
+
+The cost incurred due to the Bid-Ask spread is known as
+Transaction cost
+Spread cost
+Margin cost
+Impact cost
+
+% WRONG ANSWER
+CORRECT ANSWER:
+
+Impact cost
+
+Explanation:
+
+Impact cost is a measure of the cost incurred due to the bid-ask spread.
+
+Impact cost represents the cost of executing a transaction in a given stock, for a specific predefined order size, at any given point of time.
+
+Impact cost is the measure of liquidity of the security. It is the cost a buyer or seller has to incur for a particular quantity of order at a given point of time due to the existing liquidity condition of the security
+available in the market.

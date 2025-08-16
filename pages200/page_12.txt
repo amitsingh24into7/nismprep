@@ -1,0 +1,72 @@
+Q59.
+
+You are long in ICICI Bank Ltd futures at price Rs 1000. The prices rises to Rs 1020 next day. The Mark to Market margin will be credited to your account. True or False ?
+False
+True
+
+v CORRECT ANSWER A
+Explanation:
+
+You are long means you have bought ICICI bank futures at Rs 1000. Next day the price rises to Rs 1020, which means there is a Mark to Market gain of Rs 20. So Rs 20 x the lot size, this amount will be credited in
+your ledger account with the broker.
+
+Oo: Option Premium consists of two components —
+Intrinsic value and time value
+Sum of Call and Put premium
+Premium value and time value
+Intrinsic value and premium
+¥ CORRECT ANSWER A
+Explanation:
+Option premium consists of two components - intrinsic value and time value. For an option, intrinsic value refers to the amount by which option is in the money i.e. the amount an option buyer will realize, before
+adjusting for premium paid, if he exercises the option instantly. Therefore, only in-the-money options have intrinsic value whereas at-the-money and out-of-the-money options have zero intrinsic value. The
+intrinsic value of an option can never be negative.
+For eg - If the spot price is Rs 200, and the call option premium of a Rs 195 strike price is Rs 25, then Rs 5 is the intrinsic value ( 200 - 195 ) and balance Rs 20 is time value.
+Q61. : — ‘ ‘ P
+With a fall in interest rates, the premium on CALL Options will :
+Rise
+Fall
+No Effect
+None of the above
+Vv CORRECT ANSWER
+Explanation:
+When the interest rates falls, the cost of carry also falls, thus reducing the premium on call options.
+On the other hand, the premium on put options will rise with a fall in interest rates.
+Q 62. esas F oe
+pays the initial margin when entering into a futures contract.
+The Buyer
+The Seller
+Both Buyers and Sellers
+None of the above
+v¥ CORRECT ANSWER
+Explanation:
+In futures both buyer and seller pays the margin as both are heavily exposed to market risks.
+In options, only the seller has to pay the margin as buyers have a limited risk.
+293. You have bought a CALL of ITC Ltd. of Strike price of Rs 200 of January. To close the position, you will SELL a PUT of same strike price of January. True or False ?
+False
+True
+v CORRECT ANSWER
+Explanation:
+If you have bought a CALL option, then to close the position you will have to sell a CALL option Rs 200 strike price.
+20% If you have a long position in futures contract, you can square up it by
+Buying a call option of that security
+Selling the same futures contract
+Selling the far month future contract so that you have more time and can earn more
+Buying a put option of that security
+Vv CORRECT ANSWER
+Explanation:
+A future contract can be squared up by selling the same contract and in no other way.
+Q 65.
+
+Mr. Singh purchases a call option on a stock at Rs. 10 per call with strike price of Rs. 140. If on exercise date, stock price is Rs. 168 , ignoring transaction cost, Mr. Singh will choose
+
+To exercise the option
+
+Not to exercise the option
+
+May or may not depending on the balance he has in his bank account
+May or may not depending on the recommendation of experts
+
+¥ CORRECT ANSWER CN
+Explanation:
+
+Mr Singh has purchased a CALL and on the expiry day he is in a profitable postion as the price of the stock has risen and the spot price is above the strike price. So he will exercise his option.

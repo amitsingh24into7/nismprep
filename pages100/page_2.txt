@@ -1,0 +1,87 @@
+Qs.
+
+Qo.
+
+Q 10.
+
+Investor Mr. X wants to sell 11 contracts of Feb series at Rs.6300 & investor Mr. Y wants to sell 13 contracts of March series at Rs.6450. Lot size is 50 for both these contracts. The initial
+margin is fixed at 6%. How much initial margin is required to be collected from both these investors(sum of initial margin of X and Y) by the broker?
+
+Rs 251550
+
+Rs 459450
+
+Rs 640000
+
+Rs 374900
+
+v CORRECT ANSWER A
+Explanation:
+
+Margin from Mr. X
+Rs 6300 X 11 contracts X 50 (lot size) X 6% = 207900
+Margin from Mr. Y
+Rs 6450 X 13 contracts X 50 (lot size) X 6% = 251550
+
+Total Margin = 207900 + 251550 = 459450.
+
+A trader has taken a short position of one contract in Sept ABC futures (contract multiplier 50) at a price of Rs.1800. When he closed this position after a few days, he realized that he
+has made a profit a Rs.5000. Which of the following closing actions would have enabled him to generate the profit?( Please ignore brokerage costs) .
+
+Buying 1 Sept ABC futures contract at 1900
+
+Buying 1 Sept ABC futures contract at 1700
+
+Selling 1 Sept ABC futures contract at 1900
+
+Selling 1 Sept ABC futures contract at 1700
+
+¥ CORRECT ANSWER a
+Explanation:
+
+To make a profit of Rs 5000, he has to earn Rs 100 per share ( 5000 / 50 (lot size) = 100 )
+Since he has gone short, he will make a profit when the price falls and he buys at the reduced price.
+He has sold at Rs 1800, so when he buys back at Rs 1700 he make Rs 100 profit per share.
+
+Rs 100 X 50 ( Lot size ) = Rs 5000 profit.
+
+The option which gives the holder a right to buy the underlying asset on or before a particular date for a certain price, is called as
+European put option
+American put option
+American call option
+European call option.
+
+X WRONG ANSWER
+CORRECT ANSWER:
+
+American call option
+
+Explanation:
+In case of American options, buyers can exercise their option any time before the maturity of contract.
+
+In case of European options, owner of such option can exercise his right only on the expiry date/day of the contract.
+
+A call option gives the holder a right to buy how much of the underlying from the writer of the option?
+The specified quantity or less than the specified quantity
+The specified quantity or more than the specified quantity
+Only the specified quantity
+None of the above
+
+¥ CORRECT ANSWER
+Explanation:
+
+Only the specified quantity as per the lot size of the option contract.
+
+Which of the following is closest to the forward price of a share if cash price is Rs 425, forward contract maturity=12 months from date, market interest rate 12% pa.
+425
+482
+476
+437
+
+¥ CORRECT ANSWER
+Explanation:
+
+12 months maturity means full one year of interest cost.
+So 12% of 425 = 425 x 12/100 = 51
+
+425 + 51 = 476 is closest to the one year forward price

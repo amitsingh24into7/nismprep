@@ -1,0 +1,77 @@
+Q 30.
+
+Q 32.
+
+Q33.
+
+Q34.
+
+Longer the time to expiry/maturity of a call option, higher will be the time value.
+False
+True
+
+Vv CORRECTANSWER
+
+Explanation:
+Time value of the option depends upon how much time is remaining for the option to expire.
+
+Longer the maturity of the option greater is the uncertainty and hence the higher premiums.
+
+A buyer of Put Option —
+Has the obligation to take delivery of asset
+Has the right to buy the underlying asset
+Has the right to sell the underlying asset
+Has the obligation to give delivery of asset
+
+> WRONG ANSWER
+CORRECT ANSWER:
+
+Has the right to sell the underlying asset
+Explanation: 4
+
+Put Option Is an option contract giving the owner the right, but not the obligation, to sell a specified amount of an underlying security at a specified price within a specified time. This Is the opposite of a call
+option, which gives the holder the right to buy shares.
+
+So an Option, which gives buyer a right to buy the underlying asset, is called Call option and the option which gives buyer a right to sell the underlying asset, is called Put option. There is no obligation when you
+buy an option.
+
+In the derivatives market, all the margins are collected by
+Margin House
+SEBI
+Clearing House
+Clearing Banks
+
+¥ CORRECT ANSWER
+Explanation:
+
+Responsibilities of the Clearing House / Corporation include:
+- Collection of Margins on timely basis
+- Smooth operation of the Market
+
+- Daily Clearing and Settlement etc.
+
+A person sells a put option of Strike Price 265, market lot 1000, at a premium of Rs 40, the maximum profit he can make is i
+Rs 25,000
+Rs 2,65,000
+Rs 40,000
+Unlimited
+
+¥ CORRECT ANSWER
+Explanation:
+
+The maximum profit for a seller of an option is the premium he receives. In this case he has received Rs 40. The Lot size is 1000.
+
+So the maximum profit he can make is 40 x 1000 = Rs 40,000.
+
+When you buy a put option on a stock you are owning, this strategy is called
+Straddle
+writing a covered call
+calender spread
+protective put
+
+¥ CORRECT ANSWER A
+Explanation:
+
+Protective Put is a a risk-management strategy that investors can use to guard against the loss of unrealized gains.
+
+‘The put option acts like an insurance policy - it costs money, which reduces the investor's potential gains from owning the security, but it also reduces his risk of losing money if the security declines in value.

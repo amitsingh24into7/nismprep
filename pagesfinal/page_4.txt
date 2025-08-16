@@ -1,0 +1,87 @@
+oO AN Clearing member has to deposit liquid assets with the Clearing Corporation but these liquid assets cannot comprise entirely of z
+
+Equity Shares
+
+T Bills (Treasury Bills)
+Cash
+
+Fixed Deposits
+
+% WRONG ANSWER
+CORRECT ANSWER:
+
+Equity Shares
+Explanation: a
+
+Clearing member is required to provide liquid assets which adequately cover various margins and liquid Net-worth requirements. The total liquid assets comprise of at least 50% of the cash component and the
+rest is non-cash component — This means 50% to 100% can be the cash component. Non-cash component cannot be more than 50%.
+
+All collateral deposits are segregated into cash component and non-cash component. Cash component means cash, bank guarantee, fixed deposit receipts, T-bills and dated government securities. Non-cash
+component means all other forms of collateral deposits like deposit of approved demat equity securities.
+
+270. ‘A trader has sold a ABC futures contract (contract multiplier 50) at 2500 and bought it back at 2700, what is the gain/loss for the trader?
+
+Again of Rs. 10,000
+Aloss of Rs. 10,000
+Again of Rs. 15,000
+Aloss of Rs. 15,000
+
+v CORRECT ANSWER
+Explanation:
+
+You had sold ABC futures believing that its price will fall down, but it has risen - so there will be a loss.
+2500 - 2700 = -200 Loss
+
+-200 x 50 shares = - Rs 10000
+
+Identify the CORRECT statement?
+The margins paid by institutional investors are higher than retail investors
+Margins in derivatives trading depend on volatility and price movement of the underlying
+The margins paid by retail investors are higher than institutional investors
+There are no margins on derivatives trading for Institutional investors
+
+v¥ CORRECT ANSWER a
+Explanation:
+
+Margins payable for a derivative instrument depends on the level of volatility in prices of that instrument. As high volatility assets carry more risk, the exchange would charge higher initial margin on them.
+
+(Both Institutional investors and Retail investors pay the same margin)
+
+022. if the futures price is declining but open interest is increasing, it indicates a .
+
+Bullish trend
+Bearish trend
+
+No trade trend
+None of the above
+
+¥ CORRECT ANSWER
+Explanation:
+
+If the futures price is declining but open interest is increasing, it indicates a build-up of short positions and a bearish trend. Traders usually tend to go short on the futures in such a scenario.
+
+Intraday trading can be done in the case of
+All ETF units
+All active mutual fund units
+All index mutual fund units
+All of the above
+
+Vv CORRECT ANSWER 4
+Explanation:
+
+Exchange Traded Funds (ETFs) is basket of securities that trade like individual stock, on an exchange. They have number of advantages over other mutual funds units as they can be bought and sold on the
+exchange. Since, ETFs are traded on exchanges, intraday transaction is possible.
+
+024 Everest Ltd. entered into a contract with Bank of Baroda under which Everest Ltd will receive interest at 7.5% p.a. and pay interest to Bank of Baroda at MIBOR on a principal of Rs. 25
+
+crore for a period of 3 years from today. This contract is known as a
+Swap
+Option contract
+Futures contract
+Forward contract
+
+¥ CORRECT ANSWER A
+Explanation:
+
+A Swap is an agreement made between two parties to exchange cash flows in the future according to a prearranged formula. Swaps are, broadly speaking, series of forward contracts. Swaps help market
+participants manage risk associated with volatile interest rates, currency exchange rates and commodity prices.

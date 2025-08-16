@@ -1,0 +1,87 @@
+277. What does ‘Contract Month' mean?
+
+The month of beginning of the futures contract
+The month of expiry of futures contract
+
+The month in which the transaction is done
+None of the above
+
+¥ CORRECT ANSWER
+Explanation:
+
+Contract month is the maturity (expiry) month of the contract.
+
+For eg - A trader may buy a March month contract in January. But the contract month will be March.
+
+278 How can an open position in a futures contract be closed?
+It has to be closed compulsorily before maturity
+It can be closed by intra day transactions only
+It can be closed only at maturity
+It can be closed anytime on or before the date of maturity through reversed (square-off) transaction
+X WRONG ANSWER
+CORRECT ANSWER:
+It can be closed anytime on or before the date of maturity through reversed (square-off) transaction
+Explanation:
+A futures position can be closed anytime before the maturity date by squaring off the transaction.
+79: If you are a seller of put option, you expect of the underlying asset.
+No change in the price
+Increase in the price
+Both of the above
+Decrease in the price
+X WRONG ANSWER
+CORRECT ANSWER:
+Both of the above
+Explanation:
+When you sell a put option you expect the price to rise. Even if the price remains stable, you earn the option premium.
+Therefore, a seller of a put options gains in both ways - stable price or increase in price of the underlying.
+Q80.
+
+An investor has implemented a Short Hedge using stock futures. This is done to protect
+The investor's existing stock holding against an anticipated price fall
+Against a price rise for a planned stock purchase in the future
+Against both a stock price fall and stock price rise in the future
+Against a fall in the market as a whole
+
+% WRONG ANSWER
+CORRECT ANSWER:
+
+The investor’s existing stock holding against an anticipated price fall
+Explanation: 4
+Ashort hedge using stock futures is taken to hedge the price risk of a planned future sale of a stock.
+
+For eg. You are holding Reliance Industries share of Rs 10 lacs and need this money after 3 months. You can sell the 3-month futures of Reliance Industries to protect the amount which you need. Even if the price
+falls, the future amount is secured by this hedge. This is call Short Hedge.
+
+Qe. Which of these complaints against a trading member can the Exchange take up for redressal?
+
+Any loss in a transaction which is not within the framework of an exchange
+Any claim for expenses done for pursuing the matter with ISC
+
+Any claim for opportunity loss for a disputed trade
+
+When excess brokerage is charged by the broker
+
+2 WRONG ANSWER
+CORRECT ANSWER:
+
+When excess brokerage is charged by the broker
+
+Explanation:
+
+Complaints against trading members on account of the following can be taken by an Exchange for redressal :
+- Non-receipt of funds / securities
+
+- Non- receipt of documents such as member client agreement, contract notes, settlement of accounts, order trade log etc.
+- Non-Receipt of Funds / Securities kept as margin
+
+- Trades executed without adequate margins
+
+- Delay /non — receipt of funds
+
+- Squaring up of positions without consent
+
+- Unauthorized transaction in the account
+
+- Excess Brokerage charged by Trading Member
+
+- Unauthorized transfer of funds from commodities account to other accounts etc.

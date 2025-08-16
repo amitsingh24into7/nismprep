@@ -1,0 +1,102 @@
+Q59
+
+Q 62.
+
+A trading member has to issue which of these documents to all its clients?
+Risk Control Document
+Risk Identification Document
+Risk Disclosure Document
+Risk Monitoring Document
+
+% WRONG ANSWER
+CORRECT ANSWER:
+
+Risk Disclosure Document
+
+Explanation: 4
+Brokers are required to make their clients understand the risks involved in trading derivatives and get a copy of the Risk Disclosure Document signed by their clients at the time of client on-boarding.
+
+The Risk Disclosure Document highlights the risk involved in trading on stock exchanges, and the rights and obligations of the broker and their clients.
+
+Which of these derivative contracts cannot be usually closed or reversed till their expiry?
+Future contracts
+Forward contracts
+Exchange traded options
+Exchange traded options on futures
+
+¥ CORRECT ANSWER A
+Explanation:
+
+Forwards are bilateral over-the-counter (OTC) transactions where the terms of the contract, such as price, quantity, quality, time and place are negotiated between two parties to the contract.
+
+The tailor made contracts and their non-availability on exchanges creates illiquidity in the contracts. Therefore, it is very difficult for parties to exit from the forward contract before the contract's maturity.
+
+A buyer of Out-Of-the-Money (OTM) Call option is
+
+© Bullish and pays the premium
+O Bullish and receives the premium
+
+O Bearish and pays the premium
+O Bearish and receives the premium
+
+Mr. Manoj is Nifty trader and feels that Nifty has fallen sharply in the last few days to 17500 levels and should bounce back to 17700 levels over the next week. Which option based
+strategy should Mr. Manoj use to back his view?
+
+He should take a long position in 17500 call and short position in 17700 call
+
+He should take a long position in 17500 put and short position in 17100 put
+
+He should take a short position in 17500 call and short position in 17100 call
+
+He should take a short position in 17500 call and long position in 17700 call
+
+%X WRONG ANSWER
+CORRECT ANSWER:
+
+He should take a long position in 17500 call and short position in 17700 call
+
+Explanation: 4
+He should take a long position in 17500 call and short position in 17700 call
+This strategy is known as a Bull Call Spread, which is used when a trader expects a moderate upward movement in the underlying asset (Nifty in this case).
+
+* Long 17500 Call: This benefits from Nifty rising above 17500.
+* Short 17700 Call: This helps reduce the cost of the trade but limits the maximum profit.
+
+Payoff Structure:
+
+* If Nifty stays below 17500, both options expire worthless, and the trader loses the premium paid.
+* If Nifty rises above 17500 but stays below 17700, the trader makes a profit.
++ IfNifty crosses 17700, the profit is capped due to the short call at 17700
+
+A is not a Trading Member but clears and settles the trades of Trading Members and institutional clients.
+Trading cum clearing member
+Custodial participant
+Self clearing member
+Professional clearing member
+
+%X WRONG ANSWER
+CORRECT ANSWER:
+
+Professional clearing member
+
+Explanation: A
+
+Professional Clearing Member: Professional clearing member clears the trades of his associate Trading Member and institutional clients. PCM is not a Trading Member of the exchange. Typically banks or
+custodians become a PCM and clear and settle for Trading Members as well as for Custodial Participants.
+
+Identify which of these is NOT an example of hedge.
+A fund manager is expecting market volatility after RBI policy, buys index put options to limit the loss on his portfolio
+An exporter is expecting to receive dollars after 1 month, takes a short position in one-month USDINR futures to lock in his dollar price
+Mr. Patil, a stock trader is bullish on the market and therefore buys an out-of -the-money index call and sells an out-of-the-money index put option
+A trader with a short index futures position buys an out-of-the-money call on the index so as to limit his loss
+
+2% WRONG ANSWER
+CORRECT ANSWER:
+
+Mr. Patil, a stock trader is bullish on the market and therefore buys an out-of -the-money index call and sells an out-of-the-money index put option
+Explanation:
+
+Ahedge is basically created to safeguard an existing position. It is to minimise the losses or lock a profit.
+
+In ‘A stock trader is bullish on the market and buys an out-of -the-money index call and sells an out-of-the-money index put option’ - the trader has a view on the market and makes a trading strategy accordingly.
+This is not hedging.

@@ -1,0 +1,61 @@
+Qs.
+
+In the case of futures contract, the profits or losses are received / paid only on maturity - State whether True or False?
+True
+False
+
+¥ CORRECT ANSWER
+Explanation:
+
+In futures contract, the profits / losses are received / paid as and when the contract is closed (squared up) by the trader or on maturity, which ever is earlier.
+
+If there are three series of one, two and three months futures open at a given point of time, how many calendar spread possibilities arise?
+
+4
+3
+2
+41
+
+¥ CORRECT ANSWER
+
+Explanation:
+
+The three calendar spreads can be between months 1 and 2, 2 and 3 and 1 and 3.
+
+is not a derivatives market product.
+Preference Share
+Futures
+Swaps
+Options
+
+¥ CORRECT ANSWER
+Explanation:
+
+Futures, Forwards, Options, Swaps etc. are all products in the derivative market.
+
+Preference share is not a derivative product.
+
+Even if you do not own the underlying stock, you can sell the stock option for that stock - State whether True or False?
+True
+False
+
+v CORRECT ANSWER
+Explanation:
+
+Although Futures and Options were introduced as hedgeing tools but there is no pre-condition that one has to own the stock to trade in futures and options.
+
+One can easily buy and sell options without owning the underlying stock.
+
+Over-the-counter options are always standardised - State whether True or False ?
+True
+False
+
+X WRONG ANSWER
+CORRECT ANSWER:
+
+False
+
+Explanation:
+Over the Counter options are made as per the needs of the trading parties - so they are customised.
+
+Future options are standardised as per the rules of stock exchange.

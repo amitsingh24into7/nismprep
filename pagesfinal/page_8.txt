@@ -1,0 +1,97 @@
+If there is a debit balance in the , it represents anticipated loss on a futures contract.
+Mark-to-market Margin account
+Additional Margin account
+Initial Margin account
+Exposure Margin account
+
+X WRONG ANSWER
+CORRECT ANSWER:
+
+Mark-to-market Margin account
+
+Explanation: 4a
+
+Accounting for open interests as on the balance sheet date : Keeping in view "prudence" principle, provisions should be created by a debit to the profit and loss account for anticipated loss equivalent to the
+debit balance in the "Mark-to-Market Margin Account".
+
+Which of these strategy has a same pay-of profile as that of Covered Call strategy?
+Bearish Call spread
+Short Put strategy
+Long Put strategy
+Bullish Put spread
+
+v CORRECT ANSWER a
+Explanation:
+
+Covered call : This strategy is used to generate extra income from existing holdings in the cash market. If an investor has bought a stock and intends to hold it for some time, then he would like to earn some
+income on the stockholding, without selling the stock,
+
+The covered call restricts the ‘upside’ or gains from the position while leaving a scope for unlimited losses. Hence, the covered call is called a ‘synthetic short put’ position.
+
+43. ‘i
+: Value-at-risk measures the A
+
+Credit rating of the investor
+Networth of the investor
+
+Risk level of a financial portfolio
+Value of proprietary portfolio
+
+X WRONG ANSWER
+CORRECT ANSWER:
+
+Risk level of a financial portfolio
+
+Explanation:
+
+Value-at-risk measures the expected maximum loss, which may be incurred by a portfolio over a given period of time and specified confidence level.
+
+oe Arbitrageurs are considered to be critical link between .
+
+Derivative markets in different locations
+
+Cash market and derivatives market on the same exchange
+Cash markets in different locations/exchanges
+
+All of the above
+
+v CORRECT ANSWER 4
+Explanation:
+
+An arbitrage is a deal that produces risk-free profits by exploiting a mispricing in the market. A simple arbitrage occurs when a trader purchases an asset cheaply in one location/ exchange and simultaneously
+arranges to sell it at another location/ exchange at a higher price.
+
+Therefore, arbitrage can be between cash and derivatives market on the same exchange or cash markets in different exchanges or derivatives market in different exchanges/locations etc.
+
+245: The MTM (Mark-to-Market) margin is always equal to the Initial margin - True or False?
+
+True
+False
+
+% WRONG ANSWER
+CORRECT ANSWER:
+
+False
+
+Explanation:
+The initial margin is collected only once, when the trader enters into a derivatives contract. The initial margin is based on the Value-at-Risk (VaR) method etc.
+
+The Mark-to-market margin is calculated and collected/paid on a daily basis depending on the price movement of the security.
+
+What is the lot size for contracts on individual stock futures/options ?
+It differs from stock to stock
+It is 1000 for all stocks
+It is 5000 for all stocks
+It is 100 for all stocks
+
+%X WRONG ANSWER
+CORRECT ANSWER:
+
+It differs from stock to stock
+
+Explanation: 4
+
+Futures / Option contracts are traded in lots. The lot size or contract size for the index and stock futures is determined by the exchange. Contract sizes are different for each stock and index traded in the
+derivatives segment.
+
+The contract size can be changed by the exchange from time to time, depending upon the changes in the index level and stock prices.

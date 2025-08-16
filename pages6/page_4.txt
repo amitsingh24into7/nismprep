@@ -1,0 +1,75 @@
+Q 16.
+
+Q 18.
+
+Q20.
+
+State True or False - Scarcity of underlying commodity will generally cause a rise in its futures price.
+True
+False
+
+¥ CORRECT ANSWER
+Explanation:
+
+Generally, a shortage / scarcity of any commodity will lead to a rise in the spot as well as futures prices.
+
+For eg. A drop in the manufacturing of oil by OPEC countries will lead to a rise in the international oil prices.
+
+Functions of a Derivative Market include x
+Improving price discovery based on actual valuations and expectations
+Shift of speculative trades from unorganized market to organized market
+Both 1 and 2
+None of the above
+
+¥ CORRECT ANSWER A
+
+Explanation:
+Derivatives Market serves following specific functions:
+
+= Derivatives market helps in improving price discovery based on actual valuations and expectations.
+
+- Derivatives market helps in transfer of various risks from those who are exposed to risk but have low risk appetite to participants with high risk appetite. For example hedgers want to give away the risk where as
+traders are willing to take risk.
+
+- Derivatives market helps shift of speculative trades from unorganized market to organized market. Risk management mechanism and surveillance of activities of various participants in organized space provide
+stability to the financial system.
+
+The expiry day for June series Index Futures on NSE would be
+Last Thursday in June
+Last Thursday in July
+Last Thursday in August
+Last Thursday in September
+
+¥ CORRECTANSWER
+Explanation:
+
+On NSE, the expiry day is the last Thursday of the expiry month. If the last Thursday is a trading holiday, then the expiry day is the previous trading day.
+
+When a call option on an index is exercised, the option holder will receive from the option writer, cash amount equal to excess of spot price (at the time of exercise) over the strike price
+of the call option - State True or False?
+
+True
+
+False
+
+¥ CORRECT ANSWER A
+Explanation:
+
+A buyer of a Call Option in an index is bullish. On exercise, if the spot price of the index is over and above the strike price at which the buyer had bought the Call, he will receive the difference between the spot
+price and strike price.
+
+(The buyer had also paid the premium while buying the Call. So his actual profit will be the difference between spot and strike price less the premium paid)
+
+At which price can a trader place a bid or offer for a scrip?
+At a price which is within the daily circuit filter limits
+At a price which the trader wishes
+At a price negotiated between the exchange and the member
+At a price which the trader deems fit
+
+> WRONG ANSWER
+CORRECT ANSWER:
+
+At a price which is within the daily circuit filter limits
+Explanation:
+
+The buy or sell price cannot be any price which the trader deems fit. It has to be within the daily circuit filter limits set by the exchange.

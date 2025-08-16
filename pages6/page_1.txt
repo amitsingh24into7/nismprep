@@ -1,0 +1,84 @@
+Q2.
+
+Qs.
+
+Mr. Sam is a equity fund manager and he is bearish on the stock market. How will he use this view to create a hedge?
+He will sell all his stocks
+He will decrease the NAV of his fund
+He will sell index futures
+He will buy index futures
+
+v CORRECTANSWER
+Explanation:
+
+If Mr. Sam is bearish on the stock market (expects prices to fall), and he manages an equity fund, he can’t simply sell all the stocks (that would go against the fund’s objective).
+
+Instead, he can hedge the portfolio by selling index futures — This protects the portfolio from losses if the market declines. The gains from the futures position can offset losses in the equity portfolio.
+
+is a deal that produces profit by exploiting a price difference in a product in
+two different markets.
+Hedging
+Trading
+Speculation
+Arbitrage
+
+¥ CORRECTANSWER
+Explanation:
+
+Arbitrage means buying a security in one market while simultaneously selling the same security in a different market, to benefit from price differential.
+
+The option which gives the holder a right to SELL the underlying asset on or before a particular date for a certain price, is called as
+American Call option
+American Put option
+European Call option
+European Put option
+
+> WRONG ANSWER
+CORRECT ANSWER:
+
+American Put option
+
+Explanation:
+American option: The owner of such option can exercise his right at any time on or before the expiry date/day of the contract.
+
+A Put Option gives the holder the right to sell the underlying asset on or before a particular date for a certain price
+
+(European option: The owner of such option can exercise his right only on the expiry date/day of the contract. In India, Index options are European)
+
+A trader takes a short position in call option, but does not take any offsetting position in the underlying stock. What is this strategy known as ?
+Protective Put strategy
+Writing a naked call
+Writing a covered call
+Butterfly strategy
+
+v¥ CORRECT ANSWER
+
+Explanation:
+Naked position in options market simply means a long or short position in any option contract without having any position in the underlying asset.
+
+When one sells (short) a call it is also known as ‘writing’ a call.
+
+So the above strategy is - Writing a naked call option.
+
+$0 Ine apove strategy Is - yvriting a naked Cali option.
+
+If the price of far month futures is less than the price of near month futures, it is called as
+Reverse Hedging
+Contango
+Basis
+Backwardation
+
+¥ CORRECT ANSWER
+
+Explanation:
+If futures price is lower than spot price of an asset or if the far month future prices are lower than current month futures prices, itis called “Backwardation market”.
+
+Before you take a position in a futures contract, the Exchange calls for___ to cover any loss that your position may incur.
+Initial Margin
+Mark-to-market Margin
+Ad-hoc Margin
+Call Margin
+
+¥ CORRECTANSWER
+Explanation:
+The amount one needs to deposit in the margin account at the time of entering a futures contract is known as the initial margin.

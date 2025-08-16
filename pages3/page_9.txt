@@ -1,0 +1,79 @@
+Q43.
+
+Q44.
+
+What happens to a 'Day Order if its not executed during the day?
+The Order will be executed in the auction market
+The Order will be executed in the after-hours
+The Order will be executed on the next trading day
+The Order will be cancelled automatically at the end of the day
+
+v¥ CORRECT ANSWER
+Explanation:
+
+A Day order is an order which is valid for a single day on which it is entered. If the order is not executed during the day, the trading system cancels the order automatically at the end of the day.
+
+Is it true that at expiration, the value of an option is its intrinsic value?
+Yes, its true for all options
+No, its not true for all options
+Yes, its true but only for Call options
+Yes, its true but only for Put options
+
+% WRONG ANSWER
+CORRECT ANSWER:
+
+Yes, its true for all options
+
+Explanation:
+
+At expiration, the exercise settlement value for each unit of the exercised contract is computed as follows:
+Call options = Closing price of the security on the day of exercise - Strike price
+
+Put options = Strike price - Closing price of the security on the day of exercise.
+
+In other words, the final settlement amount is equal to the intrinsic value of the option at expiration.
+
+The strategy of involves options with different strike prices but same expiry dates.
+Straddle
+Calendar spreads
+Vertical spreads
+Diagonal spreads
+
+XX WRONG ANSWER
+CORRECT ANSWER:
+
+Vertical spreads
+
+Explanation: a
+Spreads are option strategies which involve combining options on the same underlying and of same type (call/ put) but with different strikes and maturities. These are limited profit and limited loss positions.
+Vertical spreads are created by using options having same expiry date but different strike prices. These can be created either using calls as combination or puts as combination.
+
+This strategy is commonly used to limit risk and reward while taking a directional view on the market.
+
+In an American Put Option, the buyer gets the right but not the obligation to the writer an underlying asset at a specified price
+Buy from ; on or before the expiry date
+Buy from ; on the expiry date
+Sell to ; on or before the expiry date
+Sell to ; on the expiry date
+
+v¥ CORRECT ANSWER
+Explanation:
+
+American option: The owner (buyer/holder) of an American option can exercise his right at any time on or before the expiry date/day of the contract.
+A Put Option gives the buyer/holder a right to sell the underlying asset.
+
+Therefore an American Put Option gives the buyer the right but not the obligation to sell to the writer an underlying asset at a specified price on or before the expiry date.
+
+Identify which of these is not an application of indices?
+Exchange traded funds
+Index funds
+Index derivatives
+Private equity funds
+
+¥ CORRECT ANSWER A
+Explanation:
+
+Private Equity Funds are not connected to any index nor are they listed on a stock exchange.
+
+Traditionally, indices were used as a measure to understand the overall direction of stock market. However, few applications on index have emerged in the investment field such as Index Funds, Index
+Derivatives, Exchange Traded Funds etc.

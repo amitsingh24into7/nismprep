@@ -1,0 +1,14 @@
+S50. The process by which a futures contract is terminated by a transaction that is equal and opposite to the original transaction is called
+netting
+off setting
+hedgeing
+mark to market
+
+XX WRONG ANSWER
+CORRECT ANSWER:
+
+off setting
+
+Explanation:
+
+Aclosing transaction is one that reduces or eliminates an existing position by an appropriate offsetting purchase or sale.

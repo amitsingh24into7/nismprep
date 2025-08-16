@@ -1,0 +1,53 @@
+Q25.
+
+In stock markets, Beta is a statistical measure of the sensitivity of the movement of a share price to the movement of prevailing interest rates - State True or False?
+True
+False
+
+XX WRONG ANSWER
+CORRECT ANSWER:
+
+False
+
+Explanation:
+
+Beta measures the sensitivity of a stock / portfolio vis-a-vis index movement over a period of time, on the basis of historical prices.
+
+20. The trades done by dealers in their own account has to be totally segregated from the trades done in their clients account - State True or False ?
+True
+False
+¥ CORRECT ANSWER A
+Explanation:
+The trades done by dealers are in the ‘PRO’ account ie. Proprietary account and the trades done by Clients are in the "CLI" account.
+‘Proprietary Trading’ is when a member trades on exchange on its own behalf. As directed by SEBI and in pursuance of byelaws members are advised to specify the nature of the order in terms of order being a
+‘Client order’ or ‘Proprietary order’.
+227. The Time value of an option is the portion of option premium that is linked to the amount of time left till expiry of the option contract and also due to the fact that the underlying
+components that determine the value of option may change during that time - State True or False ?
+True
+False
+¥ CORRECT ANSWER A
+Explanation:
+Time value is a key component of an option’s premium, and it reflects two main ideas:
+- Remaining time to expiry: The longer the time left, the more chance the option has to become profitable. As expiry nears, this value decays—this is called time decay or theta decay.
+- Possibility of price movement: Since the underlying asset could change in price before expiry, the option retains extra value beyond its intrinsic value due to this uncertainty.
+Q 28. = F “
+In the Options segment, if you buy a PUT, you expect the market / scrip to move
+Up
+Down
+Range bound
+One cannot buy a PUT in options market.
+/¥ CORRECT ANSWER
+Explanation:
+A buyer of a PUT option has a negative / bearish view and so he expects the market / script to move down to make a profit.
+Q 29.
+
+What advantage does the screen based trading has over floor trading ?
+There are no set up costs in screen based trading
+There is transparency in trade execution and execution price
+The technology needs are lower
+There is no need to route the order through an exchange
+
+/ CORRECT ANSWER
+Explanation:
+
+Screen based (Trading thro’ computers) trading is fully transparent.

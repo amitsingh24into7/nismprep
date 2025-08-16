@@ -1,0 +1,72 @@
+Qa. Generally, other things remaining the same - American options value is lower than that of European options - True or False?
+
+True
+
+False
+
+The information given is inadequate
+It depends on market condition
+
+% WRONG ANSWER
+CORRECT ANSWER:
+
+False
+Explanation: 4a
+American options are generally valued higher than European options.
+
+American options allow option holders to exercise the option at any time prior its maturity date, thus increasing the value of the option to the holder relative to European options, which can only be exercised at
+maturity.
+
+ae Trading Member on derivatives exchange does not have Clearing rights - State True or False?
+True
+False
+¥ CORRECT ANSWER =
+Explanation:
+Trading Member: They are members of Stock Exchanges. They can trade either on behalf of their clients or
+on their own account.
+Trading cum Clearing Member: A Clearing Member (CM) who is also a Trading Member (TM) of the exchange. Such CMs may clear and settle their own proprietary trades, their clients’ trades as well as trades of other TM's & Custodial
+Participants
+218. The exercise date and expiration date of an European option is z:
+Always the same
+Always on the 28th of the expiry month
+always different
+May be same
+¥ CORRECT ANSWER
+Explanation:
+An European option can only be exercised on the expiry date/day of the contract. So in an European option the exercise date and expiration date is always the same.
+An American option can be exercised on any day.
+O19 MrAsolda put option of strike Rs.300 on ABC stock for a premium of Rs.20. The lot size is 1000. On the expiry day, ABC stock closed at Rs. 250. What is his net profit (+) or loss (-)?
+-30000
++30000
++70000
+-70000
+%X WRONG ANSWER
+CORRECT ANSWER:
+-30000
+Explanation:
+Mr. A sold a PUT option, that means he has a bullish or neutral view on PQR stock.
+However, ABC stock has fallen by Rs 50 ( 300 - 250).
+Which means he has lost Rs 50.
+Since he has sold a PUT, he will receive the premium which is Rs 20.
+So his net loss will be Rs 50 (Loss) - Rs 20 (Premium Recd) = Rs 30
+Total Loss = Rs 30 x 1000 (lot size) = Rs. 30000
+Q20.
+
+When a PUT option on an index is exercised, the option holder receives from the option writer
+Acash amount that is equal to the excess of spot price over exercise price
+Acash amount that is equal to the excess of exercise price over spot price
+Acash amount that is equal to spot price
+No amount
+
+%X WRONG ANSWER
+CORRECT ANSWER:
+
+A cash amount that is equal to the excess of exercise price over spot price
+
+Explanation: a
+An option will only be exercised when its In the Money (Profitable)
+
+A put option is In the Money when the Exercise price is higher than the spot price. So the excess of exercise price over the spot price will be receivable by the option holder.
+
+(IN THE MONEY - A call option with a strike (exercise) price that is lower than the market (spot) price of the underlying asset, or a put option with a strike price that is higher than the market price of the underlying asset. In the money
+Means that your stock option is worth money and you can turn around and sell or exercise It.)

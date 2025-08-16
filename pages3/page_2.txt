@@ -1,0 +1,85 @@
+Qo
+
+Q10.
+
+Q13.
+
+Aseller of call option can lose unlimited amount of money - State True or False?
+True
+False
+
+¥ CORRECTANSWER
+Explanation:
+
+A seller (writer) of a call option faces unlimited potential losses, because:
+
+If the price of the underlying asset rises significantly, the seller must buy the asset at the market price and sell it at the strike price, resulting in potentially unlimited losses.
+
+The higher the price of the asset, the greater the loss for the call option seller, since there is no upper limit to price increases.
+
+In contrast, the buyer of a call option has limited risk, restricted to the premium paid for the option.
+
+‘Bulls’ are those investors who believe the market will rise - State True or False?
+True
+False
+
+v CORRECTANSWER
+Explanation:
+
+Investors who believe that the markets will rise are called Bulls and investors who believe that markets will fall are known as Bears.
+The initial margin is always equal to the mark-to-market margin - State True or False?
+True
+
+False
+
+¥ CORRECTANSWER
+Explanation:
+
+Mark to Market is a process by which margins are adjusted on the basis of daily price changes in the markets for underlying assets. So this margin is as per the daily price movements.
+
+Initial margin is usually fixed depending on the price volatility. Higher the volatility, higher the initial margin.
+
+What does a seller of Put Option expect?
+An increase in the price of the underlying
+No change in the price of the underlying
+Adecrease in the price of the underlying
+Both 1 and 2
+
+X WRONG ANSWER
+CORRECT ANSWER:
+
+Both 1 and 2
+
+Explanation:
+Aseller of put option expects the price to rise. Even if the price remains stable, the seller earns the option premium.
+Aperson who sells a put option is making a bet that the price of the stock will not go down. They want the stock to either:
+
+« Stay the same, or
+* Goup
+
+If that happens, the buyer won't use the option, and the seller gets to keep the premium (the fee paid to them) without doing anything else.
+
+In the derivatives segment, who has to pay the margins as specified by the Clearing Corporation?
+Clients
+
+Arbitrageurs
+Financial Institutions
+All of the above
+
+v¥ CORRECT ANSWER
+Explanation:
+
+All those who trade in the derivatives segment have to pay margins without exception.
+
+When the price of a future contract decreases, the margin account ‘
+of the seller of futures contract will be credited for the gain
+of the buyer of futures contract will be debited for the loss
+Both 1 and 2
+None of the above
+
+v CORRECT ANSWER
+Explanation:
+
+The buyer of futures will have a notional loss and so his margin account will be debited by the notional loss amount.
+
+The seller of futures will have a notional profit if the price falls and his margin account will be credited by the notional gain amount.

@@ -1,0 +1,77 @@
+Fixed deposits and Bank guarantees are NOT permitted to be offered by Clearing Members to the Clearing Corporation as part of liquid assets - State whether True or False?
+True
+False
+
+%X WRONG ANSWER
+CORRECT ANSWER:
+
+False
+
+Explanation: 4
+Clearing member is required to provide liquid assets which adequately cover various margins and liquid Net-worth requirements. He may deposit liquid assets in the form of cash, bank guarantees, fixed
+deposit receipts, approved securities and any other form of collateral as may be prescribed from time to time.
+
+213: The absolute amount of minimum capital adequacy requirement for derivative clearing member is higher than that of spot (cash) market - State whether True or False?
+
+True
+False
+
+¥ CORRECT ANSWER
+Explanation:
+
+The absolute amount of minimum capital adequacy requirement for derivative brokers/dealers is much higher than for cash market as the risk involved are higher.
+
+Further, if a broker/dealer is involved both in cash and futures segments, or in several exchanges, the capital adequacy requirement should be satisfied for each exchange/segment separately.
+
+Qi At price level of Rs. 6900, what will be the value of one lot of ABC futures contract (contract multiplier 50)?
+
+Rs. 289000
+Rs. 690000
+Rs. 345000
+Rs. 460000
+
+Vv CORRECT ANSWER
+Explanation:
+
+The value of the futures contract is the Price X Lot size
+
+= Rs 6900 X 50 = Rs 345000
+
+215: What will be the value of one lot of ABC futures contract if the price is Rs. 3200 and the contract size is 150 ?
+
+Rs.240000
+Rs.320000
+Rs.540000
+Rs.480000
+
+v¥ CORRECT ANSWER
+Explanation:
+
+Value of a futures contract is the price multiplied by the contract size.
+In the above question :
+
+3200 * 150 = Rs.480000
+
+@16.  In the derivatives market, the mark to market margin is equal to the initial margin - State True or False?
+
+True
+False
+
+¥ CORRECT ANSWER
+Explanation:
+Mark to Market is a process by which margins are adjusted on the basis of daily price changes in the markets for underlying assets. So this margin is as per the daily price movements.
+
+Initial margin is usually fixed depending on the price volatility. Higher the volatility, higher the initial margin.
+
+Acall option gives its holder the right to buy ‘any quantity’ of the underlying asset from the writer of the call option at a pre-specified price - State True or False ?
+True
+False
+
+> WRONG ANSWER
+CORRECT ANSWER:
+
+False
+
+Explanation:
+
+A call option gives its holder the right to buy ONLY THE SPECIFIED QUANTITY (lot size of the option contract) of the underlying asset from the writer of the call option at a pre-specified price.

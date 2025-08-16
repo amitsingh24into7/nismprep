@@ -1,0 +1,123 @@
+Q67.
+
+Q 68.
+
+Q69.
+
+Q70.
+
+Q71.
+
+Hedgeing is a tool used to protects ones portfolio against any downturn by going short in index. True or False ?
+True
+False
+
+v CORRECT ANSWER A
+Explanation:
+
+Hedgeing basically means making an investment to reduce the risk of adverse price movements in an asset. Normally, a hedge consists of taking an offsetting position in a related security, such as a futures
+contract.
+
+In the above question, if an investor own 30-40 stocks and feels the market (and so his stocks) will go down due to a upcoming event, he will short the index to minimise his losses.
+
+Investors use this strategy when they are unsure of what the market will do.
+
+Derivative clearing members are required to maintain a net worth of minimum Rs 4 crores.
+True
+False
+
+v CORRECT ANSWER
+
+Explanation:
+The minimum networth for Clearing members of the derivatives clearing corporation/house shall be Rs.300 Lakhs (Rs 3 crores). The networth of the member shall be computed as follows:
+
+- Capital + Free reserves
+- Less non-allowable assets which are :
+
+o Fixed assets
+
+o Pledged securities
+
+0 Member's card
+
+o Non-allowable securities (unlisted securities)
+© Bad deliveries
+
+© Doubtful debts and advances
+
+o Prepaid expenses
+
+o Intangible assets
+
+© 30% marketable securities
+
+An option which would give a zero cash flow to its holder if it were exercised immediately is know as
+At the money option
+Out of the money option
+In the money option
+None of the above
+
+X WRONG ANSWER
+CORRECT ANSWER:
+
+At the money option
+
+Explanation: 4
+
+A situation where an option's strike price is identical to the price of the underlying security. Both call and put options will be simultaneously “at the money." For example, if XYZ stock is trading at 75, then the XYZ
+75 call option is at the money and so Is the XYZ 75 put option.
+
+At the money option would lead to zero cash flow if it were exercised immediately. Therefore, for both call and put ATM options, strike price is equal to spot price.
+
+In a Derivatives Market, the person who takes the risk are
+Arbitrageurs
+Speculators
+Hedgers
+None of the Above
+
+¥ CORRECT ANSWER
+Explanation:
+
+Hedgers use derivatives to manage risks, Arbitrageurs use Cash market and Derivative market to make money by using the price differences. Speculators take open positions and take the risks.
+
+In the Option segment, if you buy a CALL at a premium of Rs 35 at the Strike Price of Rs 400, lot is of 200 shares, then the maximum possible Profit is
+Rs 400
+Rs 7000
+Rs 43000
+Unlimited
+
+% WRONG ANSWER
+CORRECT ANSWER:
+
+Unlimited
+
+Explanation:
+When you buy a CALL option, your losses are limited to the extent of premium paid, but your profits, theoretically can be unlimited as the price of the underlying can rise to any levels.
+
+When the price of an underlying rises, the price of an CALL option will also rise and so you can have unlimited profits.
+
+An Out of the Money option will have :
+More than 1 intrinsic value
+Zero intrinsic value
+Negative intrinsic value
+None of the above
+
+¥ CORRECT ANSWER 4
+Explanation:
+
+Intrinsic value in options is the in-the-money portion of the option's premium. For example, If a call options strike price is Rs15 and the underlying stock's market price is at Rs 25, then the intrinsic value of the
+call option is Rs 10.
+
+Option premium consists of two components - intrinsic value and time value. For an option, intrinsic value refers to the amount by which option is in the money i.e. the amount an option buyer will realize, before
+adjusting for premium paid, if he exercises the option instantly. Therefore, only in-the-money options have intrinsic value whereas at-the-money and out-of-the-money options have zero intrinsic value. The
+intrinsic value of an option can never be negative.
+
+Derivatives market helps shift of speculative trades from unorganized market to organized market. True or False ?
+True
+False
+
+/ CORRECT ANSWER s
+Explanation:
+
+In the unorganized markets, there is a huge risk of counter party default etc. In the organized markets for derivatives the Clearing Corporation guarantees the clearing and settlement of all trades even if there is a
+default of any participant.

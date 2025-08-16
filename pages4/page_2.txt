@@ -1,0 +1,86 @@
+Qs.
+
+As a Call option moves more Out-Of-The-Money, the absolute value of Delta will
+Increase
+Decrease
+Not change
+None of the above
+
+Y CORRECTANSWER
+Explanation:
+
+The Delta of a call option measures how much the option's price is expected to move for a ?1 change in the price of the underlying asset. For call options, Delta ranges between 0 and 1.
+
+* When a call option is Out-Of-The-Money (OTM), its Delta is closer to 0, since it's less sensitive to changes in the underlying price.
+« As it moves further OTM, the absolute value of Delta decreases even more.
+* Conversely, Delta increases as the option becomes In-The-Money, nearing 1.
+
+So when the call option becomes further OTM, it becomes less responsive to changes in the underlying asset—hence, Delta decreases.
+
+Counterparty risk can also be called as
+Credit Risk
+Default Risk
+Both 1 and 2
+Speculative Risk
+
+% WRONG ANSWER
+CORRECT ANSWER:
+
+Both 1 and 2
+
+Explanation:
+Counterparty risk is the risk of an economic loss from the failure of counterparty to fulfil its contractual obligation.
+
+This risk is also called default risk or credit risk.
+
+A penalty or suspension of registration of a stock broker from derivatives exchange/segment under SEBI (Stock Broker and Sub-broker) Regulations, 1992 can take place if
+The stock broker fails to resolve the complaints of the investors
+
+The stock broker indulges in manipulating, or price rigging or cornering of the market
+The stock broker does not follow the code of conduct
+All of the above
+
+v CORRECT ANSWER A
+Explanation:
+
+Apenalty or suspension of registration of a stock - broker under the SEBI (Stock Broker)
+Regulations, 1992 can be ordered if:
+
+~ The stock broker violates the provisions of the Act
+
++ The stock broker does not follow the code of conduct
+
+- The stock broker fails to resolve the complaints of the investors
+
+- The stock broker indulges in manipulating, or price rigging or cornering of themarket
+
+- The stock broker’s financial position deteriorates substantially
+
+= The stock broker fails to pay fees
+
+= The stock broker violates the conditions of registration
+
++ The stock broker is suspended by the stock exchanae
+
+At the time of final settlement, the seller / writer of the option will recognize the adverse difference he paid tothe buyeras____in his profit and loss account.
+Expenses
+Loss
+Debt
+Profit
+
+X WRONG ANSWER
+CORRECT ANSWER:
+
+Loss
+
+Explanation:
+On exercise of the option, the seller/writer will pay the adverse difference, between the final settlement price as on the exercise/ expiry date and the strike price. Such payment will be recognised as a loss.
+
+Its the duty of the Clearing Corporation to continuously analyse and modify the initial margin requirements as the stock markets tend to be very volatile - State whether True or False?
+False
+
+True
+
+¥ CORRECT ANSWER a
+Explanation:
+Initial Margin levels should be dynamic and calculated continuously based on volatility levels. The Clearing Corporation does this activity using modern mathematical tools.

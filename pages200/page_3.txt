@@ -1,0 +1,95 @@
+Q13.
+
+Q15.
+
+Qi7.
+
+Qs.
+
+The option premium paid by the option buyer remains with the exchange till the time it is closed out or expired.
+True
+False
+
+v CORRECTANSWER
+Explanation:
+
+The Option premium is collected by the exchange but is given to the seller of option.
+
+When a call option is ‘In The Money ‘ — the
+Strike Price is lower than Spot Price
+Strike Price is higher than Spot Price
+Strike Price is same as Spot Price
+None of the Above
+
+¥ CORRECT ANSWER A
+Explanation:
+
+Acall option is considered "In The Money” when the Spot Price (current market price) of the underlying asset is higher than the Strike Price (the price at which the option holder has the right to buy
+the asset).
+
+For example:
+
+* Ifthe Strike Price ofa call option is Rs. 50
+* And the Spot Price is Rs. 60
+* The option is In The Money by Rs. 10
+
+You have bought a CALL of SBI of Strike price of Rs 200 of January. To close the position, you will buy a PUT of same strike price of January. True or False ?
+True
+
+False
+
+v CORRECT ANSWER
+Explanation:
+
+When you buy a CALL option, to close this position you will have to sell a CALL option of same strike price and expiry.
+
+An Investor Mr Shah wants to buy 8 contracts of January series at Rs 740 and an investor Mr Patel wants to sell 5 contracts of February series at Rs 754. Initial Margin is fixed at 6%.
+How much initial margin has to be collected from them ? Market lot is 250.
+
+Rs 56,550
+
+Rs 88,800
+
+Rs 1,45,350
+
+Rs 1,87,600
+
+¥ CORRECT ANSWER A
+Explanation:
+
+Margin to be collected from Mr Shah : Rs 740 X 8 contracts X 250 (Market lot) at 6%
+= Rs 1480000 x 6% = Rs 88,800
+Margin to be collected from Mr Patel : Rs 754 X 5 contracts X 250 (Market lot) at 6%
+= Rs 942500 x 6% = Rs 56,550
+
+So the total margin : 88,800 + 56,550 = Rs 145350
+
+In case of CALL OPTION, it gives the buyer the right to
+buy the underlying at market price
+buy the underlying at set price
+sell the underlying at market price
+sell the underlying at set price
+
+> WRONG ANSWER
+CORRECT ANSWER:
+
+buy the underlying at set price
+Explanation:
+Acall option is a financial instrument that gives the buyer the right, but not an obligation, to buy a set quantity of a security at a set strike price at some time on or before expiration.
+
+In easy terms - what ever may be the market price, the buyer will get the security at the set price or strike price as he has paid a premium for it.
+
+The spot price of LKK share is Rs 300, the put option of Strike Price Rs 280 is “
+In the money
+Out of the money
+At the money
+None of the above
+
+¥ CORRECT ANSWER
+Explanation:
+
+A put option is "In the Money” if Strike Price > Spot Price (because the holder can sell at a higher price than the market).
+A put option is “At the Money” if Strike Price = Spot Price.
+A put option is "Out of the Money” if Strike Price < Spot Price (because selling at the strike price is less profitable than selling at the market price).
+
+In the above example, since Rs. 280 (Strike Price) < Rs. 300 (Spot Price), the put option is not profitable and is considered Out of the Money (OTM).

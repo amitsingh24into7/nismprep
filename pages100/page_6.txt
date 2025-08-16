@@ -1,0 +1,109 @@
+Rak oy unique principle of futures trading makes trading possible for those who do not want to make or take delivery of underlying assets. Which is that principle ?
+
+Traded on a recognised exchange
+Price uncertainty
+
+Standardisation of contracts
+
+Cash settlement
+
+v CORRECT ANSWER
+Explanation:
+
+Ina cash settlement method, the parties to a transaction settle by receiving or paying the gains or losses related to a contract in cash (ie. money transfer)
+
+On the National Stock Exchange, for its index futures, what would be the opening day of its April series?
+Last Friday of March month
+Last Friday of April month
+Last Friday of Jan month
+Last Friday of February month
+
+X WRONG ANSWER
+CORRECT ANSWER:
+
+Last Friday of Jan month
+
+Explanation:
+
+There are 3 series of index futures active all the time. A new series is introduced as the older series expires.
+
+Lets assume the Jan, Feb and March series are active currently.
+
+On the last Thursday of Jan, the Jan series will expire.
+
+So that next day ie. on the last Friday of Jan, the April series will be activated. This will be the opening day for April series. Thus we will have three series active ie. Feb, March and April.
+
+32. —
+P Operational risks include losses due to.
+
+natural calamities
+
+inadequate contingency planning
+power failure
+
+all of the above
+
+¥ CORRECT ANSWER 4A
+Explanation:
+
+An operational risk is defined as a risk incurred by an organisation's internal activities. So losses due to fraud, inadequate documentation, inadequate disaster management, inadequate contingency planning,
+improper execution are all Operational risks.
+
+233: The total number of outstanding / unsettled contracts in the market, at any point of time is known as “OPEN INTEREST” - True or False ?
+
+True
+False
+
+¥ CORRECTANSWER
+Explanation:
+
+An open interest is the total number of contracts outstanding (yet to be settled) for an underlying asset.
+
+ooh The clearing corporation may utilize the client account margins deposited with it for fulfilling the dues which a clearing member may owe to the clearing corporation for the trades on the
+
+clearing members own account. State True or False ?
+True
+False
+
+% WRONG ANSWER
+CORRECT ANSWER:
+
+False
+Explanation: A
+
+Clients money cannot be used by the Clearing or Trading member for his trades.
+
+Aclearing member has deposited eligible liquid assets of Rs.75 lacs. The exchange has minimum liquid net worth requirement of Rs. 50 lakhs. The member has not entered into any
+transactions so far. What is the margin available for trading. (in lakhs)
+
+75
+
+50
+
+25
+
+125
+
+% WRONG ANSWER
+CORRECT ANSWER:
+
+25
+
+Explanation: a
+Liquid Networth is defined as Liquid Assets minus Initial Margin.
+
+In above case he has deposited Rs 75 lakhs as liquid assets. Rs 50 lakhs is the requirement, so the balance Rs 25 lakhs will be used as initial margin.
+
+239 ‘Is it true that an efficient cash market is required for an efficient futures market ? Yes or No ?
+
+Yes
+No
+
+> WRONG ANSWER
+CORRECT ANSWER:
+
+Yes
+
+Explanation:
+
+The prices of futures are derived from the underlying cash market prices. So an efficient cash market is required for an efficient futures market.

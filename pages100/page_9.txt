@@ -1,0 +1,100 @@
+Q49.
+
+Q50.
+
+Q51.
+
+Q54.
+
+In case of Call options, if the market price is less than the exercise (strike) price, the option will
+expire worthless
+seller of the option will exercise it
+will definitely get exercised
+none of the above
+
+% WRONG ANSWER
+CORRECT ANSWER:
+
+expire worthless
+
+Explanation:
+
+A Gall Option gives the holder (buyer) the right, but not the obligation, to buy an asset at the exercise (strike) price before or at expiration.
+
+- If the market price is less than the strike price, the option holder would not exercise the option because they can buy the asset at a lower price in the open market.
+
+- As a result, the option expires worthless, and the option seller (writer) keeps the premium received.
+
+Does the difference between exercise price of the option and spot price affects option premium ? State Yes or No.
+Yes
+
+No
+
+¥ CORRECTANSWER
+Explanation:
+
+The Option premium is a combination of intrinsic value and time value and other factors.
+The Intrinsic value is difference between Spot and Exercise Price (Strike Price).
+Exercise price remains constant whereas the Spot price fluctuates.
+
+So the option premium will fluctuate as per the movement in Spot price.
+
+A high initial margin level improves solvency & financial capability of the clearing corporation - True or False ?
+True
+False
+
+¥ CORRECT ANSWER
+Explanation:
+
+Higher initial margin collection from trading members reduces the chances of their defaults thus improving the solvency & financial capability of the clearing corporation.
+
+An American put option gives the buyer the right but not the obligations to sell to the writer an underlying asset at a specified price on or before the expiry date - State whether True or
+False ?
+
+True
+False
+
+¥ CORRECT ANSWER =
+Explanation:
+
+The owner of American option can exercise his right at any time on or before the expiry date/day of the contract.
+
+‘The owner of European option can exercise his right only on the expiry date/day of the contract.
+
+State True or False - A futures contract is usually referred to by its delivery month.
+True
+False
+
+v CORRECT ANSWER A
+Explanation:
+
+Akey characteristic of a futures contract that designates when the contract expires and when the underlying asset must be delivered. The exchange on the futures contract is traded will also establish a delivery
+location and a date within the delivery month when the delivery can take place.
+
+Not all futures contracts require physical delivery of a commodity, and many are settled in cash.
+
+Delivery Month is also referred to as “contract month."
+
+Mr A sold a put option of strike Rs.400 on PQR stock for a premium of Rs.32. The lot size is 500. On the expiry day, PQR stock closed at Rs. 350. What is his net profit or loss?
+-25000 (Loss)
+-9000 (Loss)
+9000 (Profit)
+25000 (Profit)
+
+% WRONG ANSWER
+CORRECT ANSWER:
+
+-9000 (Loss)
+
+Explanation: 4
+Mr. A sold a PUT option, that means he has a bullish or neutral view on PQR stock.
+
+However, PQR stock has fallen by Rs 50 ( 400 - 350).
+
+Which means he has lost Rs 50.
+
+Since he has sold a PUT, he will receive the premium which is Rs 32.
+
+So his net loss will be Rs 50 (Loss) - Rs 32 (Premium Recd) = Rs 18
+
+Total Loss = Rs 18 x 500 (lot size) = Rs. 9000

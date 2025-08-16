@@ -1,0 +1,78 @@
+Q35.
+
+Q36.
+
+Q 37.
+
+Beta is the change in option price given a one percentage point change in the risk-free interest rate.
+True
+False
+
+X WRONG ANSWER
+CORRECT ANSWER:
+
+False
+
+Explanation:
+Rho is the change in option price given a one percentage point change in the risk-free interest rate.
+
+Beta a measure of systematic risk of a security that cannot be avoided through diversification.
+
+If futures price are lower than spot price of an asset, market participants may expect the spot price to come down in future. This situation is called —
+Contango
+Reverse System
+Backwardation
+Impact costs
+
+¥ CORRECTANSWER
+Explanation:
+As per the Expectancy Model of Future Pricing - If future prices are higher than spot prices (over the normal cost of carry) we can expect the spot prices to go up in future. This is called as Contango.
+
+Similarly, if the future prices are lower than spot prices, we can expect the spot prices to go down and this Is called as Backwardation.
+
+The networth of clearing members does not include -
+Bad Deliveries
+Doubtful Debts
+Unlisted Securities
+All of the Above
+
+¥ CORRECT ANSWER
+
+Explanation:
+The networth of the member shall be computed as follows:
+
+- Capital + Free reserves
+- Less non-allowable assets which are :
+
+o Fixed assets
+
+o Pledged securities
+
+o Member’s card
+
+0 Non-allowable securities (unlisted securities)
+o Bad deliveries
+
+o Doubtful debts and advances
+
+o Prepaid expenses
+
+o Intangible assets
+
+o 30% marketable securities
+
+¥eu po manciauie scuurUSs
+
+The spot price of ABC share is Rs 500, the call option of Strike Price Rs 500 is —
+In the money
+Out of the money
+At the money
+None of the above
+
+¥ CORRECT ANSWER 4a
+Explanation:
+
+At the Money - A situation where an option's strike price is identical to the price of the underlying security. Both call and put options will be simultaneously "at the money."
+
+For example, if XYZ stock is trading at 100, then the XYZ 100 call option is at the money and so is the XYZ 100 put option. An at-the-money option has no intrinsic value, but may still have time value. Options
+trading activity tends to be high when options are at the money.

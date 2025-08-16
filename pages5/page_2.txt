@@ -1,0 +1,82 @@
+Qo.
+
+Q 10.
+
+Calendar spreads carry basis risk and no market risk - hence margins are charged.
+Higher
+Lower
+NIL
+Very high
+
+¥ CORRECT ANSWER
+Explanation:
+Calendar spreads carry only basis risk and no market risk - hence lower margins are adequate.
+
+That is why margin on calendar spread transaction in index futures is lower than the sum of regular margin on two independent legs of spread transaction.
+(Basis risk arises when the price of a futures contract does not have a predictable relationship with the spot price, which is very rare.
+
+Market risk is the risk that the price of a stock etc. will increase or decrease due to changes in market factors)
+
+A long or short position in a futures contract can be closed by initiating a reverse trade - State True or False?
+True
+False
+
+v CORRECTANSWER
+Explanation:
+Aclosing transaction is one that reduces or eliminates an existing position by an appropriate offsetting purchase or sale. This is also known as “squaring off” your position.
+
+Aclient is said to be closed a position if he sells a contract which he had bought before or he buys a contract which he had sold earlier.
+
+When it is said that there is cash settlement of an index futures contract, it means that the contract is settled in cash with no delivery of the underlying - State whether True or False?
+True
+False
+
+¥ CORRECT ANSWER A
+Explanation:
+
+Index futures are always cash settled.
+
+Individual securities can be cash settled or by delivery.
+
+Which of these complaints against a trading member can an Exchange take up for redressal?
+Claims for expenses incurred for taking up the matter with the ISC
+Losses for transaction which are not within the framework of exchange
+Claims for opportunity loss for the particular disputed trade
+Excess brokerage charged by a broker
+
+v¥ CORRECT ANSWER
+
+Explanation:
+
+Compiaints against trading members on account of the following can be taken by an Exchange for redressal :
+- Non-receipt of funds / securities
+
+- Non- receipt of documents such as member client agreement, contract notes, settlement of accounts, order trade log etc.
+- Non-Receipt of Funds / Securities kept as margin
+
+- Trades executed without adequate margins
+
+- Delay /non — receipt of funds
+
+- Squaring up of positions without consent
+
+- Unauthorized transaction in the account
+
+- Excess Brokerage charged by Trading Member
+
+- Unauthorized transfer of funds from commodities account to other accounts etc.
+
+In exercising a Put option on a stock, the option holder acquires from the option writer
+a short position in the underlying stock
+a long position in the underlying stock
+a strangle position in the underlying stock
+a butterfly position in the underlying stock
+
+X WRONG ANSWER
+CORRECT ANSWER:
+
+a short position in the underlying stock
+Explanation:
+The buyer / holder of a Put option is of the view that price of the underlying will fall.
+
+He thus acquires a short position on exercise.

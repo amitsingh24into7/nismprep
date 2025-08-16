@@ -1,0 +1,18 @@
+# --- virtual environments ---
+venv/
+.venv/
+env/
+.env/
+.env
+
+# --- Python cache & build ---
+__pycache__/
+*.py[cod]
+*.egg-info/
+build/
+dist/
+
+# --- IDE/editor noise (optional) ---
+.vscode/
+.idea/
+.DS_Store

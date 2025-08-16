@@ -1,0 +1,80 @@
+@h The mark-to-market margin debits for stock futures are done on a daily basis but the mark-to-market margin credits are done on a weekly basis - State whether True or False ?
+True
+False
+
+X WRONG ANSWER
+CORRECT ANSWER:
+
+False
+
+Explanation:
+In the futures and options market, profits and losses (Debits and Credits) are settled on day-to-day basis — called mark to market (MTM) settlement.
+
+la Tick size is -
+
+Contract Lot size
+
+Average of the high and low prices
+
+The maximum permitted movement in the price of the contract
+The minimum permitted movement in the price of the contract
+
+¥ CORRECT ANSWER
+Explanation:
+
+Tick Size is minimum move allowed in the price quotations.
+
+Exchanges decide the tick sizes on traded contracts as part of contract specification. For eg. - Tick size for Nifty futures is 5 paisa.
+
+°3: a forward contract is
+
+is a type of Option
+
+is settled and cleared through a Clearing Corporation
+a bilateral commitment of trade between two parties
+is entered through an Exchange
+
+¥ CORRECTANSWER
+Explanation:
+
+Forward Contract - It is a contractual agreement between two parties to buy/sell an underlying asset at a certain future date for a particular price that is pre-decided on the date of contract.
+
+How many shares should be ideally there in an index ?
+Depends on the objective of the index
+Around 100 to comprehensively cover all sectors
+Exactly 50
+Below 50
+
+¥ CORRECT ANSWER A
+
+Explanation:
+Stocks in the index are chosen based on certain pre-determined qualitative and quantitative parameters, laid down by the Index Construction Managers. Once a stock satisfies the eligibility criterion, it is entitled
+
+for inclusion in the index.
+
+Generally, final decision of inclusion or removal of a security from the index is taken by a specialized committee known as Index Committee.
+
+&5 Longer the time to maturity of the PUT option, higher will be the time value - State whether True or False?
+True
+False
+
+XX WRONG ANSWER
+CORRECT ANSWER:
+
+True
+a
+
+Explanation:
+Time value of the option depends upon how much time is remaining for the option to expire. Longer the time to maturity, higher will be the time value.
+
+The effect of time to expiration on both call and put options is similar to that of volatility on option premiums. Generally, longer the maturity of the option greater is the uncertainty and hence the higher premiums.
+If all other factors affectina an option’s price remain same. the time value portion of an option’s premium will decrease with the passace of time.
+
+oe Brokers and dealers of derivative exchanges have also to be registered with SEBI in addition to their registration with stock exchange - State whether True or False?
+True
+False
+
+¥ CORRECT ANSWER
+Explanation:
+
+In addition to their registration as brokers of existing stock exchanges, Derivative brokers/dealers and clearing members are required to seek registration from SEBI.

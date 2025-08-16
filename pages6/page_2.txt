@@ -1,0 +1,48 @@
+sete neste ee ete cee ee ce Secret nee cree gees Se ete ae nee ee ee ete ng rt ee ee ee te cee te ne tee eee cee gee
+
+The Exercise price of an option is same as its position limit - State whether True or False?
+True
+False
+%X WRONG ANSWER
+CORRECT ANSWER:
+False
+Explanation:
+Position limits are the maximum exposure levels which the entire market can go up to and each Clearing Member or investor can go up to.
+Strike price or Exercise price is the price for which the underlying security may be purchased or sold by the option holder.
+Can a Equity oriented mutual fund hedge its equity exposure by selling index futures?
+Yes
+No
+¥ CORRECT ANSWER
+Explanation:
+Yes, a mutual fund can sell index futures for hedgeing purposes.
+For eg - If a fund manager of an equity mutual fund feels that the stock markets can fall in the near future, he can hedge his position by selling Nifty / Sensex futures.
+When the margins are kept on the lower side, it will attract more players to join the derivatives market - State True or False?
+True
+False
+7 CORRECTANSWER
+Explanation:
+The Clearing Corporation generally keeps the margins for derivatives trading on the higher side as the risk of losses are high and it wants only financially strong traders to trade in the market.
+If the margins are kept on a lower side, many more traders will start trading in the derivatives market.
+Professional clearing member clears the trades of his associate Trading Member only - State True or False ?
+True
+False
+v CORRECT ANSWER a
+Explanation:
+
+A Professional Clearing Member (PCM) is not limited to clearing trades solely for their associated Trading Members (TMs). While PCMs can clear and settle trades for TMs that choose to utilize their services, they
+are also authorized to clear and settle trades for institutional clients, custodial participants, and other TMs.
+
+Qu.
+
+This flexibility allows PCMs to offer clearing services to a broader range of market participants, including those who may not be affiliated with them.
+
+Future contracts are not symmetrical with respect to rights & obligations of the parties involved - State True or False?
+True
+False
+
+¥ CORRECT ANSWER
+Explanation:
+
+Obligations and returns in Futures are symmetrical for both buyer and sellers. Both gain or lose in equal proportion as per the price movements.
+
+On the other hand, Option contracts are not symmetrical as the buyers and sellers have different obligations and risk factors. The buyer has limited risk where as seller of an option has unlimited risk.

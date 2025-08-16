@@ -1,0 +1,87 @@
+Diversification is used to control Systematic Risks - True or False ?
+True
+False
+
+% WRONG ANSWER
+CORRECT ANSWER:
+
+False
+Explanation:
+
+Systematic Risk (also known as market risk) refers to the risk that affects the entire market or a broad range of assets — such as interest rate changes, inflation, recessions, geopolitical events, etc.
+This type of risk cannot be eliminated through diversification because it impacts all investments across the board.
+
+Diversification helps reduce unsystematic risk — which is specific to a particular company or industry, and can be controlled by spreading investments across various sectors or asset classes.
+
+Therefore, diversification controls unsystematic risk, not systematic risk.
+
+279. A trader sold on ABC Stock Futures Contract at Rs.354 & the lot size is 900. What is the traders profit or loss if he purchases the contract back at Rs.341 ?
+Rs 11700
+
+- Rs 11700 (Loss)
+Rs 8300
+- Rs 8300 (Loss)
+
+v¥ CORRECT ANSWER
+Explanation:
+
+He sold at Rs 354 and bought back at Rs 341 which means he has made a profit.
+Rs 354 - Rs 341 =Rs 13
+
+Rs 13 X 900 (Lot size) = Rs 11700 Profit
+
+271, When would a trader make a profit on a short position of September futures?
+
+when he buys a October future at a lower price
+
+when he sells another September future at a lower price
+
+he square of this short position by buying the September future at lower price
+when he sells October futures at a lower price.
+
+¥ CORRECTANSWER
+Explanation:
+
+Profit can be made in a short position when the price falls and the same is bought back.
+For eg - You sold a stock at Rs 100 ie. created a short position. When price falls to say Rs 80 and you buy it back, you make a profit of Rs 20.
+
+In case of futures, you have to square up in the same expiry month.
+
+272. Which of the following is not an application of indices?
+
+index derivatives
+exchange traded funds
+private equity funds
+Index funds
+
+v¥ CORRECT ANSWER
+Explanation:
+
+Private Equity Funds are not connected to any index nor are they listed on a stock exchange.
+
+273: Options contracts are not symmetrical with respect to rights & obligations of the parties involved - State True or False ?
+
+True
+False
+
+¥ CORRECT ANSWER
+Explanation:
+
+The buyer of an option has a right but not the obligation in the contract. Also his risks are limited to the extent of premium paid.
+The writer/seller of an option is one who receives the option premium and is thereby obliged to sell/buy the asset if the buyer of option exercises his right. His risks are unlimited.
+Thus Option contracts are not symmetrical as the buyers and sellers have different obligations and risk factors.
+
+On the other hand obligations and returns in Futures are symmetrical for both buyer and sellers.
+
+7A. . os q e ees,
+= Time value and intrinsic value of a call option are always either positive or zero- True or False ?
+
+True
+False
+
+v CORRECTANSWER
+Explanation:
+
+Only in-the-money options have intrinsic value whereas at-the-money and out-of-the-money options have zero intrinsic value. The intrinsic value of an option can never be negative.
+
+Time value also can never be negative.

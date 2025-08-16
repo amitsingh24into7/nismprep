@@ -1,0 +1,80 @@
+28: The derivatives segment of a Stock Exchange is under the same governing council as the cash segment - State True or False ?
+
+True
+False
+
+% WRONG ANSWER
+CORRECT ANSWER:
+
+False
+Explanation: 4
+
+The derivatives exchange/segment has a separate governing council and no common members are allowed between the Cash segment Governing Board and the Derivatives segment Governing Council of the
+exchange.
+
+284 You have bought a futures contract and the price drops, you will
+
+Make a notional profit
+
+Make a notional loss
+
+given information is incomplete to arrive at a conclusion
+none of the above
+
+¥ CORRECT ANSWER
+Explanation:
+
+For eg. You bought a futures contarct of 1000 shares at Rs 500. The price drops to Rs 480. Therefore there is a notional loss of Rs. 20 (500 - 480) x 1000 shares = Rs 20,000.
+
+This is a notional loss and not an actual loss. The actual profit / loss will happen only when you square up the contract.
+
+285 Stock price is ‘
+
+same as in the near month future contract
+same as exercise price of an option
+
+same as strike price of an option
+
+the price of the underlying in the spot market
+
+¥ CORRECT ANSWER
+Explanation:
+
+Stock price or Spot price means the current market price of that stock in the cash market.
+
+286. a naked call option strategy means that the writer does not currently owns the underlying - State True or False ?
+
+True
+False
+
+¥ CORRECT ANSWER
+Explanation:
+
+An options strategy in which an investor writes (sells) call options on the open market without owning the underlying security.
+
+This strategy is sometimes referred to as an “uncovered call" or a “short call".
+
+7 Factor(s) influencing option pricing include which of the following ?
+
+time to expiration
+
+volatility of the underlying shares
+Interest rates
+
+all of the above
+
+¥ CORRECT ANSWER
+Explanation:
+
+There are five fundamental parameters on which the option price depends upon:
+1) Spot price of the underlying asset
+
+2) Strike price of the option
+
+3) Volatility of the underlying asset’s price
+
+4) Time to expiration
+
+5) Interest rates
+
+These factors affect the premium price of options in several ways.

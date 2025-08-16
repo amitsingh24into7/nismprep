@@ -1,0 +1,68 @@
+Q31.
+
+Q35.
+
+What happens to the unmatched portion of the order in an Immediate or cancel (IOC) order ?
+It will be added to the order book as a limit order
+It will be executed on the next trading day
+It will be executed in the next one hour
+It will be cancelled
+
+7 CORRECT ANSWER
+Explanation:
+
+Immediate or cancel (IOC): User is allowed to buy/sell a contract as soon as the order is released into the trading system. An unmatched order will be immediately cancelled.
+
+Partial order match is possible in this order, and the unmatched portion of the order is cancelled immediately.
+
+What should be the market-wide position limit for a stock for it to be eligible for launch in the futures and options contracts in the exchange traded equity derivatives segment in India?
+At least Rs. 100 crores
+At least Rs. 500 crores
+At least Rs. 1000 crores
+At least Rs. 1500 crores
+
+% WRONG ANSWER
+CORRECT ANSWER:
+
+At least Rs. 1500 crores
+Explanation: 4a
+
+A stock on which stock option and single stock futures contracts are proposed to be introduced shall conform to broad eligibility criteria for a continuous period of six months. One of the criteria is :
+The market wide position limit (MWPL) in the stock shall not be less than Rs 1500 crores on a rolling basis.
+
+When an investor gives instruction to his broker to buy a certain number of contracts at or below a specific price, the order is called as
+Market Order
+Arbitrage Order
+Spread Order
+Limit Order
+
+v CORRECTANSWER 4a
+Explanation:
+
+Limit order is an order to buy or sell a contract at a specified price. The user has to specify this limit price while placing the order and the order gets executed only at this specified limit price or at a better price
+than that.
+
+Under which Act / Regulations is the Suspicious Transaction reporting required?
+SEBI Insider Trading Regulations
+Foreign Account Tax Compliance Act (FATCA)
+Anti-Money laundering (AML) and Combating of Financial Terrorism (CFT) Regulations
+Foreign Exchange Management Act (FEMA)
+
+v CORRECT ANSWER 4a
+Explanation:
+
+Under the Anti-Money Laundering (AML) and Combating of Financial Terrorism (CFT) regulations, certain suspicious transactions are required to be reported to the Financial Intelligence Unit - India (FIU-IND) set
+up by the Government to detect possible attempts at money laundering.
+
+Why are the margins for calendar spreads in index futures low ?
+Because calendar spreads are not traded on an Exchange
+Because calendar spreads are OTT transaction
+Because the market risk is low in calendar spreads
+Because calendar spreads are special transactions guaranteed by RBI
+
+¥ CORRECTANSWER
+Explanation:
+
+Calendar spread position is a combination of two positions in futures on the same underlying - long on one maturity contract and short on a different maturity contract.
+
+Calendar spreads carry only basis risk and low or no market risk ie. no risk even if market rises or falls by a big amount - hence lower margins are adequate.

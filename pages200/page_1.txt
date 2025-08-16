@@ -1,0 +1,98 @@
+Q3.
+
+Q4.
+
+A defaulting member's clients’ positions could be transferred to by the
+Clearing Corporation.
+
+Asuspense account
+
+Another solvent member
+
+The Exchange
+
+Error account
+
+> WRONG ANSWER
+CORRECT ANSWER:
+
+Another solvent member
+
+Explanation:
+
+As per SEBI rules, the Clearing Corporation can transfer client positions from one broker member to another broker member in the event of a default by the first broker member.
+
+The Strangle strategy is similar to straddle strategy in outlook but different in
+implementation
+aggression
+cost
+All of the above
+
+v CORRECT ANSWER 4a
+Explanation:
+
+Long Strangle As in case of straddle, the outlook here (for the long strangle position) is that the market will move substantially in either direction, but while in straddle, both options have same strike price, incase
+of a strangle, the strikes are different. Also, both the options (call and put) in this case are out-of-the-money and hence the premium paid is low.
+
+Of the below options, which is more difficult to manipulate ?
+Individual Stocks
+IT sector stocks
+Stock Index
+All of the above
+
+% WRONG ANSWER
+CORRECT ANSWER:
+
+Stock Index
+
+Explanation:
+
+A stock index contains a basket of high market cap stocks. So its very difficult to manipulate it when compared to individual stocks.
+
+A trader Mr. Raj wants to sell 10 contracts of June series at Rs.5200 and a trader Mr. Rahul wants to buy 5 contracts of July series at Rs. 5250. Lot size is 50 for both these contracts. The
+Initial Margin is fixed at 10%. They both have their accounts with the same broker. How much Initial Margin is required to be collected from both these investors by the broker ?
+
+Rs 2,60,000
+
+Rs 1,31,250
+
+Rs 3,91,250
+
+Rs 1,28,750
+
+¥ CORRECTANSWER A
+Explanation:
+
+Payment of Initial Margin by a broker cannot be netted against two or more clients. So he will have to pay the margin for the open position of each of his clients.
+‘So margin payable for Mr. Raj is : 10 x 5200 x 50 at 10% = Rs 2,60,000
+Margin payable for Mr. Rahul is : 5 x 5250 x 50 at 10% = Rs 1,31,250
+
+Total = Rs 3,91,250.
+
+Liquid Assets offered by a Clearing Member to the Clearing Corporation can include Mutual Fund Units and Bank Gaurantees. True or False ?
+False
+True
+
+v CORRECT ANSWER oN
+Explanation:
+
+Clearing member is required to provide liquid assets to cover various margins and liquid networth requirements. The total liquid assets comprise of at least 50% of the cash component and the rest is non cash
+component.
+
+1. Cash Component:
+
+*Cash
+
+* Bank fixed deposits (FDRs) issued by approved banks and deposited with approved custodians or Clearing Corporation.
+
++ Bank Guarantees (BGs) in favour of clearing corporation from approved banks in the specified format.
+
++ Units of money market mutual fund and Gilt funds where applicable haircut is 10%.
+
+* Government Securities and T-Bills
+
+2. Non Cash Component:
+
++ Liquid (Group 1) Equity Shares as per Capital Market Segment which are in demat form, as specified by clearing corporation from time to time deposited with approved custodians.
+
++ Mutual fund units other than those listed under cash component decided by clearing corporation from time to time deposited with approved custodians.

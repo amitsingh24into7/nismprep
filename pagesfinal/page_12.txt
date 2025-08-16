@@ -1,0 +1,85 @@
+Q65- Speculators are those who wish to risks whereas hedgers are those who wish to risks.
+
+Decrease, Increase
+Take, Reduce
+Reduce, Decrease
+Increase, Take
+
+¥ CORRECT ANSWER
+Explanation:
+
+Derivatives market helps in transfer of various risks from those who are exposed to risk but have low risk appetite to participants with high risk appetite.
+
+For example, hedgers want to give away the risk where as traders/speculators are willing to take risk.
+
+299: What is the ‘ASK PRICE’?
+
+It is the price at which market maker is prepared to lend
+
+It is the price at which market maker is prepared to buy
+
+It is the price at which market maker is prepared to sell
+
+It is the price at which market maker is prepared to buy or sell as per market conditions
+
+% WRONG ANSWER
+CORRECT ANSWER:
+
+It is the price at which market maker is prepared to sell
+
+Explanation:
+Bid price is the price the buyer is willing to pay and Ask price is the price at which the seller is willing to sell.
+For eg. If the Bid-Ask price for a security is 100 — 101, this means 101 is the ask price and this is the price at which the seller is willing to sell.
+
+The term market maker refers to a firm or individual who actively quotes two-sided markets in a particular security, providing bids and offers (known as Asks).
+
+2° The terms of the contract are decided by mutual agreement between the parties in a futures contract. State whether True or False?
+
+True
+False
+
+% WRONG ANSWER
+CORRECT ANSWER:
+
+False
+
+Explanation:
+In futures market, the exchange (not the parties) decides all the terms of the contract other than price.
+
+(Forwards are bilateral over-the-counter (OTC) transactions where the terms of the contract, such as price, quantity, quality, time and place are negotiated between two parties to the contract)
+
+When the order is ‘Immediate-Or-Cancel' then the unmatched portion of the order is
+Is added to the order book as a limit order
+Is cancelled immediately
+Executed after the normal trading hours
+Is executed the next trading day
+
+¥ CORRECT ANSWER a
+Explanation:
+
+Immediate or cancel (IOC) order: User is allowed to buy/sell a contract as soon as this order is released into the trading system. An unmatched order will be immediately cancelled. Partial order match is possible
+in this order, and the unmatched portion of the order is cancelled immediately.
+
+0% Which of the following is closest to the forward price of a share, if Cash Price =
+
+Rs.750, Forward Contract Maturity = 6 months from date, Market Interest rate = 12% pa.
+795
+840
+940.8
+772.5
+
+% WRONG ANSWER
+CORRECT ANSWER:
+
+795
+
+Explanation:
+
+Forward/futures price of share can be calulated by adding the interest cost to its current price.
+6 months maturity means half year of interest cost.
+
+12% of 750 = Rs. 90 is the full year interest cost
+
+Half year interest cost = 90/2 = 45
+
+750 +45 = 795 is closest to six month forward price

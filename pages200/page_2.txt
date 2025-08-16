@@ -1,0 +1,86 @@
+Q6.
+
+Qs.
+
+Q12.
+
+An option buyer pays the option premium to the option seller. State True or False?
+True
+
+False
+
+¥ CORRECT ANSWER
+Explanation:
+
+Option Premium is the price which the option buyer pays to the option seller.
+
+Contract month is the month in which futures contract -
+Expires
+Are at the lowest price
+Are at its highest price
+None of the above
+
+v¥ CORRECT ANSWER
+Explanation:
+
+Contract month is the month in which futures contract expires.
+
+At the expiry of the nearest month contract, a new contract with 3 months maturity will start. Thus, at any point of time, there will be 3 contracts available for trading.
+
+By meeting additional requirements, a Trading Member can also be a Clearing Member — True or False ?
+True
+False
+
+¥ CORRECT ANSWER
+Explanation:
+
+A Trading Member can also be a Clearing Member by meeting additional requirements.
+
+The minimum price movement in a scrip is called BASIS.
+True
+False
+
+¥ CORRECT ANSWER
+Explanation:
+The minimum price movement in a scrip is called TICK. It is minimum move allowed in the price quotations. Exchanges decide the tick sizes on traded contracts as part of contract specification.
+
+The difference between the spot price and the futures price is called basis.
+
+Calendar spreads carry only risk.
+speculative
+market
+basis
+interest
+
+% WRONG ANSWER
+CORRECT ANSWER:
+
+basis
+Explanation: A
+Basis means the difference between Spot Price and Future Price or difference between two future price of the same underlying.
+
+Basis risk is the chance that the basis will have strengthened or weakened from the time the hedge is implemented to the time when the hedge is removed - ie. the risk that the two future prices will not fluctuate
+identically.
+
+Risk which are Non Systematic can be reduced by diversifying ones portfolio.
+True
+False
+
+¥ CORRECT ANSWER A
+Explanation:
+
+Specific risk or unsystematic risk is the component of price risk that is unique to particular events of the company and/or industry. This risk is inseparable from investing in the securities, This risk could be
+reduced to a certain extent by diversifying the portfolio.
+
+An exchange traded option after maturity ‘
+Can be traded after 2 days ie. after pay in / pay out.
+Can be traded in the spot market
+Cannot be traded
+None of the above
+
+¥ CORRECTANSWER
+Explanation:
+
+An exchange traded option can only be traded till the last date of expiry ie. its maturity. After that it will not be available for trading.
+
+For eg - If 27th June is the last Thursday of the month ie. the maturity, all options of June month will cease to exist as soon as the market closes on 27th June.

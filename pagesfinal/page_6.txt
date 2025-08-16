@@ -1,0 +1,110 @@
+Q30.
+
+Q31.
+
+Q32.
+
+Q33.
+
+Q35.
+
+The equity shares which have been given by the clearing members to the clearing corporation as a part of liquid assets are generally NOT marked to market on a regular basis - State
+True or False?
+
+True
+False
+
+¥ CORRECT ANSWER 4
+Explanation:
+
+The equity shares which are kept with clearing corporation as a part of liquid assets are marked to market at regular intervals to check if their value has fallen down. If there is a fall, additional liquid assets will
+have to be kept.
+
+(For eg, In NSE, the securities are valued based on the closing price of the security at NSE. The value of the securities is reduced by such haircut as may be prescribed by the Clearing Corporation from time to time to arrive at the collateral value
+of the security. The hair cut applicable shall be as specified in the monthly circular for approved list of securities. Only the value net of applicable haircuts shall be considered as the value of the securities pledged. Valuation of securities are done
+by approved custodians at periodic intervals as specified by the Clearing Corporation from time to time.)
+
+In the Indian derivatives exchange, the matching of bids and offers take place
+online and immediately
+at the day's end
+at the end of each hour
+at the end of each minute
+
+¥ CORRECT ANSWER
+Explanation:
+
+In India, derivatives platforms offer an order driven market, wherein orders match automatically online on price time priority basis.
+
+Orders, as and when they are received, are first time stamped and then immediately processed for potential match. If a match is not found, then the orders are stored in different ‘books’.
+
+gives the right to sell an asset for a certain price on or before a specified date.
+European Call option
+European Put option
+American Call option
+American Put option
+
+¥ CORRECT ANSWER
+Explanation:
+
+A Put Option gives the holder the right to sell the underlying asset on or before a particular date for a certain price.
+American option: The owner of such option can exercise his right at any time on or before the expiry date/day of the contract.
+
+(European option: The owner of such option can exercise his right only on the expiry date/day of the contract. In India, all Index and stock options are European)
+
+Identify the CORRECT statement from the given options -
+Aprofessional clearing member has the permission to trade on his own account as well as clear trades for others
+Amember, who is registered as self-clearing member on derivatives exchange can also clear trades of other trading members
+Atrading member on a registered derivatives exchange need not be registered with SEBI
+Amember who is registered as trading member on derivatives exchange will not have clearing rights
+
+X WRONG ANSWER
+CORRECT ANSWER:
+
+A member who is registered as trading member on derivatives exchange will not have clearing rights
+
+Explanation: 4a
+A Professional Clearing Member (PCM) is not allowed to trade on their own account.
+
+A Self-Clearing Member (SCM) can only clear and settle trades for themselves and not for other trading members.
+
+All trading members of derivatives exchanges in India must be registered with SEBI as per SEBI regulations.
+
+A Trading Member (TM) is only allowed to execute trades and does not have clearing rights. Therefore - A member who is registered as trading member on derivatives exchange will not have clearing rights is
+correct.
+
+As per the Income Tax Act, any loss on derivatives transaction can be set-off against which income in the same year?
+Income from Salary
+Income from Capital Gains
+Income from any other business
+Income from House property
+
+%X WRONG ANSWER
+CORRECT ANSWER:
+
+Income from any other business
+Explanation: A
+
+Finance Act, 2005 implies that income or loss on derivative transactions which are carried out in a “recognized stock exchange” is not taxed as speculative income or loss. Thus, loss on derivative transactions
+can be set off against any other income during the year (except salary income).
+
+Mr. Jones buys a put option with higher strike price and at the same time sells another put option with lower strike price, both on the same underlying share and same expiration date.
+This strategy is known as :
+
+Butterfly spread
+
+Calendar spread
+
+Bearish spread
+
+Bullish spread
+
+%X WRONG ANSWER
+CORRECT ANSWER:
+
+Bearish spread
+Explanation: 4
+
+Bearish Vertical Spread using Puts : A trader is bearish on the market and so goes long in one put option with higher strike price by paying a premium. Further, to reduce his cost, he shorts another low strike put
+and receives a premium.
+
+This is done on the same underlying with same expiry date.

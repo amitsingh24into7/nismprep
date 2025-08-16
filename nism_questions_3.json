@@ -1,0 +1,326 @@
+[
+  {
+    "question_number": "216",
+    "question_text": "Investors who believe that the markets will fall are known as?",
+    "options": [
+      "Bears",
+      "Bulls",
+      "Hedgers",
+      "Arbitrageurs"
+    ],
+    "correct_answer": "Bears",
+    "explanation": "Investors who believe that the markets will fall are known as Bears. Investors who believe that the markets will rise are known as Bulls.",
+    "topic": "Market Participants"
+  },
+  {
+    "question_number": "217",
+    "question_text": "Which of the below statement(s) hold true for Futures Contract?",
+    "options": [
+      "Futures Contracts are settled through clearing corporation of the exchange",
+      "Futures Contracts are standardized contracts",
+      "Futures Contracts are traded on an exchange",
+      "All of the above"
+    ],
+    "correct_answer": "All of the above",
+    "explanation": "Futures contracts are standardized, exchange-traded, and settled through a clearing corporation, which acts as a central counterparty and guarantees the trade.",
+    "topic": "Futures Trading"
+  },
+  {
+    "question_number": "218",
+    "question_text": "When a dealer does trading on his own account and also for clients, the trades must be segregated. State True or False?",
+    "options": [
+      "True",
+      "False"
+    ],
+    "correct_answer": "True",
+    "explanation": "The trades done by dealers are in the ‘PRO’ account (Proprietary account) and the trades done by Clients are in the 'CLI' account. Members are required to specify whether an order is a 'Client order' or 'Proprietary order' as per SEBI regulations.",
+    "topic": "Regulatory Compliance"
+  },
+  {
+    "question_number": "Q28",
+    "question_text": "In the Options segment, if you buy a PUT, you expect the market / scrip to move",
+    "options": [
+      "Up",
+      "Down",
+      "Range bound",
+      "One cannot buy a PUT in options market"
+    ],
+    "correct_answer": "Down",
+    "explanation": "A buyer of a PUT option has a negative / bearish view and so he expects the market / scrip to move down to make a profit.",
+    "topic": "Options Trading"
+  },
+  {
+    "question_number": "Q29",
+    "question_text": "What advantage does the screen based trading have over floor trading?",
+    "options": [
+      "There are no set up costs in screen based trading",
+      "There is transparency in trade execution and execution price",
+      "The technology needs are lower",
+      "There is no need to route the order through an exchange"
+    ],
+    "correct_answer": "There is transparency in trade execution and execution price",
+    "explanation": "Screen based (Trading through computers) trading is fully transparent. All the derivatives exchanges in India provide a fully automated screen-based trading platform, which supports an order-driven market and provides complete transparency of trading operations.",
+    "topic": "Market Structure"
+  },
+  {
+    "question_number": "Q30",
+    "question_text": "When there is a ‘Closing buy transaction’, this will have the effect of partly or fully offsetting",
+    "options": [
+      "A cross position",
+      "A short position",
+      "A high position",
+      "A long position"
+    ],
+    "correct_answer": "A short position",
+    "explanation": "A closing buy transaction is used to square up (offset) an existing short position. By buying back the same contract, the trader closes their obligation.",
+    "topic": "Futures Trading"
+  },
+  {
+    "question_number": "Q31",
+    "question_text": "Arbitrage is a deal that produces profit by exploiting a price difference in a product in two different markets. State True or False?",
+    "options": [
+      "True",
+      "False"
+    ],
+    "correct_answer": "True",
+    "explanation": "Arbitrage is a deal that produces profit by exploiting a price difference in a product in two different markets. Arbitrage originates when a trader purchases an asset cheaply in one location and simultaneously arranges to sell it at a higher price in another location.",
+    "topic": "Arbitrage"
+  },
+  {
+    "question_number": "Q32",
+    "question_text": "In case of a member’s default, the Clearing Corporation cannot transfer clients positions to another member or close out all open positions of defaulting member, without prior approval from SEBI — State True or False?",
+    "options": [
+      "True",
+      "False"
+    ],
+    "correct_answer": "False",
+    "explanation": "In case of a member's default, the Clearing Corporation has the authority to transfer client positions to another member or close out all open positions of the defaulting member to protect market integrity and client interests. This can be done under its risk management protocols without requiring prior approval from SEBI for each action.",
+    "topic": "Clearing & Settlement"
+  },
+  {
+    "question_number": "Q33",
+    "question_text": "If the spot price of a stock is Rs 500 and the cost of carry for one month is Rs 5, what should be the theoretical futures price?",
+    "options": [
+      "Rs 500",
+      "Rs 505",
+      "Rs 495",
+      "Cannot be determined"
+    ],
+    "correct_answer": "Rs 505",
+    "explanation": "The future price (ideally) at the beginning of month will be Spot Price + Cost of Carry i.e. Rs 500 + Rs 5 = Rs 505.",
+    "topic": "Futures Pricing"
+  },
+  {
+    "question_number": "Q34",
+    "question_text": "Identify the FALSE statement.",
+    "options": [
+      "For Call Options: With decrease in strike price, the premium on call increases",
+      "For Call Options: With increase in strike price, the premium on call increases",
+      "For Put Options: With increase in strike price, the premium on put increases",
+      "For Put Options: With decrease in strike price, the premium on put decreases"
+    ],
+    "correct_answer": "For Call Options: With increase in strike price, the premium on call increases",
+    "explanation": "For call options, as the strike price increases, the option becomes less attractive (out-of-the-money), so its premium decreases. Therefore, statement 2 is false. The other statements are true based on option pricing principles.",
+    "topic": "Options Pricing"
+  },
+  {
+    "question_number": "Q35",
+    "question_text": "______ guarantees the performance of exchange traded contracts.",
+    "options": [
+      "Clearing Corporation",
+      "SEBI",
+      "Depositories",
+      "Custodians"
+    ],
+    "correct_answer": "Clearing Corporation",
+    "explanation": "The Clearing Corporation acts as the central counterparty (CCP) for all trades executed on the exchange. It interposes itself between the buyer and seller, thereby guaranteeing the performance of the contract and mitigating counterparty risk.",
+    "topic": "Clearing & Settlement"
+  },
+  {
+    "question_number": "Q36",
+    "question_text": "How should a seller of an option treat the premium received in his books of accounts?",
+    "options": [
+      "It should be treated as an Income",
+      "It should be treated as an Expense",
+      "It should be treated as an Asset",
+      "It should be treated as a Liability"
+    ],
+    "correct_answer": "It should be treated as an Income",
+    "explanation": "The premium received by the seller (writer) of an option is considered income and is recognized in the profit and loss account.",
+    "topic": "Derivatives Accounting"
+  },
+  {
+    "question_number": "Q37",
+    "question_text": "Which of the following complaints can an Exchange take up for redressal?",
+    "options": [
+      "Complaints in respect of transactions which are already subject matter of arbitration proceedings",
+      "Non-receipt of funds or securities",
+      "Complaints relating to land dealings between a client and a trading member",
+      "Claims for notional loss for the disputed period"
+    ],
+    "correct_answer": "Non-receipt of funds or securities",
+    "explanation": "Exchanges provide assistance for complaints related to trades executed on the Exchange Platform. 'Non-receipt of funds / securities' comes under this assistance. Complaints about land dealings, notional loss, or matters already in arbitration are typically not handled by the exchange.",
+    "topic": "Regulatory Compliance"
+  },
+  {
+    "question_number": "Q38",
+    "question_text": "How can a short position in a put option be closed out?",
+    "options": [
+      "A short position in a put option can be closed out by taking a long position in a put option of any exercise price and exercise date",
+      "A short position in a put option can be closed out by taking a long position in a call option with the same exercise price and exercise date",
+      "A short position in a put option can be closed out by taking a long position in a put option with the same exercise price and exercise date",
+      "A short position in a put option can be closed out by taking a short position in a call option with the same exercise price and exercise date"
+    ],
+    "correct_answer": "A short position in a put option can be closed out by taking a long position in a put option with the same exercise price and exercise date",
+    "explanation": "A short position in an option can only be squared up by buying the same option (same underlying, same strike price, same expiry date).",
+    "topic": "Options Trading"
+  },
+  {
+    "question_number": "Q39",
+    "question_text": "The strategy of ______ involves options with different strike prices but same expiry dates.",
+    "options": [
+      "Straddle",
+      "Calendar spreads",
+      "Vertical spreads",
+      "Diagonal spreads"
+    ],
+    "correct_answer": "Vertical spreads",
+    "explanation": "Vertical spreads are created by using options having the same expiry date but different strike prices. These can be created using calls or puts and are used to limit risk and reward while taking a directional view on the market.",
+    "topic": "Options Strategies"
+  },
+  {
+    "question_number": "Q40",
+    "question_text": "In an American Put Option, the buyer gets the right but not the obligation to ______ the writer an underlying asset at a specified price.",
+    "options": [
+      "Buy from ; on or before the expiry date",
+      "Buy from ; on the expiry date",
+      "Sell to ; on or before the expiry date",
+      "Sell to ; on the expiry date"
+    ],
+    "correct_answer": "Sell to ; on or before the expiry date",
+    "explanation": "An American Put Option gives the buyer the right but not the obligation to sell the underlying asset to the writer at the strike price on or before the expiry date.",
+    "topic": "Options Basics"
+  },
+  {
+    "question_number": "Q41",
+    "question_text": "Identify which of these is not an application of indices?",
+    "options": [
+      "Exchange traded funds",
+      "Index funds",
+      "Index derivatives",
+      "Private equity funds"
+    ],
+    "correct_answer": "Private equity funds",
+    "explanation": "Private Equity Funds are not connected to any index nor are they listed on a stock exchange. Exchange Traded Funds (ETFs), Index Funds, and Index Derivatives are all directly linked to market indices.",
+    "topic": "Index Applications"
+  },
+  {
+    "question_number": "Q42",
+    "question_text": "A seller of call option can lose unlimited amount of money - State True or False?",
+    "options": [
+      "True",
+      "False"
+    ],
+    "correct_answer": "True",
+    "explanation": "A seller (writer) of a call option faces unlimited potential losses, because if the price of the underlying asset rises significantly, the seller must buy the asset at the market price and sell it at the strike price, resulting in potentially unlimited losses.",
+    "topic": "Options Trading"
+  },
+  {
+    "question_number": "Q43",
+    "question_text": "A person who sells a put option expects the price to",
+    "options": [
+      "Fall",
+      "Rise",
+      "Remain stable",
+      "Be volatile"
+    ],
+    "correct_answer": "Rise",
+    "explanation": "A seller of put option expects the price to rise. Even if the price remains stable, the seller earns the option premium. A person who sells a put option is making a bet that the price of the stock will not go down.",
+    "topic": "Options Trading"
+  },
+  {
+    "question_number": "Q44",
+    "question_text": "In the derivatives segment, who has to pay the margins as specified by the Clearing Corporation?",
+    "options": [
+      "Clients",
+      "Arbitrageurs",
+      "Financial Institutions",
+      "All of the above"
+    ],
+    "correct_answer": "All of the above",
+    "explanation": "All participants in the derivatives segment, including clients, arbitrageurs, and financial institutions, must pay the margins as specified by the Clearing Corporation to cover potential risks.",
+    "topic": "Risk Management"
+  },
+  {
+    "question_number": "Q45",
+    "question_text": "The broker is compulsorily required to get a Risk Disclosure Document signed by the client, at the time of client registration - State True or False?",
+    "options": [
+      "True",
+      "False"
+    ],
+    "correct_answer": "True",
+    "explanation": "The broker is required to get a Risk Disclosure Document signed by the client, at the time of client registration. This document informs clients about the kind of risks that derivatives can involve for the client. It makes the client aware and well informed.",
+    "topic": "Regulatory Compliance"
+  },
+  {
+    "question_number": "Q46",
+    "question_text": "Meghna wants to sell 34 contracts of ABC futures at Rs. 2450 (contract multiplier is 50). Initial margin is 7%. How much will be the initial margin required?",
+    "options": [
+      "Rs. 4165000",
+      "Rs. 83300"
+    ],
+    "correct_answer": "Rs. 83300",
+    "explanation": "Total contract value = 34 contracts * Rs. 2450 * 50 = Rs. 4165000. Initial margin = 7% of Rs. 4165000 = Rs. 291550. However, the options provided seem incorrect. Based on the text, the intended answer is Rs. 83300, which may be a typo in the calculation. The correct calculation is 34 * 2450 * 50 * 0.07 = Rs. 291,550.",
+    "topic": "Futures Trading"
+  },
+  {
+    "question_number": "Q47",
+    "question_text": "Tick Size is the minimum move allowed in the price quotations. State True or False?",
+    "options": [
+      "True",
+      "False"
+    ],
+    "correct_answer": "True",
+    "explanation": "Tick Size is the smallest price increment by which the price of a security can move. It is defined by the exchange and ensures orderly trading.",
+    "topic": "Market Structure"
+  },
+  {
+    "question_number": "Q48",
+    "question_text": "In a calendar spread transaction, the trader takes opposite position in two futures contracts with",
+    "options": [
+      "two different underlying assets and same delivery month",
+      "two different delivery months and two different underlying assets",
+      "two different delivery months and same underlying asset",
+      "one stock and one index of same delivery months"
+    ],
+    "correct_answer": "two different delivery months and same underlying asset",
+    "explanation": "A calendar spread involves taking opposite positions (long and short) in the same underlying asset but with different expiry months. This strategy is used to profit from changes in the price difference between the two contracts.",
+    "topic": "Futures Arbitrage"
+  },
+  {
+    "question_number": "Q49",
+    "question_text": "Is it true that at expiration, the value of an option is its intrinsic value?",
+    "options": [
+      "Yes, it's true for all options",
+      "No, it's not true for all options",
+      "Yes, it's true but only for Call options",
+      "Yes, it's true but only for Put options"
+    ],
+    "correct_answer": "Yes, it's true for all options",
+    "explanation": "At expiration, the time value of an option becomes zero. Therefore, the value of the option is solely its intrinsic value, which is the difference between the spot price and the strike price (if in-the-money).",
+    "topic": "Options Pricing"
+  },
+  {
+    "question_number": "Q50",
+    "question_text": "What happens to the time value of an option as it approaches expiration?",
+    "options": [
+      "It increases",
+      "It decreases",
+      "It remains constant",
+      "It doubles"
+    ],
+    "correct_answer": "It decreases",
+    "explanation": "Time value decays as the option approaches expiration, a phenomenon known as time decay or theta decay. This decay accelerates as the expiration date nears.",
+    "topic": "Options Greeks"
+  }
+]

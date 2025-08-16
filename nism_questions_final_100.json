@@ -1,0 +1,1264 @@
+[
+  {
+    "question_number": "1",
+    "question_text": "Can Professional Clearing members act only on behalf of institutional clients?",
+    "options": [
+      "Yes",
+      "No"
+    ],
+    "correct_answer": "No",
+    "explanation": "Professional clearing member clears the trades of his associate Trading Member and institutional clients.",
+    "topic": "Clearing Members"
+  },
+  {
+    "question_number": "2",
+    "question_text": "Trading members shall maintain a higher level of Book networth than the clearing members - State True or False?",
+    "options": [
+      "True",
+      "False"
+    ],
+    "correct_answer": "False",
+    "explanation": "Clearing Members have to maintain higher book networth than trading members.",
+    "topic": "Trading Members"
+  },
+  {
+    "question_number": "3",
+    "question_text": "If you have a long or short position in a futures contract, this can be closed by initiating a reverse trade - True or False?",
+    "options": [
+      "True",
+      "False"
+    ],
+    "correct_answer": "True",
+    "explanation": "Closing a position means either buying or selling a contract, which essentially results in reduction of client’s open position (long or short). A client is said to be closed a position if he sells a contract which he had bought before or he buys a contract which he had sold earlier.",
+    "topic": "Futures Contracts"
+  },
+  {
+    "question_number": "4",
+    "question_text": "The idea and economic rational of introducing forward contracts is to.",
+    "options": [
+      "help arbitrage",
+      "help trading",
+      "help hedgeing",
+      "both 1 and 3"
+    ],
+    "correct_answer": "help hedgeing",
+    "explanation": "The essential idea of entering into a forward is to fix the price and thereby avoid the price risk. By entering into forwards, one is assured of the price at which one can buy/sell an underlying asset. Thus Forward contracts are basically meant for hedgeing / managing the risks.",
+    "topic": "Forward Contracts"
+  },
+  {
+    "question_number": "5",
+    "question_text": "As per Accounting Standards, the initial margin paid by an option seller is shown under in the balance sheet",
+    "options": [
+      "Bad Debts",
+      "Fixed Assets",
+      "Current Assets",
+      "Current Liabilities"
+    ],
+    "correct_answer": "Current Assets",
+    "explanation": "The seller/ writer of the option is required to pay initial margin for entering into the option contract and its should be debited to an appropriate account, say, \"Equity Index/ Stock Option Margin Account\". In the balance sheet, such account should be shown separately under the head \"Current Assets\".",
+    "topic": "Accounting Standards"
+  },
+  {
+    "question_number": "6",
+    "question_text": "Aperson who is bullish and a payer of premium is a “",
+    "options": [
+      "buyer of call option",
+      "seller of call option",
+      "buyer of put option",
+      "seller of put option"
+    ],
+    "correct_answer": "buyer of call option",
+    "explanation": "A buyer of a Call is bullish and believes that the price will rise. He pays a premium which is his maximum loss but the profits can be unlimited.",
+    "topic": "Options Trading"
+  },
+  {
+    "question_number": "1",
+    "question_text": "In an Index Futures contract, the tick size is 0.2 of an index point & the index multiple is Rs 50, then ‘a tick’ is valued at.",
+    "options": [
+      "Rs 50",
+      "Rs 100",
+      "Rs 10",
+      "Rs 2.50"
+    ],
+    "correct_answer": "Rs 10",
+    "explanation": "Rs 50X0.2=Rs 10.",
+    "topic": "Index Futures"
+  },
+  {
+    "question_number": "6",
+    "question_text": "The securities which are placed by clearing members with the clearing corporation as a part of liquid assets are",
+    "options": [
+      "marked to market on a periodical basis",
+      "is not marked to market as they are blue chip shares",
+      "may or may not be marked to market depending on the decision of the Stock Exchange",
+      "None of the above"
+    ],
+    "correct_answer": "marked to market on a periodical basis",
+    "explanation": "As per Prof. J. R. Verma Committee recommendations the securities placed with the Clearing Corporation shall be marked to market on a periodical basis (weekly).",
+    "topic": "Clearing Corporation"
+  },
+  {
+    "question_number": "57",
+    "question_text": "Contract month means",
+    "options": [
+      "Month in which the transaction is done",
+      "Month of expiry of the futures contract",
+      "Month of beginning of the futures contract",
+      "None of the above"
+    ],
+    "correct_answer": "Month of expiry of the futures contract",
+    "explanation": "Contract month is the maturity month of the contract.",
+    "topic": "Futures Contract"
+  },
+  {
+    "question_number": "58",
+    "question_text": "Initial margin is calculated based on____",
+    "options": [
+      "Average price movement in the last 5 working days",
+      "Value-At-Risk (VAR) based margining.",
+      "fixed at 25% for most of the scrips and 35% for volatile scrips",
+      "As per the The Black & Scholes Model"
+    ],
+    "correct_answer": "Value-At-Risk (VAR) based margining.",
+    "explanation": "Initial margin requirements are based on 99% value at risk over a one day time horizon.",
+    "topic": "Margin Calculation"
+  },
+  {
+    "question_number": "4a",
+    "question_text": "Daily ‘Trading Price Limits’ define the maximum percentage by which the price of a future contract can rise above or fall below the previous days settlement price - State whether True or False ?",
+    "options": [
+      "True",
+      "False"
+    ],
+    "correct_answer": "True",
+    "explanation": "A price limit is the maximum range that a futures contract is allowed to move up or down within a single day. Price limits are re-calculated every day.",
+    "topic": "Trading Price Limits"
+  },
+  {
+    "question_number": "62",
+    "question_text": "For portfolio hedging by institutions and mutual funds, index based derivatives are more suitable and are much more cost effective than derivative based on individual stocks - State",
+    "options": [
+      "True",
+      "False"
+    ],
+    "correct_answer": "True",
+    "explanation": "A portfolio consists of many stocks and not all stocks are available for trading in the futures/derivatives market. Also many stock futures have low volumes. Therefore institutions use index based derivatives for hedging. Although it may not give a perfect hedge but with proper choice of index futures, a good hedge can be created.",
+    "topic": "Derivatives"
+  },
+  {
+    "question_number": "63",
+    "question_text": "A Trading cum Clearing Member is responsible to the exchange for his transactions & also for the position of his trading members under him - True or False ?",
+    "options": [
+      "True",
+      "False"
+    ],
+    "correct_answer": "True",
+    "explanation": "Trading cum Clearing Member: This is a Clearing Member (CM) who Is also a Trading Member (TM) of the exchange. Such CMs may clear and settle their own proprietary trades, their clients’ trades as well as trades of other Trading Members.",
+    "topic": "Exchange Members"
+  },
+  {
+    "question_number": "64",
+    "question_text": "A default by a member in the derivatives segment will be not be treated as default in the cash segments of that exchange - State True or False ?",
+    "options": [
+      "True",
+      "False"
+    ],
+    "correct_answer": "False",
+    "explanation": "A default by a member in the derivatives segment will be treated as default in all segments of that exchange and as default on all exchanges where he is a member.",
+    "topic": "Default Rules"
+  },
+  {
+    "question_number": "",
+    "question_text": "Does trading in derivatives become expensive due to high margins ? State Yes or No.",
+    "options": [
+      "Yes",
+      "No"
+    ],
+    "correct_answer": "Yes",
+    "explanation": "Cost components of futures transaction include margins, transaction costs (commissions), taxes etc. So higher the margins more expensive the trading.",
+    "topic": "Derivatives Trading"
+  },
+  {
+    "question_number": "",
+    "question_text": "risk is the component of price risk that is unique to particular events of the company and/or industry and this risk could be reduced to a certain extent by diversifying the portfolio.",
+    "options": [
+      "Unsystematic Risk",
+      "Systematic Risk",
+      "Arbitrage Risk",
+      "Interest Rate Risk"
+    ],
+    "correct_answer": "Unsystematic Risk",
+    "explanation": "The risk that is specific to an industry or firm. Examples of unsystematic risk include losses caused by labor problems, nationalization of assets etc. Also called diversifiable risk",
+    "topic": "Risk Management"
+  },
+  {
+    "question_number": "65",
+    "question_text": "The Clearing of trades on a stock exchange can be done by.",
+    "options": [
+      "by the trading members",
+      "by the clearing members",
+      "both by clearing members and trading members",
+      "none of the above"
+    ],
+    "correct_answer": "by the clearing members",
+    "explanation": "A Trading member cannot clear trades. A Clearing member or a Trading cum Clearing member can clear trades.",
+    "topic": "Stock Exchange Operations"
+  },
+  {
+    "question_number": "66",
+    "question_text": "In an ‘In the money’ PUT option____",
+    "options": [
+      "strike price would be lower than the market price",
+      "exercise price would be equal to the market price",
+      "strike price would be higher than the market price",
+      "strike price would be zero"
+    ],
+    "correct_answer": "strike price would be higher than the market price",
+    "explanation": "An 'In the Money’ (ITM) option is one that would lead to a positive payoff if exercised immediately. For a PUT option (which gives the holder the right to sell an asset at a specified price): It is 'in the money' when the strike price is higher than the market price.",
+    "topic": "Options Trading"
+  },
+  {
+    "question_number": "67",
+    "question_text": "Delta measures the expected change in the option premium for a unit change in",
+    "options": [
+      "Volatility of underlying asset",
+      "treasury interest rates",
+      "time to option expiry",
+      "spot price of underlying asset"
+    ],
+    "correct_answer": "spot price of underlying asset",
+    "explanation": "Delta measures the sensitivity of the option value to a given small change in the price of the underlying asset.",
+    "topic": "Options Trading"
+  },
+  {
+    "question_number": "",
+    "question_text": "In an Out-of-the Money (OTM) Put option",
+    "options": [
+      "Strike price would be higher than the market price",
+      "Exercise price would be equal to the market",
+      "Strike price would be lower than the market price",
+      "strike price would be zero"
+    ],
+    "correct_answer": "Strike price would be lower than the market price",
+    "explanation": "A put option is said to be OTM when spot (market) price is higher than strike price.",
+    "topic": "Options Trading"
+  },
+  {
+    "question_number": "Diversification is used to control Systematic Risks",
+    "question_text": "True or False ?",
+    "options": [
+      "True",
+      "False"
+    ],
+    "correct_answer": "False",
+    "explanation": "Systematic Risk (also known as market risk) refers to the risk that affects the entire market or a broad range of assets — such as interest rate changes, inflation, recessions, geopolitical events, etc. This type of risk cannot be eliminated through diversification because it impacts all investments across the board. Diversification helps reduce unsystematic risk — which is specific to a particular company or industry, and can be controlled by spreading investments across various sectors or asset classes.",
+    "topic": "Risk Management"
+  },
+  {
+    "question_number": "279",
+    "question_text": "What is the trader's profit or loss if he purchases the contract back at Rs.341?",
+    "options": [
+      "Rs 11700",
+      "- Rs 11700 (Loss)",
+      "Rs 8300",
+      "- Rs 8300 (Loss)"
+    ],
+    "correct_answer": "Rs 11700",
+    "explanation": "He sold at Rs 354 and bought back at Rs 341 which means he has made a profit. Rs 354 - Rs 341 =Rs 13. Rs 13 X 900 (Lot size) = Rs 11700 Profit",
+    "topic": "Futures Trading"
+  },
+  {
+    "question_number": "271",
+    "question_text": "When would a trader make a profit on a short position of September futures?",
+    "options": [
+      "when he buys a October future at a lower price",
+      "when he sells another September future at a lower price",
+      "he square of this short position by buying the September future at lower price",
+      "when he sells October futures at a lower price."
+    ],
+    "correct_answer": "when he sells another September future at a lower price",
+    "explanation": "Profit can be made in a short position when the price falls and the same is bought back. For eg - You sold a stock at Rs 100 ie. created a short position. When price falls to say Rs 80 and you buy it back, you make a profit of Rs 20. In case of futures, you have to square up in the same expiry month.",
+    "topic": "Futures Trading"
+  },
+  {
+    "question_number": "272",
+    "question_text": "Which of the following is not an application of indices?",
+    "options": [
+      "index derivatives",
+      "exchange traded funds",
+      "private equity funds",
+      "Index funds"
+    ],
+    "correct_answer": "private equity funds",
+    "explanation": "Private Equity Funds are not connected to any index nor are they listed on a stock exchange.",
+    "topic": "Indices"
+  },
+  {
+    "question_number": "273",
+    "question_text": "Options contracts are not symmetrical with respect to rights & obligations of the parties involved - State True or False ?",
+    "options": [
+      "True",
+      "False"
+    ],
+    "correct_answer": "True",
+    "explanation": "The buyer of an option has a right but not the obligation in the contract. Also his risks are limited to the extent of premium paid. The writer/seller of an option is one who receives the option premium and is thereby obliged to sell/buy the asset if the buyer of option exercises his right. His risks are unlimited. Thus Option contracts are not symmetrical as the buyers and sellers have different obligations and risk factors.",
+    "topic": "Options Trading"
+  },
+  {
+    "question_number": "7A",
+    "question_text": "Time value and intrinsic value of a call option are always either positive or zero- True or False ?",
+    "options": [
+      "True",
+      "False"
+    ],
+    "correct_answer": "True",
+    "explanation": "Only in-the-money options have intrinsic value whereas at-the-money and out-of-the-money options have zero intrinsic value. The intrinsic value of an option can never be negative. Time value also can never be negative.",
+    "topic": "Options Trading"
+  },
+  {
+    "question_number": "76",
+    "question_text": "",
+    "options": [],
+    "correct_answer": "",
+    "explanation": "",
+    "topic": ""
+  },
+  {
+    "question_number": "77",
+    "question_text": "",
+    "options": [],
+    "correct_answer": "",
+    "explanation": "",
+    "topic": ""
+  },
+  {
+    "question_number": "80",
+    "question_text": "",
+    "options": [],
+    "correct_answer": "",
+    "explanation": "",
+    "topic": ""
+  },
+  {
+    "question_number": "81",
+    "question_text": "The gain or loss is realized on daily basis due to mark to market mechanism in which of the following contracts?",
+    "options": [
+      "Forward Contracts",
+      "Contracts in Swaps",
+      "Future market contracts",
+      "Equity Cash Market contracts"
+    ],
+    "correct_answer": "Future market contracts",
+    "explanation": "Futures contracts have two types of settlements: (A) the mark-to-market (MTM) settlement which happens on a continuous basis at the end of each day, and (B) the final settlement which happens on the last trading day of the futures contract.",
+    "topic": "Derivatives"
+  },
+  {
+    "question_number": "",
+    "question_text": "The market price of a share is Rs 120 and the 110 Call is quoted at Rs 24, what is the intrinsic value of this Call option?",
+    "options": [
+      "Rs. 10",
+      "Rs. 20",
+      "Rs. 34",
+      "Rs. 130"
+    ],
+    "correct_answer": "Rs. 10",
+    "explanation": "Option Premium consists of two variables - Intrinsic Value and Time Value. In the above case, the cash market price is 120 and the strike price is Rs 110. So the Intrinsic value is Rs 10 (120 - 110 ). The balance of option premium ( 24 - 10 ) ie. Rs 14 is the time value.",
+    "topic": "Options"
+  },
+  {
+    "question_number": "",
+    "question_text": "The main logic behind Position limits is to:",
+    "options": [
+      "prevent the market being unduly influenced by the activities of an individual/group of investors",
+      "prevent the market being unduly influenced by Central Govt policies",
+      "give direction to the market to move up or down as determined by SEBI",
+      "to encourage high networth investors to provide direction to the market"
+    ],
+    "correct_answer": "prevent the market being unduly influenced by the activities of an individual/group of investors",
+    "explanation": "Position limits are the maximum exposure levels which the entire market can go up to and each Clearing Member / Trading member or investor can go up to. Thus no investor can take an extra ordinary large position and influence the direction of a scrip / market.",
+    "topic": "Market Regulations"
+  },
+  {
+    "question_number": "",
+    "question_text": "The seller of the put option gains if price of underlying asset",
+    "options": [
+      "Decreases",
+      "Increases",
+      "Does not change",
+      "Both 2 and 3"
+    ],
+    "correct_answer": "Both 2 and 3",
+    "explanation": "The seller of PUT option is either bullish or neutral. He gains the premium received if the underlying increases or remains flat.",
+    "topic": "Options"
+  },
+  {
+    "question_number": "",
+    "question_text": "MrA buys a call option with lower strike price and sells another call option with higher strike price both on the same underlying share and same expiration date, the strategy is called",
+    "options": [
+      "Bull Spread",
+      "Bear Spread",
+      "Butterfly Spread",
+      "Calendar Spread"
+    ],
+    "correct_answer": "Bull Spread",
+    "explanation": "A bull call spread is constructed by buying a call option with a low strike price, and selling another call option with a higher strike price.",
+    "topic": "Options"
+  },
+  {
+    "question_number": "",
+    "question_text": "Futures trading is considered more risky than equity trading due to",
+    "options": [
+      "high leverage",
+      "High pressure",
+      "high volatility",
+      "high liquidity"
+    ],
+    "correct_answer": "high leverage",
+    "explanation": "Traders can trade in derivatives by paying a small margin ( around 25 to 30% of the total contract value), This leverage increases the risk as the trader can take up positions beyond his capacity.",
+    "topic": "Derivatives"
+  },
+  {
+    "question_number": "",
+    "question_text": "Institutional investors pay higher margins than the individual investors for derivatives trading - State True or False ?",
+    "options": [
+      "True",
+      "False"
+    ],
+    "correct_answer": "False",
+    "explanation": "The margin requirement is same for both individual investors and institutional investors.",
+    "topic": "Derivatives"
+  },
+  {
+    "question_number": "28",
+    "question_text": "The derivatives segment of a Stock Exchange is under the same governing council as the cash segment - State True or False ?",
+    "options": [
+      "True",
+      "False"
+    ],
+    "correct_answer": "False",
+    "explanation": "The derivatives exchange/segment has a separate governing council and no common members are allowed between the Cash segment Governing Board and the Derivatives segment Governing Council of the exchange.",
+    "topic": "Derivatives"
+  },
+  {
+    "question_number": "284",
+    "question_text": "You have bought a futures contract and the price drops, you will",
+    "options": [
+      "Make a notional profit",
+      "Make a notional loss",
+      "given information is incomplete to arrive at a conclusion",
+      "none of the above"
+    ],
+    "correct_answer": "Make a notional loss",
+    "explanation": "For eg. You bought a futures contract of 1000 shares at Rs 500. The price drops to Rs 480. Therefore there is a notional loss of Rs. 20 (500 - 480) x 1000 shares = Rs 20,000.",
+    "topic": "Futures"
+  },
+  {
+    "question_number": "285",
+    "question_text": "Stock price is ‘",
+    "options": [
+      "same as in the near month future contract",
+      "same as exercise price of an option",
+      "same as strike price of an option",
+      "the price of the underlying in the spot market"
+    ],
+    "correct_answer": "the price of the underlying in the spot market",
+    "explanation": "Stock price or Spot price means the current market price of that stock in the cash market.",
+    "topic": "Stock Market"
+  },
+  {
+    "question_number": "286",
+    "question_text": "a naked call option strategy means that the writer does not currently owns the underlying - State True or False ?",
+    "options": [
+      "True",
+      "False"
+    ],
+    "correct_answer": "True",
+    "explanation": "An options strategy in which an investor writes (sells) call options on the open market without owning the underlying security.",
+    "topic": "Options"
+  },
+  {
+    "question_number": "287",
+    "question_text": "Factor(s) influencing option pricing include which of the following ?",
+    "options": [
+      "time to expiration",
+      "volatility of the underlying shares",
+      "Interest rates",
+      "all of the above"
+    ],
+    "correct_answer": "all of the above",
+    "explanation": "There are five fundamental parameters on which the option price depends upon: 1) Spot price of the underlying asset, 2) Strike price of the option, 3) Volatility of the underlying asset’s price, 4) Time to expiration, 5) Interest rates.",
+    "topic": "Options"
+  },
+  {
+    "question_number": "287",
+    "question_text": "In case of ordinary cash dividends, on the ex-dividend date, Put Option values will decrease - State True or False ?",
+    "options": [
+      "True",
+      "False"
+    ],
+    "correct_answer": "False",
+    "explanation": "Cash dividends issued by stocks have big impact on their option prices. This is because the underlying stock price is expected to drop by the dividend amount on the ex-dividend date. Put options gets more expensive due to the fact that stock price always drop by the dividend amount after ex-dividend date. In case of call options, they can get discounted by as much as the dividend amount.",
+    "topic": "Options and Dividends"
+  },
+  {
+    "question_number": "289",
+    "question_text": "A Writer of an option :",
+    "options": [
+      "has obligation in the contract",
+      "receives the premium",
+      "has choice in the contract",
+      "Both 1 and 2"
+    ],
+    "correct_answer": "Both 1 and 2",
+    "explanation": "The writer of an option is one who receives the option premium and is thereby obliged to sell/buy the asset if the buyer of option exercises his right.",
+    "topic": "Options"
+  },
+  {
+    "question_number": "290",
+    "question_text": "The daily settlement prices of equity derivatives are decided by",
+    "options": [
+      "Clearing Corporation",
+      "SEBI",
+      "Brokers Association",
+      "RBI"
+    ],
+    "correct_answer": "Clearing Corporation",
+    "explanation": "One of the responsibilities of the Clearing Corporation is to decide the Daily Settlement Prices.",
+    "topic": "Equity Derivatives"
+  },
+  {
+    "question_number": "291",
+    "question_text": "The maximum possible loss for the option buyer is the premium paid , but the profits can be higher depending on the underlying price movement. This is true for which type of options",
+    "options": [
+      "true for all types of options",
+      "true for American options only",
+      "true for European options only",
+      "false for all types options"
+    ],
+    "correct_answer": "true for all types of options",
+    "explanation": "The difference between American and European options is relating to the time of exercising the contract. Profit potential in both of them is same.",
+    "topic": "Options"
+  },
+  {
+    "question_number": "292",
+    "question_text": "If a Clearing members defaults, the margin paid on his own account only is allowed to be used by the clearing corporation for realizing its dues from the member. The clients margin remain unaffected - State True or False ?",
+    "options": [
+      "True",
+      "False"
+    ],
+    "correct_answer": "True",
+    "explanation": "As per SEBI’s Standard Operating Procedures and clearing corporation norms: - If a Clearing Member (CM) defaults, the clearing corporation can only use the margin deposited by the CM on its own account to recover dues. - The clients’ margins and collateral are segregated and protected, and cannot be used to settle the CM’s proprietary obligations.",
+    "topic": "Clearing Corporation"
+  },
+  {
+    "question_number": "293",
+    "question_text": "A future contract is a very standardized contract that leaves very little (except the price) open to negotiation - State True or False ?",
+    "options": [
+      "False",
+      "True"
+    ],
+    "correct_answer": "True",
+    "explanation": "Terms of the future contracts are standardized wrt. quantity, time period etc. Only price is decided by the demand supply and other market situations. A forward contract on the other hand is not standardized.",
+    "topic": "Futures Contracts"
+  },
+  {
+    "question_number": "Qo4",
+    "question_text": "Shorter the time to maturity of the call option, higher will be the time value - State whether True or False ?",
+    "options": [
+      "True",
+      "False"
+    ],
+    "correct_answer": "False",
+    "explanation": "Other things being equal, options tend to lose time value each day throughout their life. This is due to the fact that the uncertainty element in the price decreases. Thus shorter the time to maturity, lower will be the time value.",
+    "topic": "Options"
+  },
+  {
+    "question_number": "",
+    "question_text": "Mr. Anand asks his broker to buy certain number of contracts at the market price, this instruction is called,",
+    "options": [
+      "arbitrage order",
+      "limit order",
+      "stop loss order",
+      "market order"
+    ],
+    "correct_answer": "market order",
+    "explanation": "A market order is an order to buy or sell a contract at the best bid/offer price currently available in the market. Price is not specified at the time of placing this order.",
+    "topic": "Trading"
+  },
+  {
+    "question_number": "",
+    "question_text": "A Client Registration form contains client's",
+    "options": [
+      "investment objectives",
+      "background",
+      "beneficial identity",
+      "all of the above"
+    ],
+    "correct_answer": "all of the above",
+    "explanation": "While opening a client's account, the broker should know some important details of his clients. Therefore the Client Registration form asks for details on the background of the client (to know if there is a criminal background or is not banned in any other manner, whether in terms of criminal or civil proceedings by any enforcement agency worldwide).",
+    "topic": "Client Registration"
+  },
+  {
+    "question_number": "",
+    "question_text": "Any person who wishes to open a Trading Account must be given the following documents by his trading member -",
+    "options": [
+      "Complete version of all the laws of SEBI",
+      "Risk disclosure document",
+      "All the rules & regulations of the exchange",
+      "SEBI guidelines on the subject"
+    ],
+    "correct_answer": "Risk disclosure document",
+    "explanation": "The broker is required to get a Risk Disclosure Document signed by the client, at the time of client registration.",
+    "topic": "Trading Account"
+  },
+  {
+    "question_number": "",
+    "question_text": "The ‘ASK’ price is always",
+    "options": [
+      "greater than the bid price",
+      "equal to bid price",
+      "lower than the bid price",
+      "none of the above"
+    ],
+    "correct_answer": "greater than the bid price",
+    "explanation": "Bid and Ask price means the Buyer and Seller price. For eg price of a stock as quoted on a stock market is Rs. 100 - 101. So 100 is the Bid price and 101 is the Ask price. The Ask will always be higher than Bid price.",
+    "topic": "Stock Market"
+  },
+  {
+    "question_number": "",
+    "question_text": "Mr. Mohan entered into a contract with Mr. Soham to buy 500 bags of Cotton at a price of Rs 800 per bag. Delivery of goods and payment of money will take place 4 months from now. Both Mr. Mohan and Mr. Soham have a right as well as an obligation under this contract. What type of contract is this?",
+    "options": [
+      "Forwards",
+      "Futures",
+      "Swaps"
+    ],
+    "correct_answer": "Forwards",
+    "explanation": "Forward contract is an agreement made directly between two parties to buy or sell an asset on a specific date in the future, at the terms decided today. There is no Stock Exchange, Commodity Exchange etc. involved.",
+    "topic": "Derivatives"
+  },
+  {
+    "question_number": "S50",
+    "question_text": "The process by which a futures contract is terminated by a transaction that is equal and opposite to the original transaction is called",
+    "options": [
+      "netting",
+      "off setting",
+      "hedgeing",
+      "mark to market"
+    ],
+    "correct_answer": "off setting",
+    "explanation": "A closing transaction is one that reduces or eliminates an existing position by an appropriate offsetting purchase or sale.",
+    "topic": "Futures Contracts"
+  },
+  {
+    "question_number": "10",
+    "question_text": "Investor Mr. X wants to sell 11 contracts of Feb series at Rs.6300 & investor Mr. Y wants to sell 13 contracts of March series at Rs.6450. Lot size is 50 for both these contracts. The initial margin is fixed at 6%. How much initial margin is required to be collected from both these investors(sum of initial margin of X and Y) by the broker?",
+    "options": [
+      "Rs 251550",
+      "Rs 459450",
+      "Rs 640000",
+      "Rs 374900"
+    ],
+    "correct_answer": "Rs 459450",
+    "explanation": "Margin from Mr. X Rs 6300 X 11 contracts X 50 (lot size) X 6% = 207900 Margin from Mr. Y Rs 6450 X 13 contracts X 50 (lot size) X 6% = 251550 Total Margin = 207900 + 251550 = 459450.",
+    "topic": "Futures and Options"
+  },
+  {
+    "question_number": "",
+    "question_text": "A trader has taken a short position of one contract in Sept ABC futures (contract multiplier 50) at a price of Rs.1800. When he closed this position after a few days, he realized that he has made a profit a Rs.5000. Which of the following closing actions would have enabled him to generate the profit?( Please ignore brokerage costs) .",
+    "options": [
+      "Buying 1 Sept ABC futures contract at 1900",
+      "Buying 1 Sept ABC futures contract at 1700",
+      "Selling 1 Sept ABC futures contract at 1900",
+      "Selling 1 Sept ABC futures contract at 1700"
+    ],
+    "correct_answer": "Selling 1 Sept ABC futures contract at 1700",
+    "explanation": "To make a profit of Rs 5000, he has to earn Rs 100 per share ( 5000 / 50 (lot size) = 100 ) Since he has gone short, he will make a profit when the price falls and he buys at the reduced price. He has sold at Rs 1800, so when he buys back at Rs 1700 he make Rs 100 profit per share. Rs 100 X 50 ( Lot size ) = Rs 5000 profit.",
+    "topic": "Futures Trading"
+  },
+  {
+    "question_number": "",
+    "question_text": "The option which gives the holder a right to buy the underlying asset on or before a particular date for a certain price, is called as",
+    "options": [
+      "European put option",
+      "American put option",
+      "American call option",
+      "European call option"
+    ],
+    "correct_answer": "American call option",
+    "explanation": "In case of American options, buyers can exercise their option any time before the maturity of contract. In case of European options, owner of such option can exercise his right only on the expiry date/day of the contract.",
+    "topic": "Options"
+  },
+  {
+    "question_number": "",
+    "question_text": "A call option gives the holder a right to buy how much of the underlying from the writer of the option?",
+    "options": [
+      "The specified quantity or less than the specified quantity",
+      "The specified quantity or more than the specified quantity",
+      "Only the specified quantity",
+      "None of the above"
+    ],
+    "correct_answer": "Only the specified quantity",
+    "explanation": "Only the specified quantity as per the lot size of the option contract.",
+    "topic": "Options"
+  },
+  {
+    "question_number": "",
+    "question_text": "Which of the following is closest to the forward price of a share if cash price is Rs 425, forward contract maturity=12 months from date, market interest rate 12% pa.",
+    "options": [
+      "425",
+      "482",
+      "476",
+      "437"
+    ],
+    "correct_answer": "476",
+    "explanation": "12 months maturity means full one year of interest cost. So 12% of 425 = 425 x 12/100 = 51 425 + 51 = 476 is closest to the one year forward price",
+    "topic": "Forwards and Futures"
+  },
+  {
+    "question_number": "13",
+    "question_text": "A trader is very bearish on specific companies. However he is bullish on the market as a whole. Which of the following is the most appropriate strategy to take advantage from this view?",
+    "options": [
+      "sell the shares of those specific companies in futures and also sell index futures",
+      "sell the shares of those specific companies in futures and buy index futures",
+      "buy the shares of those specific companies in futures and sell index futures",
+      "do nothing"
+    ],
+    "correct_answer": "sell the shares of those specific companies in futures and buy index futures",
+    "explanation": "The trader is bearish on specific companies : This means they expect the prices of these companies to fall. So, they should sell the futures of these specific companies. The trader is bullish on the overall market : This means they expect the market index to rise. So, they should buy index futures to benefit from the market's upward movement. This strategy allows the trader to profit from the decline in specific stocks while benefiting from the overall market's rise.",
+    "topic": "Derivatives"
+  },
+  {
+    "question_number": "14",
+    "question_text": "The concept in which the derivative trader gets a higher exposure for the small portion of margin amount brought by him is called as",
+    "options": [
+      "Arbitrage",
+      "Leverage",
+      "Delta Hedgeing",
+      "Speculation"
+    ],
+    "correct_answer": "Leverage",
+    "explanation": "A trader in the future’s market pays a relatively small margin for market exposure in relation to the contract value. This is known as leverage.",
+    "topic": "Derivatives"
+  },
+  {
+    "question_number": "15",
+    "question_text": "Which of the following problem(s) that exist in the forward contracts are solved by the Futures contracts ?",
+    "options": [
+      "acentral agency for monitoring",
+      "settlement problems",
+      "counter party risk",
+      "all of the above"
+    ],
+    "correct_answer": "all of the above",
+    "explanation": "Forwards are bilateral over-the-counter (OTC) transactions where the terms of the contract, such as price, quantity, quality, time and place are negotiated between two parties to the contract. There is a risk of an economic loss from the failure of counterparty to fulfil its contractual obligation. Futures markets were innovated to overcome the limitations of forwards. A futures contract is an agreement made through an organized exchange. The clearing corporation associated with the exchange guarantees settlement of these trades.",
+    "topic": "Derivatives"
+  },
+  {
+    "question_number": "16",
+    "question_text": "Loss incurred on derivatives transactions can be carried forward for a period of 12 assessment years - State whether True or False ?",
+    "options": [
+      "True",
+      "False"
+    ],
+    "correct_answer": "False",
+    "explanation": "Loss incurred on derivatives transactions which are carried out in a recognized stock exchange can be carried forward for a period of 8 assessment years.",
+    "topic": "Derivatives"
+  },
+  {
+    "question_number": "17",
+    "question_text": "A short position in a CALL option can be closed out by taking a long position in a PUT option with same exercise date and exercise price - State True or False ?",
+    "options": [
+      "True",
+      "False"
+    ],
+    "correct_answer": "False",
+    "explanation": "A short position in a CALL option can be closed out by taking a long position in a same CALL option with same exercise date and exercise price.",
+    "topic": "Derivatives"
+  },
+  {
+    "question_number": "7",
+    "question_text": "Which of the following complaints can be taken up by the exchange for redressal ?",
+    "options": [
+      "Claims for notional loss, opportunity loss for the disputed period or trade",
+      "Complaints pertaining to trades not executed on the Exchange by the complainant",
+      "Claims of sub-broker/authorized persons for private commercial dealings with the trading member",
+      "Excess Brokerage charged by Trading Member / Sub-broker"
+    ],
+    "correct_answer": "Excess Brokerage charged by Trading Member / Sub-broker",
+    "explanation": "Exchanges provide assistance if the complaints fall within the purview of the Exchange and are related to trades that are executed on the Exchange Platform. Excess Brokerage charged by Trading Member / Sub-broker comes under this assistance.",
+    "topic": "Exchange Operations"
+  },
+  {
+    "question_number": "19",
+    "question_text": "Mr. Ravi purchases 10 call option on stock at Rs. 20 per call with strike price of Rs 350. If on exercise date, stock price is Rs. 310, ignoring transaction cost, Mr. Ravi will",
+    "options": [
+      "to exercise the option",
+      "not to exercise the option",
+      "may or may not exercise the option depending on whether he likes the company or not",
+      "may or may not depending on whether he is in town or not"
+    ],
+    "correct_answer": "not to exercise the option",
+    "explanation": "Mr. Ravi has bought a Call Option assuming that the price will rise. The price has fallen and he is in a loss. So he will choose not to exercise his option. His loss is restricted to the premium he has paid.",
+    "topic": "Options Trading"
+  },
+  {
+    "question_number": "21",
+    "question_text": "Trading members are required to possess a higher level of Capital Adequacy (as per balance sheet) than clearing members- True or False ?",
+    "options": [
+      "True",
+      "False"
+    ],
+    "correct_answer": "False",
+    "explanation": "Clearing Members are permitted to settle their own trades as well as the trades of the other non-clearing members known as Trading Members who have agreed to settle the trades through them. Thus the Capital Adequacy requirement is higher for Clearing Members.",
+    "topic": "Capital Adequacy"
+  },
+  {
+    "question_number": "22",
+    "question_text": "A trader sold a call option on a share of strike price Rs. 200 and received a premium of Rs. 12 from the option buyer. What can be his maximum loss on this position ?",
+    "options": [
+      "Rs 200",
+      "Rs 188",
+      "Rs 12",
+      "Unlimited"
+    ],
+    "correct_answer": "Unlimited",
+    "explanation": "In this scenario, the trader sold a call option (i.e., wrote a call), meaning he has the obligation to sell the stock at the strike price (Rs. 200) if the option is exercised. If the market price of the stock stays at or below 200, the option won't be exercised, and the trader keeps the premium (Rs.12) as profit. If the stock price rises above Rs. 200, the option will be exercised, and the trader must sell at Rs. 200. His loss is theoretically unlimited, reduced by the premium received (Rs. 12).",
+    "topic": "Options Trading"
+  },
+  {
+    "question_number": "",
+    "question_text": "Securities Transaction Tax (STT) is levied on",
+    "options": [
+      "Purchase of Equity Shares",
+      "Sale of Derivatives",
+      "Purchase of Derivatives",
+      "Only 1 and 2"
+    ],
+    "correct_answer": "Only 1 and 2",
+    "explanation": "STT is levied on transactions involving equity, derivatives and equity oriented mutual funds. It is levied on purchase and sale of equity shares. STT is applicable only on all SELL transactions for futures and option contracts and not on purchase transactions of futures and options (derivatives).",
+    "topic": "Securities Transaction Tax"
+  },
+  {
+    "question_number": "",
+    "question_text": "The contract size in futures market is defined by",
+    "options": [
+      "The Stock Brokers",
+      "The Stock Exchange",
+      "The Parties to the contract",
+      "SEBI"
+    ],
+    "correct_answer": "The Stock Exchange",
+    "explanation": "The Contract size (Lot size) is specified by the exchange. (minimum value of Rs 5,00,000).",
+    "topic": "Futures Market"
+  },
+  {
+    "question_number": "1",
+    "question_text": "In Options, the seller of an contract pays an upfront premium at the time of entering into the contract - State whether True or False?",
+    "options": [
+      "True",
+      "False"
+    ],
+    "correct_answer": "False as the premium is paid by the buyer and not the seller",
+    "explanation": "In Options (Both Call and Put), the premium is paid by the buyer of options and not the seller of options. The seller receives the premium.",
+    "topic": "Options"
+  },
+  {
+    "question_number": "2",
+    "question_text": "In case of , the gain or loss is realised on daily basis due to mark-to-market mechanism.",
+    "options": [
+      "Swaps",
+      "Forward contracts",
+      "Future contracts",
+      "Option contracts"
+    ],
+    "correct_answer": "Future contracts",
+    "explanation": "In futures contracts, the mark-to-market (MT) mechanism is used to adjust the gains or losses on a daily basis. This means that each day, the profit or loss on the futures position is calculated based on the day's closing price, and the margin account is credited or debited accordingly.",
+    "topic": "Derivatives"
+  },
+  {
+    "question_number": "3",
+    "question_text": "A calendar spread in index futures is treated as in a far month contract when the near months contract is expired.",
+    "options": [
+      "long position",
+      "hedged position",
+      "naked position",
+      "Short position"
+    ],
+    "correct_answer": "naked position",
+    "explanation": "A calendar spread becomes a naked/open position, when the near month contract expires or either of the legs of spread is closed.",
+    "topic": "Futures"
+  },
+  {
+    "question_number": "4",
+    "question_text": "The main objective of derivatives is to enable market participants to___",
+    "options": [
+      "Trade",
+      "Manage the risks",
+      "Speculate",
+      "Arbitrage"
+    ],
+    "correct_answer": "Manage the risks",
+    "explanation": "Derivatives market helps in transfer of various risks from those who are exposed to risk but have low risk appetite to participants with high risk appetite.",
+    "topic": "Derivatives"
+  },
+  {
+    "question_number": "5",
+    "question_text": "Higher the interest rate, the higher the CALL option premium - State True or False?",
+    "options": [
+      "True",
+      "False"
+    ],
+    "correct_answer": "True",
+    "explanation": "High interest rates will result in an increase in the value of a CALL option and a decrease in the value of a PUT option.",
+    "topic": "Options"
+  },
+  {
+    "question_number": "6",
+    "question_text": "Buyer or holder of the option is the party to the contract who has",
+    "options": [
+      "the obligation but not the right",
+      "the right but not the obligation",
+      "the right and the obligation",
+      "None of the above"
+    ],
+    "correct_answer": "the right but not the obligation",
+    "explanation": "A Call option gives the buyer the right, but not the obligation to buy the underlying at the strike price.",
+    "topic": "Options"
+  },
+  {
+    "question_number": "7",
+    "question_text": "The Trading members on the exchanges derivatives segment are not required to be registered with SEBI.- State whether True or False?",
+    "options": [
+      "False",
+      "True"
+    ],
+    "correct_answer": "False",
+    "explanation": "SEBI has powers for Registering and regulating the working of stock brokers, sub—brokers, etc. A trading member on both the segments i.e. Cash and Derivative segments has to register with SEBI and Stock Exchanges.",
+    "topic": "Regulations"
+  },
+  {
+    "question_number": "1",
+    "question_text": "Which principle of futures trading makes trading possible for those who do not want to make or take delivery of underlying assets?",
+    "options": [
+      "Traded on a recognised exchange",
+      "Price uncertainty",
+      "Standardisation of contracts",
+      "Cash settlement"
+    ],
+    "correct_answer": "Cash settlement",
+    "explanation": "In a cash settlement method, the parties to a transaction settle by receiving or paying the gains or losses related to a contract in cash (ie. money transfer)",
+    "topic": "Futures Trading"
+  },
+  {
+    "question_number": "2",
+    "question_text": "On the National Stock Exchange, for its index futures, what would be the opening day of its April series?",
+    "options": [
+      "Last Friday of March month",
+      "Last Friday of April month",
+      "Last Friday of Jan month",
+      "Last Friday of February month"
+    ],
+    "correct_answer": "Last Friday of Jan month",
+    "explanation": "There are 3 series of index futures active all the time. A new series is introduced as the older series expires. On the last Thursday of Jan, the Jan series will expire. So that next day ie. on the last Friday of Jan, the April series will be activated.",
+    "topic": "Index Futures"
+  },
+  {
+    "question_number": "3",
+    "question_text": "Operational risks include losses due to.",
+    "options": [
+      "natural calamities",
+      "inadequate contingency planning",
+      "power failure",
+      "all of the above"
+    ],
+    "correct_answer": "all of the above",
+    "explanation": "An operational risk is defined as a risk incurred by an organisation's internal activities. So losses due to fraud, inadequate documentation, inadequate disaster management, inadequate contingency planning, improper execution are all Operational risks.",
+    "topic": "Operational Risks"
+  },
+  {
+    "question_number": "4",
+    "question_text": "The total number of outstanding / unsettled contracts in the market, at any point of time is known as “OPEN INTEREST” - True or False?",
+    "options": [
+      "True",
+      "False"
+    ],
+    "correct_answer": "True",
+    "explanation": "An open interest is the total number of contracts outstanding (yet to be settled) for an underlying asset.",
+    "topic": "Open Interest"
+  },
+  {
+    "question_number": "5",
+    "question_text": "The clearing corporation may utilize the client account margins deposited with it for fulfilling the dues which a clearing member may owe to the clearing corporation for the trades on the clearing member's own account. State True or False?",
+    "options": [
+      "True",
+      "False"
+    ],
+    "correct_answer": "False",
+    "explanation": "A client's money cannot be used by the Clearing or Trading member for his trades.",
+    "topic": "Clearing Corporation"
+  },
+  {
+    "question_number": "6",
+    "question_text": "A clearing member has deposited eligible liquid assets of Rs.75 lacs. The exchange has minimum liquid net worth requirement of Rs. 50 lakhs. The member has not entered into any transactions so far. What is the margin available for trading. (in lakhs)",
+    "options": [
+      "75",
+      "50",
+      "25",
+      "125"
+    ],
+    "correct_answer": "25",
+    "explanation": "Liquid Networth is defined as Liquid Assets minus Initial Margin. In above case he has deposited Rs 75 lakhs as liquid assets. Rs 50 lakhs is the requirement, so the balance Rs 25 lakhs will be used as initial margin.",
+    "topic": "Margin Trading"
+  },
+  {
+    "question_number": "7",
+    "question_text": "Is it true that an efficient cash market is required for an efficient futures market?",
+    "options": [
+      "Yes",
+      "No"
+    ],
+    "correct_answer": "Yes",
+    "explanation": "The prices of futures are derived from the underlying cash market prices. So an efficient cash market is required for an efficient futures market.",
+    "topic": "Futures Market"
+  },
+  {
+    "question_number": "39",
+    "question_text": "",
+    "options": [],
+    "correct_answer": "",
+    "explanation": "",
+    "topic": ""
+  },
+  {
+    "question_number": "40",
+    "question_text": "",
+    "options": [],
+    "correct_answer": "",
+    "explanation": "",
+    "topic": ""
+  },
+  {
+    "question_number": "41",
+    "question_text": "",
+    "options": [],
+    "correct_answer": "",
+    "explanation": "",
+    "topic": ""
+  },
+  {
+    "question_number": "42",
+    "question_text": "If the price of a future contract increases, the mark to market margin account of the holder of the short position in that contract is credited for the gain. State whether True or False ?",
+    "options": [
+      "True",
+      "False"
+    ],
+    "correct_answer": "False",
+    "explanation": "In a short position, if the price increases, there is a loss. So, the mark to market margin will be debited.",
+    "topic": "Derivatives"
+  },
+  {
+    "question_number": "43",
+    "question_text": "The absolute amount of minimum capital adequacy requirement for derivative brokers is same as that for cash market - True or False ?",
+    "options": [
+      "True",
+      "False"
+    ],
+    "correct_answer": "False",
+    "explanation": "The absolute amount of minimum capital adequacy requirement for derivative brokers/dealers has to be much higher than for cash market.",
+    "topic": "Capital Adequacy"
+  },
+  {
+    "question_number": "",
+    "question_text": "Change in option premium for a unit change in is known as Rho.",
+    "options": [
+      "market volatility",
+      "Price of the underlying asset",
+      "Risk free interest rate",
+      "liquidity"
+    ],
+    "correct_answer": "Risk free interest rate",
+    "explanation": "Rho is the change in option price given a one percentage point change in the risk-free interest rate.",
+    "topic": "Options"
+  },
+  {
+    "question_number": "",
+    "question_text": "The 'Ask' price is the price at which .",
+    "options": [
+      "the clearing corporation settles the transaction",
+      "the trader is prepared to sell the share",
+      "the trader is prepared to purchase the share",
+      "the trader is prepared to either buy or sell the share"
+    ],
+    "correct_answer": "the trader is prepared to sell the share",
+    "explanation": "BID-ASK price means Buyer and Seller price - eg The BID-ASK price of a stock as seen on the trading screen is Rs 100 - 101. So Ask price is the price at which the trader is prepared to sell the share ( i.e. Rs 101 in above example).",
+    "topic": "Trading"
+  },
+  {
+    "question_number": "",
+    "question_text": "In India, futures and options on individual stocks are allowed on.",
+    "options": [
+      "A few selected stocks only",
+      "All stocks listed on any of the exchanges",
+      "All stocks with stock price of more than Rs.100 or Rs 50 in A and B group resp.",
+      "Only those stocks which are simultaneously listed on all the stock exchange in India"
+    ],
+    "correct_answer": "Only those stocks which are simultaneously listed on all the stock exchange in India",
+    "explanation": "Only those stocks are included to be traded in the derivatives segment which meet the SEBI / Exchange criteria for derivatives trading.",
+    "topic": "Derivatives"
+  },
+  {
+    "question_number": "",
+    "question_text": "Higher the price volatility, higher would be the initial margin requirement - State True or False ?",
+    "options": [
+      "True",
+      "False"
+    ],
+    "correct_answer": "True",
+    "explanation": "If the price of a stock is very volatile, the risk of losses increases. So the Stock Exchanges collect higher initial margins in such cases.",
+    "topic": "Margin Requirements"
+  },
+  {
+    "question_number": "",
+    "question_text": "In a derivative exchange, the net worth requirement for a clearing member is higher than that of a non-clearing member (ie. a member who only clears his trades).",
+    "options": [
+      "True",
+      "False"
+    ],
+    "correct_answer": "True",
+    "explanation": "Clearing Member Eligibility Norms : Net-worth of at least Rs.300 lakhs. The Net-worth requirement for a Clearing Member who clears and settles only deals executed by him is Rs. 100 lakhs.",
+    "topic": "Clearing Members"
+  },
+  {
+    "question_number": "6",
+    "question_text": "The strategy of buying a put option on a stock you are owning is known as",
+    "options": [
+      "Calendar spread",
+      "Aggressive put",
+      "Protective put",
+      "Straddle"
+    ],
+    "correct_answer": "Protective put",
+    "explanation": "A Protective Put strategy involves buying a put option on a stock that you already own to hedge against potential downside risk.",
+    "topic": "Options Trading"
+  },
+  {
+    "question_number": "245",
+    "question_text": "All active members of the Exchange are required to make initial contribution towards Trade Guarantee Fund of the Exchange - State True or False?",
+    "options": [
+      "True",
+      "False"
+    ],
+    "correct_answer": "True",
+    "explanation": "Main objectives of Trade Guarantee Fund (TGF): To guarantee settlement of bonafide transactions of the members of the exchange. To inculcate confidence in the minds of market participants. To protect the interest of the investors in securities.",
+    "topic": "Exchange Regulations"
+  },
+  {
+    "question_number": "246",
+    "question_text": "An increase in the interest rates will lead to",
+    "options": [
+      "increase the premium on put options",
+      "decrease the premium on put options",
+      "No effect on put options",
+      "Expiration of the option automatically"
+    ],
+    "correct_answer": "decrease the premium on put options",
+    "explanation": "An increase in interest rates generally leads to a decrease in put option premiums due to the following factors: Higher interest rates reduce the attractiveness of holding cash or risk-free assets, making put options (which provide downside protection) less valuable. The cost-of-carry effect—since put options involve selling the underlying asset, the higher interest rate increases the opportunity cost of holding short positions, thus lowering demand for puts.",
+    "topic": "Options Pricing"
+  },
+  {
+    "question_number": "247",
+    "question_text": "In a forward contract, the party that’s agrees to sell the underlying asset on a certain specified date for a certain specified price is said to have assumed.",
+    "options": [
+      "Along position",
+      "a square off position",
+      "a short position",
+      "a trade off position"
+    ],
+    "correct_answer": "a short position",
+    "explanation": "In a forward contract, there are two parties: One party agrees to buy the underlying asset in the future — Takes a Long Position. The other party agrees to sell the underlying asset in the future — Takes a Short Position.",
+    "topic": "Derivatives"
+  },
+  {
+    "question_number": "248",
+    "question_text": "Mr. Hitesh is a trading member. One of his clients has purchased 12 contracts of March series index futures and another client as has sold 10 contracts of March series index futures. The exposure of Mr. Hitesh as trading member is.",
+    "options": [
+      "grossed up at 22 contracts",
+      "netted out at 2 contracts",
+      "maximum of 10 and 12 which is 12 contracts",
+      "The Exchange will decide to either gross up or net out the exposure depending upon his past record"
+    ],
+    "correct_answer": "grossed up at 22 contracts",
+    "explanation": "The open position of all the clients of a trading member are grossed up to arrive at the total exposure of the trading member.",
+    "topic": "Trading and Risk Management"
+  },
+  {
+    "question_number": "49",
+    "question_text": "In case of Call options, if the market price is less than the exercise (strike) price, the option will",
+    "options": [
+      "expire worthless",
+      "seller of the option will exercise it",
+      "will definitely get exercised",
+      "none of the above"
+    ],
+    "correct_answer": "expire worthless",
+    "explanation": "A Gall Option gives the holder (buyer) the right, but not the obligation, to buy an asset at the exercise (strike) price before or at expiration. - If the market price is less than the strike price, the option holder would not exercise the option because they can buy the asset at a lower price in the open market. - As a result, the option expires worthless, and the option seller (writer) keeps the premium received.",
+    "topic": "Options"
+  },
+  {
+    "question_number": "50",
+    "question_text": "Does the difference between exercise price of the option and spot price affects option premium ? State Yes or No.",
+    "options": [
+      "Yes",
+      "No"
+    ],
+    "correct_answer": "Yes",
+    "explanation": "The Option premium is a combination of intrinsic value and time value and other factors. The Intrinsic value is difference between Spot and Exercise Price (Strike Price). Exercise price remains constant whereas the Spot price fluctuates. So the option premium will fluctuate as per the movement in Spot price.",
+    "topic": "Options"
+  },
+  {
+    "question_number": "51",
+    "question_text": "A high initial margin level improves solvency & financial capability of the clearing corporation - True or False ?",
+    "options": [
+      "True",
+      "False"
+    ],
+    "correct_answer": "True",
+    "explanation": "Higher initial margin collection from trading members reduces the chances of their defaults thus improving the solvency & financial capability of the clearing corporation.",
+    "topic": "Financial Markets"
+  },
+  {
+    "question_number": "51",
+    "question_text": "An American put option gives the buyer the right but not the obligations to sell to the writer an underlying asset at a specified price on or before the expiry date - State whether True or False ?",
+    "options": [
+      "True",
+      "False"
+    ],
+    "correct_answer": "True",
+    "explanation": "The owner of American option can exercise his right at any time on or before the expiry date/day of the contract.",
+    "topic": "Options"
+  },
+  {
+    "question_number": "52",
+    "question_text": "State True or False - A futures contract is usually referred to by its delivery month.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "correct_answer": "True",
+    "explanation": "A key characteristic of a futures contract that designates when the contract expires and when the underlying asset must be delivered. The exchange on the futures contract is traded will also establish a delivery location and a date within the delivery month when the delivery can take place.",
+    "topic": "Futures"
+  },
+  {
+    "question_number": "54",
+    "question_text": "Mr A sold a put option of strike Rs.400 on PQR stock for a premium of Rs.32. The lot size is 500. On the expiry day, PQR stock closed at Rs. 350. What is his net profit or loss?",
+    "options": [
+      "-25000 (Loss)",
+      "-9000 (Loss)",
+      "9000 (Profit)",
+      "25000 (Profit)"
+    ],
+    "correct_answer": "-9000 (Loss)",
+    "explanation": "Mr. A sold a PUT option, that means he has a bullish or neutral view on PQR stock. However, PQR stock has fallen by Rs 50 ( 400 - 350). Which means he has lost Rs 50. Since he has sold a PUT, he will receive the premium which is Rs 32. So his net loss will be Rs 50 (Loss) - Rs 32 (Premium Recd) = Rs 18 Total Loss = Rs 18 x 500 (lot size) = Rs. 9000",
+    "topic": "Options"
+  }
+]

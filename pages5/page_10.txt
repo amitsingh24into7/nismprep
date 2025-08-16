@@ -1,0 +1,81 @@
+Q48.
+
+Q 49.
+
+Q 23.
+
+Default risk is also known as
+Credit Risk
+Counterparty Risk
+Both of the above
+None of the above
+
+v CORRECT ANSWER A
+Explanation:
+
+Counterparty risk is the risk arising out of the default of a counterparty to the transaction. It is the risk of an economic loss from the failure of the counterparty to fulfil its contractual obligation. This risk is also
+called default risk or credit risk.
+
+It is generally not applicable to clients trading in exchange-traded equity derivatives because the settlement of such transactions is guaranteed by the exchange / clearing corporation,
+
+What is a ‘Stock Option’?
+Its a debt instrument
+Its a derivative instrument
+Its a foreign exchange instrument
+Its a money market instrument
+
+v¥ CORRECTANSWER
+Explanation:
+
+Stock option: These options have individual stocks as the underlying asset. For example, option on ONGC, NTPC, etc. These options are derivative instruments.
+
+On announcement of the record date for merger/demerger, the unexpired futures and options contracts on the underlying securities which are outstanding on the last cum date
+
+Will compulsorily be settled at the settlement price on the last cum date
+
+Will continue to be traded till their expiry date
+
+Will be squared up by the broker at the day’s opening price
+
+Will be closed-off by the merged /demerged company at a predetermined price
+
+% WRONG ANSWER
+CORRECT ANSWER:
+
+Will compulsorily be settled at the settlement price on the last cum date
+
+Explanation: 4
+On announcement of the record date for merger/demerger, the last cum-date for merger/demerger would be determined by the Exchange/ Clearing Corporation.
+
+Un-expired contracts in the underlying, which shall cease to exist subsequent to the merger/demerger, outstanding as on last cum-date shall be compulsorily settled at the settlement price. The settlement price
+shall be the last available closing price of such underlying in the Capital Market segment of the Exchanges, on the last cum-date.
+
+Mr. Ashish is a portfolio manager and he is bullish on the market. What should be his course of action ?
+He should sell index futures
+He should sell index call option
+He should buy index futures
+He should sell his complete portfolio
+
+@ UnAttempted
+CORRECT ANSWER:
+
+He should buy index futures
+
+The main proof of whether a futures transaction is for speculation or hedging is based on whether there already exists a related commercial position which is exposed to risk of loss due
+to price movement - State True or False ?
+
+True
+
+False
+
+® UnAttempted
+CORRECT ANSWER:
+
+True
+
+Explanation:
+
+Hedgeing basically means making a trade to reduce the risk of adverse price movements in an asset which you already hold. Normally, a hedge consists of taking an offsetting position in a related security, such
+as futures contract
+
+For eg. -A company will be receiving dollars after three months. So to safe guard against any fluctuations, it sells dollars in the futures market (3 month futures) and locks in the price.

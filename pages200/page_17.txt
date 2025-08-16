@@ -1,0 +1,105 @@
+Q92.
+
+Q93.
+
+Qo4.
+
+Qos.
+
+Q96.
+
+Qo7.
+
+The Derivative markets mostly comprises of —
+Long term investors
+Hedgers
+Speculators
+Both 2 and 3
+
+Y CORRECT ANSWER
+Explanation:
+
+Long term investors buy stocks in Cash market for delivery. Hedgers and Speculators are active in the derivative markets.
+
+As per the Income Tax Act, any loss on derivatives transaction can be set-off against income in the same year.
+Any other business
+House property
+Salary
+Capital gains
+
+% WRONG ANSWER
+CORRECT ANSWER:
+
+Any other business
+Explanation: “
+
+Finance Act, 2005 implies that income or loss on derivative transactions which are carried out in a “recognized stock exchange” is not taxed as speculative income or loss. Thus, loss on derivative transactions
+can be set off against any other income during the year (except salary income).
+
+Delta is the change in option price given a one-day decrease in time to expiration - State True or False ?
+True
+False
+
+v CORRECT ANSWER EN
+Explanation:
+
+The most important of the ‘Greeks’ is the option’s is “Delta”. This measures the sensitivity of the option value to a given small change in the spot price of the underlying asset. It may also be seen as the speed
+with which an option moves with respect to price of the underlying asset.
+
+measure of the sensitivity of an option price to changes in market volatility.
+Rho
+Theta
+Gamma
+Vega
+
+v CORRECT ANSWER 4a
+Explanation:
+
+Vega represents the amount of price changes in an option in reaction to a 1% change in the volatility of the underlying asset.
+
+Volatility measures the amount and speed at which price moves up and down, and is often based on changes in recent, historical prices in a trading instrument. Vega changes when there are large price
+movements (increased volatility) in the underlying asset, and falls as the option approaches expiration.
+
+Vega = Change in an option premium/ Change in volatility
+
+Clearing Corporation acts as a legal counterparty to all trades on F&O segment and also guarantees their financial settlement. True / False.
+True
+False
+
+v CORRECT ANSWER
+
+Explanation:
+
+Clearing Corporation or the Clearing House is responsible for clearing and settlement of all trades executed on the F&O Segment of the Exchange.
+Clearing Corporation acts as a legal counterparty to all trades on this segment and also guarantees their financial settlement.
+
+The Clearing and Settlement process comprises of three main activities, viz., Clearing, Settlement and Risk Management.
+
+Arbitrage is a tool used to protects ones portfolio against any downturn by going short in index. True or False ?
+True
+False
+
+¥ CORRECTANSWER
+Explanation:
+
+To protect ones portfolio against any downturn by going short in index is called Hedgeing.
+
+Arbitrage is a tool to use price differences in different markets to make a profit.
+
+Acall option is said to be , when spot price is higher than strike price.
+At the money
+Out of the money
+In the money
+European
+
+> WRONG ANSWER
+CORRECT ANSWER:
+
+In the money
+Explanation: a
+Acall option with a strike price that is lower than the market price of the underlying asset, or a put option with a strike price that is higher than the market price of the underlying asset.
+
+For example, consider a stock that is trading at Rs 100. For such a stock, call options with strike prices below Rs 100 would be In-the-money calls ( ie Rs 80, Rs 90 calls) while put options with strike prices above
+Rs 100 (Rs 110 , Rs 120 calls etc.)would be In-the-money puts.
+
+For easy understanding, those calls or puts which are profitable are In-the-Money.

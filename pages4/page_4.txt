@@ -1,0 +1,83 @@
+Q20.
+
+Q21.
+
+Q23.
+
+Losses incurred on derivative transactions on a ‘recognized stock exchange’ can be carried forward to subsequent assessment year and set off against any other non-speculative
+business income of the subsequent year.
+
+5
+
+8
+
+12
+
+15
+
+¥ CORRECT ANSWER EN
+Explanation:
+
+Loss incurred on derivatives transactions which are carried out in a recognized stock exchange can be carried forward for a period of 8 assessment years.
+
+The price at which the underlying asset can be bought or sold on exercise of an option is called
+Spot Price
+Risk Premium
+Strike Price
+Option Premium
+
+¥ CORRECTANSWER
+
+Explanation:
+Strike price or Exercise price is the price per share for which the underlying security may be purchased or sold by the option holder.
+
+In an ‘Opening Buy Transaction’ the effect will be that of creating or increasing _s-
+Arbitrage position
+Cross position
+Long position
+Short position
+
+¥ CORRECTANSWER
+
+Explanation:
+Opening a position means either buying or selling a contract, which increases client’s open position (long or short).
+
+Opening a Buy transaction means creating or adding LONG positions with a view that the price will increase.
+
+The initial margin in derivatives market depends on the volatility of the underlying market. Usually
+Higher the volatility, Lower the initial margin
+Higher the volatility, Higher the initial margin
+Lower the volatility, Higher the initial margin
+None of the above
+
+¥ CORRECT ANSWER
+Explanation:
+
+If the stock is very volatile it could result in looses to the trader in a short period of time. So to safe guard the trading member and the trader, higher initial margin are levied on volatile stocks.
+
+In general terms, if the number of participants in a market are more, the liquidity will be low - State True or False?
+True
+False
+
+v¥ CORRECT ANSWER
+
+Explanation:
+Liquidity in the context of stock market means a market where large orders are executed without moving the prices.
+
+So if there are more the participants, higher should be the liquidity.
+
+All types of investors should allot some portion of their portfolio to derivative products in order to increase the portfolio returns irrespective of their risk tolerance levels - State True or
+False ?
+
+True
+
+False
+
+% WRONG ANSWER
+CORRECT ANSWER:
+
+False
+Explanation: A
+
+Derivatives are ideally used as a hedging product and not investment products. Also, as a stand alone investment, they can prove to be very risky. So investors who do not want to take risks, senior citizens etc,
+should not trade / invest in derivative products.

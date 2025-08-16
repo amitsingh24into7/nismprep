@@ -1,0 +1,82 @@
+213. initial Margin can be paid by 7
+
+Bank guarantee
+Bank transfer of funds
+Acceptable securities
+All of the above
+
+X WRONG ANSWER
+CORRECT ANSWER:
+
+All of the above
+
+Explanation:
+The amount one needs to deposit in the margin account at the time of entering into a futures contract is known as the initial margin.
+
+This can be paid by Cash, Bank Guarantee, Fixed Deposit Receipts and approved securities etc.
+
+@ 14 Which of these is true for an ‘In-the-money' option ?
+
+O'In-the-money' has a negative intrinsic value
+
+O'ln-the-money’ option has zero time value
+
+O'In-the-money' option cannot be profitably exercised by the holder immediately
+O'ln-the-money' has a positive intrinsic value
+
+215: A CALL OPTION will give the buyer the .
+
+Right to sell the underlying asset
+Right to buy the underlying asset
+Obligation to sell the underlying asset
+Obligation to buy the underlying asset
+
+¥ CORRECT ANSWER
+Explanation:
+
+A call option gives the buyer the right but not the obligation to buy from the seller an underlying asset at the prevailing market price on or before the expiry date.
+
+In the derivatives exchange, the networth requirement for a clearing member is less than that of a non-clearing member - State whether true or false?
+OTrue
+O False
+
+The New York stock exchange has two important indices - Dow Jones (DJIA) and Standard and Poor 500 (S&P 500). The DuIAis a
+Very Liquid , Very Illiquid
+Fully Diversified, Fully Concentrated
+Narrow , Broad
+Broad , Narrow
+
+index where as the S&P 500 is a index.
+
+X WRONG ANSWER
+CORRECT ANSWER:
+
+Narrow , Broad
+
+Explanation: 4
+‘The Dow Jones Industrial Average (DJIA) a stock market index of 30 prominent companies listed on stock exchanges in the United States.
+
+The Standard and Poor's 500, or simply the S&P 500, is a stock market index tracking the stock performance of 500 large companies listed on stock exchanges in the United States.
+
+Therefore, Dow Jones can be considered as narrow index as it covers only 30 companies where as S&P is a broad index as it covers 500 companies.
+
+Identify the correct statement for ‘In-the-money’ Call Option?
+Strike price will be higher than the market price
+Strike price will be zero
+Exercise price would be equal to the market price
+Strike price will be lower than the market price
+
+% WRONG ANSWER
+CORRECT ANSWER:
+
+Strike price will be lower than the market price
+Explanation:
+An In-the-Money (ITM) Call Option occurs when:
+
+© The strike price (also called exercise price) is less than the current market price of the underlying asset.
+* This gives the option holder the right to buy the asset below market value, which has intrinsic value.
+
+Example of ITM Call Option : If a stock is trading at Rs. 120 and the call option has a strike price of Rs. 100:
+
+© The option is Rs. 20 in-the-money
+e The holder can buy at Rs. 100 and potentially sell at Rs. 120

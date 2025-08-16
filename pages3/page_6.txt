@@ -1,0 +1,72 @@
+Q 30.
+
+Q31.
+
+Q32.
+
+Q33.
+
+When there is a ‘Closing buy transaction’, this will have the effect of partly or fully offsetting F
+Across position
+A short position
+A high position
+Along position
+
+% WRONG ANSWER
+CORRECT ANSWER:
+
+A short position
+
+Explanation:
+Creating a Short Position means selling the asset on an exchange with a view to buy it back when the price falls.
+
+So a Closing Buy transaction will be used to buy back / offset the short position created.
+
+Mr P and Mr Q are brokers of a stock exchange . Both of them have maintained Rs 7 crores of liquid assets consisting of equity shares and other assets. Both have the same exposure
+limits on day one. Based on this, which of the following statements is true ?
+
+The minimum exposure possible for the two brokers may change from time to time based on the changes in those asset valuations, even if they do not withdraw the assets deposited
+
+The minimum exposure possible for the two brokers will remain same for ever, even if they withdraw the asset deposited subsequently
+
+The minimum exposure possible for the two brokers will remain the same forever as long as they do not withdraw the assets deposited
+
+None of the above
+
+%X WRONG ANSWER
+CORRECT ANSWER:
+
+The minimum exposure possible for the two brokers may change from time to time based on the changes in those asset valuations, even if they do not withdraw the assets deposited
+
+Explanation: 4A
+
+The exposure depends on the value of assets deposited. Although both P and Q have deposited assets worth Rs.7 crores, the assets could be different (equity shares of different companies) and the value of
+these will become higher or lower as time passes. So the exposure limits will also change accordingly.
+
+Ms. Deepika is bearish on the market, so she is expecting the market to
+Rise
+Fall
+Remain constant
+Move sideways
+
+¥ CORRECT ANSWER
+Explanation:
+Investors who have a bearish on the stock or index expect the stock price or index level to fall, take a short position in the stock futures or index futures contract.
+
+(Investors who have a bullish view on the underlying stock or index expect the stock price or index level to increase and they take a long position in the stock futures or index futures contract).
+
+Identify the True formula for Cost of Carry model.
+Price of Futures = Cost of carry
+Price of Futures = Spot price
+Price of Futures = Spot + Cost of carry
+Price of Futures = Spot - Cost of carry
+
+v CORRECT ANSWER
+Explanation:
+
+Cost of Carry is the relationship between futures prices and spot prices. For stock derivatives, carrying cost Is the interest paid to finance the purchase.
+
+For example, assume the share of XYZ Ltd is trading at Rs. 500 in the cash market. A person wishes to buy the share, but does not have money. In that case he would have to borrow Rs. 500 at the rate of, say,
+12% per annum, So 1% ie. Rs 5 ( 1% of Rs 500) is the per month interest cost. and this Rs 5 is the cost of carry.
+
+‘The future price (ideally) at the beginning of month will be Spot Price + Cost of Carry ie. Rs 500 + Rs 5=Rs 505.

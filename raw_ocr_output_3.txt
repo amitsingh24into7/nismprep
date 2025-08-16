@@ -1,0 +1,284 @@
+Q7
+
+Along position in futures market can be reversed only with the same counterparty from whom the contract was initially purchased - State whether True or False?
+True
+False
+
+XX WRONG ANSWER
+CORRECT ANSWER:
+
+False
+
+Explanation: 4
+
+Futures contracts are traded on screen based derivatives market where the identity of the buyer and seller is unknown to each other. A trade can be squared off with any buyer or seller whose quotes are available
+on the screen.
+
+The Clearing Corporation acts as a legal counterparty for every contract and guarantees the trades.
+
+The broker is compulsorily required to get a Risk Disclosure Document signed by the client, at the time of client registration - State True or False?
+True
+False
+
+CORRECT ANSWER 4
+Explanation:
+
+The broker is required to get a Risk Disclosure Document signed by the client, at the time of client registration. This document informs clients about the kind of risks that derivatives can involve for the client. It
+makes the client aware and well informed.
+
+Meghna wants to sell 34 contracts of ABC futures at Rs. 2450 (contract multiplier is 50) . Initial margin is 7%. How much will be the i
+Rs. 4165000
+Rs. 83300
+Rs. 5831
+Rs. 291550
+
+itial margin to be paid ?
+
+vCORRECT ANSWER a
+Explanation:
+
+Initial Margin = Number of Contracts x Price per Contract x Contract Multiplier x Margin Rate
+Initial Margin to be collected from Meghna : 34 contracts x Rs 2450 X X 50 (Market lot) at 7%
+
+= Rs 4165000 x 7% = Rs 291550
+
+Arbitrage is basically earning a risk-free profit by simultaneous buying and selling replicating assets in two or more different markets - State True or False?
+True
+False
+
+CORRECT ANSWER 4
+Explanation:
+
+Arbitrage is a deal that produces profit by exploiting a price difference in a product in two different markets. Arbitrage originates when a trader purchases an asset cheaply in one location and simultaneously
+arranges to sell it at a higher price in another location.
+
+In case of a member’s default, the Clearing Corporation cannot transfer clients positions to another member or close out all open positions of defaulting member, without prior approva
+from SEBI — State True or False ?
+
+True
+False
+
+% WRONG ANSWER
+CORRECT ANSWER:
+
+False
+
+Explanation: 4
+As per SEBI rules - The Clearing Corporation can transfer client positions from one broker member to another broker member in the event of a default by the first broker member.
+
+Areportis then sent to SEBI regarding this.
+
+roanny Vurpurauun aute ae a eyer CUS party ww an auce uF ocy!
+
+For which type of options is it profitable to exercise the options ?
+At the Money
+Out of the Money
+In the Money
+None of the above
+
+% WRONG ANSWER
+CORRECT ANSWER:
+
+In the Money
+Explanation: 4
+
+IN THE MONEY - A call option with a strike price that is lower than the market price of the underlying asset, or a put option with a strike price that is higher than the market price of the underlying asset. In the
+money means that your stock option is worth money and you can turn around and sell or exercise it.
+
+For example, consider a stock that is trading at Rs 100. For such a stock, call options with strike prices below Rs 100 would be In the money calls ( ie Rs 80, Rs 90 calls) while put options with strike prices above
+Rs 100 (Rs 110 , Rs 120 calls etc.) would be In the money puts.
+
+For easy understanding, those calls or puts which are profitable are In the Money.
+
+Qo
+
+Q10.
+
+Q13.
+
+Aseller of call option can lose unlimited amount of money - State True or False?
+True
+False
+
+ CORRECTANSWER
+Explanation:
+
+A seller (writer) of a call option faces unlimited potential losses, because:
+
+If the price of the underlying asset rises significantly, the seller must buy the asset at the market price and sell it at the strike price, resulting in potentially unlimited losses.
+
+The higher the price of the asset, the greater the loss for the call option seller, since there is no upper limit to price increases.
+
+In contrast, the buyer of a call option has limited risk, restricted to the premium paid for the option.
+
+‘Bulls’ are those investors who believe the market will rise - State True or False?
+True
+False
+
+v CORRECTANSWER
+Explanation:
+
+Investors who believe that the markets will rise are called Bulls and investors who believe that markets will fall are known as Bears.
+The initial margin is always equal to the mark-to-market margin - State True or False?
+True
+
+False
+
+ CORRECTANSWER
+Explanation:
+
+Mark to Market is a process by which margins are adjusted on the basis of daily price changes in the markets for underlying assets. So this margin is as per the daily price movements.
+
+Initial margin is usually fixed depending on the price volatility. Higher the volatility, higher the initial margin.
+
+What does a seller of Put Option expect?
+An increase in the price of the underlying
+No change in the price of the underlying
+Adecrease in the price of the underlying
+Both 1 and 2
+
+X WRONG ANSWER
+CORRECT ANSWER:
+
+Both 1 and 2
+
+Explanation:
+Aseller of put option expects the price to rise. Even if the price remains stable, the seller earns the option premium.
+Aperson who sells a put option is making a bet that the price of the stock will not go down. They want the stock to either:
+
+« Stay the same, or
+* Goup
+
+If that happens, the buyer won't use the option, and the seller gets to keep the premium (the fee paid to them) without doing anything else.
+
+In the derivatives segment, who has to pay the margins as specified by the Clearing Corporation?
+Clients
+
+Arbitrageurs
+Financial Institutions
+All of the above
+
+vCORRECT ANSWER
+Explanation:
+
+All those who trade in the derivatives segment have to pay margins without exception.
+
+When the price of a future contract decreases, the margin account ‘
+of the seller of futures contract will be credited for the gain
+of the buyer of futures contract will be debited for the loss
+Both 1 and 2
+None of the above
+
+vCORRECT ANSWER
+Explanation:
+
+The buyer of futures will have a notional loss and so his margin account will be debited by the notional loss amount.
+
+The seller of futures will have a notional profit if the price falls and his margin account will be credited by the notional gain amount.
+
+Mr. Ganesh thinks that the markets will go down, so he sell 10 lots of index futures at 3500. His predictions come true and the index falls and Mr. Ganesh buys back the futures contract
+at 3410. What is the profit Mr. Ganesh has made if one lot of index is of 50.
+
+35000
+
+45000
+
+55000
+
+65000
+
+vCORRECT ANSWER A
+Explanation:
+
+Mr Ganesh had sold at Rs 3500 and bought back at Rs 3410. So he made a profit of Rs 90.
+Total Quantity sold = 10 lots x 50 (lot size) = 500
+
+Total Profit = Rs 90 x 500 = Rs 45,000
+
+Quo.
+
+Options contracts have two types of settlements: premium settlement and Final
+settlement
+Daily
+Weekly
+Monthly
+Yearly
+XX WRONG ANSWER
+CORRECT ANSWER:
+Daily
+Explanation: 4
+Options contracts have two types of settlements: Daily premium settlement and Final settlement.
+Daily Premium Settlement :The buyer of an option pays the premium, while the seller receives the same. The amount payable and receivable as premium are netted to compute the net premium payable or
+receivable amount for each client for each option contract. The clearing members who have a premium payable position are required to pay the premium amount to the clearing corporation and in turn this
+amount is passed on to the members who have a premium receivable position. This is known as daily premium settlement.
+The premium payable amount and premium receivable amount are directly credited/ debited to the clearing member's clearing bank account on T+1 day, where Tis the trade date.
+16. - -
+2 Investors who believe that the markets will fall are known as Bulls - State True or False?
+True
+False
+vCORRECT ANSWER
+Explanation:
+Investors who believe that the markets will fall are known as Bears.
+Investors who believe that the markets will rise are known as Bulls.
+217 Which of the below statement(s) hold true for Futures Contract?
+Futures Contracts are settled through clearing corporation of the exchange
+Futures Contracts are standardized contracts
+Futures Contracts are traded on an exchange
+All of the above
+ CORRECTANSWER
+Explanation:
+Futures contract are standardised in terms of size of the contract, time to expiry etc. They are always traded on a recognised exchange and the settlement is through a clearing corporation.
+Q 1B, wane wei in
+Q 18.
+
+What is Tick size?
+Tick size is the size of the futures contract
+Tick size is the maximum permitted movement in the price of the contract
+Tick size is the minimum permitted movement in the price of the contract
+Tick size is the average of the high and low permitted prices
+
+X WRONG ANSWER
+CORRECT ANSWER:
+
+Tick size is the minimum permitted movement in the price of the contract
+
+Explanation:
+
+Tick Size is the minimum move allowed in the price quotations.
+
+Q19.
+
+Q 20.
+
+Q21.
+
+Q22.
+
+Q23.
+
+In a calendar spread transaction, the trader takes opposite position in two futures contract with
+two different underlying assets and same delivery month
+two differently delivery months and two different underlying assets
+two differently delivery months and same underlying asset
+one stock and one index of same delivery months
+
+CORRECT ANSWER
+
+Explanation:
+
+Calendar spread position is a combination of two positions in futures on the same underlying - long on one maturity contract and short on a different maturity contract. For instance, a short position in
+near month contract coupled with a long position in far month contract is a calendar spread position.
+
+When a seller SHORT SELLS a stock, it means :
+He has more than a months time to deliver the stock which he sold
+He owns the stock he is supposed to deliver
+He has to deliver the stock within a short time
+He does not own the stock he is supposed to deliver
+
+CORRECT ANSWER
+Explanation:
+
+Selling Short means Seller does not own the stock he is supposed to deliver.
+
+He has done a sale trade because he expects the price to fall and has to buy back the stock (either with a profit or loss) before the end of trading on that day.
+

@@ -1,0 +1,69 @@
+Mr. Ganesh thinks that the markets will go down, so he sell 10 lots of index futures at 3500. His predictions come true and the index falls and Mr. Ganesh buys back the futures contract
+at 3410. What is the profit Mr. Ganesh has made if one lot of index is of 50.
+
+35000
+
+45000
+
+55000
+
+65000
+
+v CORRECT ANSWER A
+Explanation:
+
+Mr Ganesh had sold at Rs 3500 and bought back at Rs 3410. So he made a profit of Rs 90.
+Total Quantity sold = 10 lots x 50 (lot size) = 500
+
+Total Profit = Rs 90 x 500 = Rs 45,000
+
+Quo.
+
+Options contracts have two types of settlements: premium settlement and Final
+settlement
+Daily
+Weekly
+Monthly
+Yearly
+XX WRONG ANSWER
+CORRECT ANSWER:
+Daily
+Explanation: 4
+Options contracts have two types of settlements: Daily premium settlement and Final settlement.
+Daily Premium Settlement :The buyer of an option pays the premium, while the seller receives the same. The amount payable and receivable as premium are netted to compute the net premium payable or
+receivable amount for each client for each option contract. The clearing members who have a premium payable position are required to pay the premium amount to the clearing corporation and in turn this
+amount is passed on to the members who have a premium receivable position. This is known as daily premium settlement.
+The premium payable amount and premium receivable amount are directly credited/ debited to the clearing member's clearing bank account on T+1 day, where Tis the trade date.
+16. - -
+2 Investors who believe that the markets will fall are known as Bulls - State True or False?
+True
+False
+v CORRECT ANSWER
+Explanation:
+Investors who believe that the markets will fall are known as Bears.
+Investors who believe that the markets will rise are known as Bulls.
+217 Which of the below statement(s) hold true for Futures Contract?
+Futures Contracts are settled through clearing corporation of the exchange
+Futures Contracts are standardized contracts
+Futures Contracts are traded on an exchange
+All of the above
+¥ CORRECTANSWER
+Explanation:
+Futures contract are standardised in terms of size of the contract, time to expiry etc. They are always traded on a recognised exchange and the settlement is through a clearing corporation.
+Q 1B, wane wei in
+Q 18.
+
+What is Tick size?
+Tick size is the size of the futures contract
+Tick size is the maximum permitted movement in the price of the contract
+Tick size is the minimum permitted movement in the price of the contract
+Tick size is the average of the high and low permitted prices
+
+X WRONG ANSWER
+CORRECT ANSWER:
+
+Tick size is the minimum permitted movement in the price of the contract
+
+Explanation:
+
+Tick Size is the minimum move allowed in the price quotations.

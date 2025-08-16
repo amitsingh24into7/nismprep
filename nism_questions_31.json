@@ -1,0 +1,214 @@
+[
+  {
+    "question_number": "Q7",
+    "question_text": "Along position in futures market can be reversed only with the same counterparty from whom the contract was initially purchased - State whether True or False?",
+    "options": [
+      "True",
+      "False"
+    ],
+    "correct_answer": "False",
+    "explanation": "Futures contracts are traded on screen based derivatives market where the identity of the buyer and seller is unknown to each other. A trade can be squared off with any buyer or seller whose quotes are available on the screen. The Clearing Corporation acts as a legal counterparty for every contract and guarantees the trades."
+  },
+  {
+    "question_number": "Q8",
+    "question_text": "The broker is compulsorily required to get a Risk Disclosure Document signed by the client, at the time of client registration - State True or False?",
+    "options": [
+      "True",
+      "False"
+    ],
+    "correct_answer": "True",
+    "explanation": "The broker is required to get a Risk Disclosure Document signed by the client, at the time of client registration. This document informs clients about the kind of risks that derivatives can involve for the client. It makes the client aware and well informed."
+  },
+  {
+    "question_number": "Q9",
+    "question_text": "Meghna wants to sell 34 contracts of ABC futures at Rs. 2450 (contract multiplier is 50) . Initial margin is 7%. How much will be the initial margin to be paid?",
+    "options": [
+      "Rs. 4165000",
+      "Rs. 83300",
+      "Rs. 5831",
+      "Rs. 291550"
+    ],
+    "correct_answer": "Rs. 291550",
+    "explanation": "Initial Margin = Number of Contracts x Price per Contract x Contract Multiplier x Margin Rate. Initial Margin to be collected from Meghna : 34 contracts x Rs 2450 X 50 (Market lot) at 7% = Rs 4165000 x 7% = Rs 291550"
+  },
+  {
+    "question_number": "Q10",
+    "question_text": "Arbitrage is basically earning a risk-free profit by simultaneous buying and selling replicating assets in two or more different markets - State True or False?",
+    "options": [
+      "True",
+      "False"
+    ],
+    "correct_answer": "True",
+    "explanation": "Arbitrage is a deal that produces profit by exploiting a price difference in a product in two different markets. Arbitrage originates when a trader purchases an asset cheaply in one location and simultaneously arranges to sell it at a higher price in another location."
+  },
+  {
+    "question_number": "Q11",
+    "question_text": "In case of a member’s default, the Clearing Corporation cannot transfer clients positions to another member or close out all open positions of defaulting member, without prior approval from SEBI — State True or False?",
+    "options": [
+      "True",
+      "False"
+    ],
+    "correct_answer": "False",
+    "explanation": "As per SEBI rules - The Clearing Corporation can transfer client positions from one broker member to another broker member in the event of a default by the first broker member. A report is then sent to SEBI regarding this."
+  },
+  {
+    "question_number": "Q12",
+    "question_text": "For which type of options is it profitable to exercise the options?",
+    "options": [
+      "At the Money",
+      "Out of the Money",
+      "In the Money",
+      "None of the above"
+    ],
+    "correct_answer": "In the Money",
+    "explanation": "IN THE MONEY - A call option with a strike price that is lower than the market price of the underlying asset, or a put option with a strike price that is higher than the market price of the underlying asset. In the money means that your stock option is worth money and you can turn around and sell or exercise it."
+  },
+  {
+    "question_number": "Q13",
+    "question_text": "Aseller of call option can lose unlimited amount of money - State True or False?",
+    "options": [
+      "True",
+      "False"
+    ],
+    "correct_answer": "True",
+    "explanation": "A seller (writer) of a call option faces unlimited potential losses, because: If the price of the underlying asset rises significantly, the seller must buy the asset at the market price and sell it at the strike price, resulting in potentially unlimited losses."
+  },
+  {
+    "question_number": "Q14",
+    "question_text": "'Bulls' are those investors who believe the market will rise - State True or False?",
+    "options": [
+      "True",
+      "False"
+    ],
+    "correct_answer": "True",
+    "explanation": "Investors who believe that the markets will rise are called Bulls and investors who believe that markets will fall are known as Bears."
+  },
+  {
+    "question_number": "Q15",
+    "question_text": "The initial margin is always equal to the mark-to-market margin - State True or False?",
+    "options": [
+      "True",
+      "False"
+    ],
+    "correct_answer": "False",
+    "explanation": "Mark to Market is a process by which margins are adjusted on the basis of daily price changes in the markets for underlying assets. So this margin is as per the daily price movements. Initial margin is usually fixed depending on the price volatility. Higher the volatility, higher the initial margin."
+  },
+  {
+    "question_number": "Q16",
+    "question_text": "What does a seller of Put Option expect?",
+    "options": [
+      "An increase in the price of the underlying",
+      "No change in the price of the underlying",
+      "A decrease in the price of the underlying",
+      "Both 1 and 2"
+    ],
+    "correct_answer": "Both 1 and 2",
+    "explanation": "Aseller of put option expects the price to rise. Even if the price remains stable, the seller earns the option premium. A person who sells a put option is making a bet that the price of the stock will not go down. They want the stock to either: Stay the same, or Go up. If that happens, the buyer won't use the option, and the seller gets to keep the premium (the fee paid to them) without doing anything else."
+  },
+  {
+    "question_number": "Q17",
+    "question_text": "In the derivatives segment, who has to pay the margins as specified by the Clearing Corporation?",
+    "options": [
+      "Clients",
+      "Arbitrageurs",
+      "Financial Institutions",
+      "All of the above"
+    ],
+    "correct_answer": "All of the above",
+    "explanation": "All those who trade in the derivatives segment have to pay margins without exception."
+  },
+  {
+    "question_number": "Q18",
+    "question_text": "When the price of a future contract decreases, the margin account ‘",
+    "options": [
+      "of the seller of futures contract will be credited for the gain",
+      "of the buyer of futures contract will be debited for the loss",
+      "Both 1 and 2",
+      "None of the above"
+    ],
+    "correct_answer": "Both 1 and 2",
+    "explanation": "The buyer of futures will have a notional loss and so his margin account will be debited by the notional loss amount. The seller of futures will have a notional profit if the price falls and his margin account will be credited by the notional gain amount."
+  },
+  {
+    "question_number": "Q19",
+    "question_text": "Mr. Ganesh thinks that the markets will go down, so he sell 10 lots of index futures at 3500. His predictions come true and Mr. Ganesh buys back the futures contract at 3410. What is the profit Mr. Ganesh has made if one lot of index is of 50.",
+    "options": [
+      "35000",
+      "45000",
+      "55000",
+      "65000"
+    ],
+    "correct_answer": "45000",
+    "explanation": "Mr Ganesh had sold at Rs 3500 and bought back at Rs 3410. So he made a profit of Rs 90. Total Quantity sold = 10 lots x 50 (lot size) = 500. Total Profit = Rs 90 x 500 = Rs 45,000"
+  },
+  {
+    "question_number": "Q20",
+    "question_text": "Options contracts have two types of settlements: premium settlement and Final",
+    "options": [
+      "Daily",
+      "Weekly",
+      "Monthly",
+      "Yearly"
+    ],
+    "correct_answer": "Daily",
+    "explanation": "Options contracts have two types of settlements: Daily premium settlement and Final settlement. Daily Premium Settlement :The buyer of an option pays the premium, while the seller receives the same. The amount payable and receivable as premium are netted to compute the net premium payable or receivable amount for each client for each option contract."
+  },
+  {
+    "question_number": "Q21",
+    "question_text": "2 Investors who believe that the markets will fall are known as Bulls - State True or False?",
+    "options": [
+      "True",
+      "False"
+    ],
+    "correct_answer": "False",
+    "explanation": "Investors who believe that the markets will fall are known as Bears. Investors who believe that the markets will rise are known as Bulls."
+  },
+  {
+    "question_number": "Q22",
+    "question_text": "Which of the below statement(s) hold true for Futures Contract?",
+    "options": [
+      "Futures Contracts are settled through clearing corporation of the exchange",
+      "Futures Contracts are standardized contracts",
+      "Futures Contracts are traded on an exchange",
+      "All of the above"
+    ],
+    "correct_answer": "All of the above",
+    "explanation": "Futures contract are standardised in terms of size of the contract, time to expiry etc. They are always traded on a recognised exchange and the settlement is through a clearing corporation."
+  },
+  {
+    "question_number": "Q23",
+    "question_text": "What is Tick size?",
+    "options": [
+      "Tick size is the size of the futures contract",
+      "Tick size is the maximum permitted movement in the price of the contract",
+      "Tick size is the minimum permitted movement in the price of the contract",
+      "Tick size is the average of the high and low permitted prices"
+    ],
+    "correct_answer": "Tick size is the minimum permitted movement in the price of the contract",
+    "explanation": "Tick Size is the minimum move allowed in the price quotations."
+  },
+  {
+    "question_number": "Q24",
+    "question_text": "In a calendar spread transaction, the trader takes opposite position in two futures contract with",
+    "options": [
+      "two different underlying assets and same delivery month",
+      "two differently delivery months and two different underlying assets",
+      "two differently delivery months and same underlying asset",
+      "one stock and one index of same delivery months"
+    ],
+    "correct_answer": "two differently delivery months and same underlying asset",
+    "explanation": "Calendar spread position is a combination of two positions in futures on the same underlying - long on one maturity contract and short on a different maturity contract. For instance, a short position in near month contract coupled with a long position in far month contract is a calendar spread position."
+  },
+  {
+    "question_number": "Q25",
+    "question_text": "When a seller SHORT SELLS a stock, it means :",
+    "options": [
+      "He has more than a months time to deliver the stock which he sold",
+      "He owns the stock he is supposed to deliver",
+      "He has to deliver the stock within a short time",
+      "He does not own the stock he is supposed to deliver"
+    ],
+    "correct_answer": "He does not own the stock he is supposed to deliver",
+    "explanation": "Selling Short means Seller does not own the stock he is supposed to deliver. He has done a sale trade because he expects the price to fall and has to buy back the stock (either with a profit or loss) before the end of trading on that day."
+  }
+]

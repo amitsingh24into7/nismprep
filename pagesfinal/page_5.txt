@@ -1,0 +1,100 @@
+Q 26.
+
+Q29.
+
+As strike price of put option is taken down, its intrinsic value
+Goes up
+Goes down
+Does not change
+None of the above
+
+¥ CORRECT ANSWER A
+Explanation:
+
+The intrinsic value of an option refers to the amount by which the option is In-the-money i.e., the amount an option buyer will realize, before adjusting for premium paid, if he exercises the option instantly.
+
+For a put option which is In-the-money, the intrinsic value is the excess of Strike price (X) over the spot price (S). Thus, the intrinsic value of put option can be calculated as X-S, with a minimum value possible as
+zero.
+
+For eg — If strike price is 100 and spot price is 90, the intrinsic value is 10
+
+Likewise, if the strike price is 95, the intrinsic value will be about 5.
+
+Other Explanation :
+
+Aput option gives the holder the right to sell an asset at the strike price.
+
+When the strike price decreases, the difference between the strike price and market price reduces, lowering the intrinsic value of the put option.
+If the strike price falls below the market price, the put option becomes out of the money (OTM) and its intrinsic value becomes zero.
+
+Thus, as the strike price decreases, the intrinsic value of the put option goes down.
+
+SCORES is:
+Customer Due Diligence and e-KYC system
+Exchange’s Margin Reporting System
+Collateral Reporting System of Clearing Corporation
+SEBI’s web-based complaints redressal system
+
+¥ CORRECT ANSWER
+Explanation:
+
+SEBI’s web based complaints redressal system is called SCORES (Sebi COmplaints REdress System).
+
+SCORES is a centralized grievance management system with tracking mechanism to know the latest updates and time taken for resolution.
+
+Everest Mutual Fund had floated a new fund offer and received Rs. 500 crores from the investors. The fund manager of this fund is planning to invest this amount over the next one
+month in buying 25 high growth stocks. He can hedge the risk in this planned purchase of stock by executing
+
+Along hedge using put options on each of the 25 stocks
+
+Ashort hedge using future contracts on each of the 25 stocks
+
+Along hedge using index futures
+
+Ashort hedge using index futures
+
+%X WRONG ANSWER
+CORRECT ANSWER:
+
+A long hedge using index futures
+Explanation: 4
+
+Since the fund manager is planning to purchase stocks over the next one month, there is a risk that stock prices might rise during this period. To hedge against this risk, the manager can use a long hedge with
+index futures, which involves buying index futures to lock in the current market price level for the broader market.
+
+This approach protects the fund manager from price increases before completing the planned purchase.
+
+When there is high volatility in the stock markets, the Bid-Ask spreads will generally
+widen
+narrow
+will become zero
+There will no change in the bid-ask spreads
+
+v CORRECT ANSWER A
+Explanation;
+
+Gap between the bid and ask prices is known as the bid-ask spread.
+
+Volatility measures the severity of price changes for a security. When volatility is high, price changes are drastic. Bid-ask spreads usually widen in highly volatile environments, as investors and market makers
+attempt to take advantage of agitated market conditions.
+
+If all other features are same, an American Call Option will have a higher value than that of European option. State whether True or False?
+The above statement is FALSE
+The above statement is TRUE
+Value depends on market conditions and this cannot be ascertained
+Inadequate information
+
+% WRONG ANSWER
+CORRECT ANSWER:
+
+The above statement is TRUE
+
+Explanation: 4a
+American option: In case of an American option, the owner (buyer/holder) of such option can exercise his right at any time on or before the expiry date/day of the contract
+
+European option: In case of a European option, the owner (buyer/holder) of such option can exercise his right only on the expiry date/day of the contract
+
+American options are generally valued higher than European options as American options allow option holders to exercise the option at any time prior its maturity date, thus increasing the value of the option to
+the holder relative to European options, which can only be exercised at maturity.
+
+In India, all index and stock options are European style options.

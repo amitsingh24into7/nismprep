@@ -1,0 +1,96 @@
+Q44.
+
+Q45.
+
+Q46.
+
+Qa.
+
+In India, when the option holder exercises a call option on an equity stock, g
+The option holder will receives cash amount equal to excess of spot price (at the time of exercise) over the strike price of the option
+The option holder buys the underlying stock from the option writer at a pre-specified price
+The option holder receives cash amount equal to excess of strike price of the call option over the spot price (at the time of exercise)
+The option holder sells the underlying stock to the option writer at a pre-specified price
+
+XX WRONG ANSWER
+CORRECT ANSWER:
+
+The option holder buys the underlying stock from the option writer at a pre-specified price
+
+Explanation: 4
+
+In India, equity stock options are typically settled by physical delivery (especially on the NSE), not by cash settlement. This means when a call option is exercised, the option holder (buyer) has the right to buy the
+underlying equity stock at the strike price from the option writer (seller).
+
+Therefore, the option holder takes delivery of the stock and pays the strike price.
+
+Trader A wants to sell 20 contracts of August series at Rs 4500 and Trader B wants to
+sell 17 contracts of September series at Rs 4550. Lot size is 50 for both these contracts.
+The Initial Margin is fixed at 6%. How much Initial Margin is required to be collected
+from both these investors (sum of initial margins of A and B) by the broker?
+
+5,02,050
+
+2,70,000
+
+4,10,000
+
+2,32,050
+
+¥ CORRECTANSWER
+
+Explanation:
+
+Payment of Initial Margin by a broker cannot be netted against two or more clients. So he will have to pay the margin for the open position of each of his clients.
+So margin payable for Trader A is : 20 x 4500 x 50 (Lot size) at 6% = Rs 2,70,000
+
+Margin payable for Trader B is : 17 x 4550 x 50 (Lot size) at 6% = Rs 2,32,050
+
+Total = Rs 5,02,050.
+
+State whether True or False - A trading member of a derivatives exchange can clear his trades through a Clearing member, who may or may not be a Professional clearing member.
+True
+False
+
+¥ CORRECT ANSWER 4
+Explanation:
+
+There are Trading cum Clearing Members on an Exchange. They are Clearing Members who are also Trading Members of the exchange. Such Clearing Members may clear and settle their own proprietary trades,
+their clients' trades as well as trades of other Trading Members and Custodial Participants.
+
+A trader has a short position in a futures contract. If prices of this futures contract increases, than the mark-to-market margin account of the trader will be
+Credited for the loss
+Credited for the gain
+Debited for the loss
+Debited for the gain
+
+¥ CORRECTANSWER
+Explanation:
+
+In a short position, if the price increases, there is a loss. So, the mark to market margin will be debited.
+
+A Mutual Fund manager has collected Rs. 300 crores from a New Fund Offer. He is planning to invest this amount over the next one month in buying 20 selected stocks. How can he
+hedge the risk for this planned purchase of stocks?
+
+He can execute a long hedge using index futures
+
+He can execute a short hedge using index futures contracts on each of the 20 stocks
+
+He can execute a short hedge using index futures
+
+He can execute a long hedge using put options on each of the 20 stocks
+
+XX WRONG ANSWER
+CORRECT ANSWER:
+
+He can execute a long hedge using index futures
+Explanation: 4a
+
+Since the Mutual Fund manager is planning to buy stocks over the next month, he is exposed to the risk that stock prices might rise before he completes his purchases. To hedge against this risk, he should use
+along hedge with index futures.
+
+Why is a long hedge using index futures appropriate?
+- Along hedge involves buying index futures, which will gain value if stock prices increase.
+- If the stock prices rise, the gains from the index futures will offset the higher cost of purchasing stocks later.
+
+- This ensures that the fund manager locks in a price level close to current market condition.

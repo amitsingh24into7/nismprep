@@ -1,0 +1,96 @@
+Qo The strategy of buying a put option on a stock you are owning is known as
+
+Calendar spread
+Aggressive put
+Protective put
+Straddle
+
+7 CORRECT ANSWER
+Explanation:
+
+A Protective Put strategy involves buying a put option on a stock that you already own to hedge against potential downside risk.
+
+« If the stock price falls, the put option gains value, offsetting losses in the stock.
+* Ifthe stock price rises, the put option expires worthless, but the investor benefits from stock appreciation.
+* This strategy is commonly used by investors who want to protect their portfolio while still participating in potential upside gains.
+
+245.  allactive members of the Exchange are required to make initial contribution towards Trade Guarantee Fund of the Exchange - State True or False ?
+
+True
+False
+
+Vv CORRECT ANSWER
+Explanation:
+
+Main objectives of Trade Guarantee Fund (TGF):
+
+- To guarantee settlement of bonafide transactions of the members of the exchange.
++ To inculcate confidence in the minds of market participants.
+
+- To protect the interest of the investors in securities.
+
+All active members of the Exchange are required to make initial contribution towards Trade Guarantee Fund of the Exchange.
+
+24° An increase in the interest rates will lead to
+
+increase the premium on put options
+
+decrease the premium on put options
+No effect on put options
+
+Expiration of the option automatically
+
+% WRONG ANSWER
+CORRECT ANSWER:
+
+decrease the premium on put options
+
+Explanation:
+
+An increase in interest rates generally leads to a decrease in put option premiums due to the following factors:
+
+Higher interest rates reduce the attractiveness of holding cash or risk-free assets, making put options (which provide downside protection) less valuable.
+
+The cost-of-carry effect—since put options involve selling the underlying asset, the higher interest rate increases the opportunity cost of holding short positions, thus lowering demand for puts.
+
+Call options, on the other hand, tend to see an increase in premiums when interest rates rise due to lower borrowing costs for leveraged equity investments.
+
+247, Ina forward contract, the party that’s agrees to sell the underlying asset on a certain specified date for a certain specified price is said to have assumed.
+
+Along position
+
+a square off position
+a short position
+
+a trade off position
+
+% WRONG ANSWER
+CORRECT ANSWER:
+
+a short position
+
+Explanation:
+
+Ina forward contract, there are two parties:
+
+- One party agrees to buy the underlying asset in the future —- Takes a Long Position.
+
+- The other party agrees to sell the underlying asset in the future — Takes a Short Position.
+
+Since the question states that the party agrees to sell the asset at a future date for a fixed price, that party has taken a short position.
+
+248 Mr. Hitesh is a trading member. One of his clients has purchased 12 contracts of March series index futures and another client as has sold 10 contracts of March series index futures.
+The exposure of Mr. Hitesh as trading member is .
+
+grossed up at 22 contracts
+
+netted out at 2 contracts
+
+maximum of 10 and 12 which is 12 contracts
+
+The Exchange will decide to either gross up or net out the exposure depending upon his past record
+
+¥ CORRECT ANSWER oN
+Explanation:
+
+The open position of all the clients of a trading member are grossed up to arrive at the total exposure of the trading member.

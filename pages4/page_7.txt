@@ -1,0 +1,71 @@
+Q36.
+
+Q38.
+
+Q39.
+
+Q40.
+
+A hedger wants to offset the price risk on his equities, so he will take
+Along positions in futures
+Ashort positions in futures
+Along position in Call
+Both a long or short position in futures
+
+¥ CORRECT ANSWER
+Explanation:
+
+Hedgers face risk associated with the prices of underlying assets and use derivatives to reduce their risk.
+
+If a person has a portfolio of equity stocks, he can sell futures to offset the price risk.
+
+In the Option segment, if you buy a CALL at a premium of Rs 35 at the Strike Price of Rs 400, lot is of 200 shares, then the maximum possible profit is
+Rs 400
+Rs 7000
+Rs 43000
+Unlimited
+
+¥ CORRECT ANSWER
+Explanation:
+
+When you buy a CALL option, your losses are limited to the extent of premium paid, but your profits, theoretically can be unlimited as the price of the underlying can rise to any levels.
+
+When the price of an underlying rises, the price of an CALL option will also rise and so you can have unlimited profits.
+
+Who can trade in derivative products?
+Any broker who is registered with SEBI can trade in derivative products
+Any broker who is registered with SEBI for trading in derivatives products can trade in derivatives
+Any member of a registered Stock Exchange
+All of the above
+
+> WRONG ANSWER
+CORRECT ANSWER:
+
+Any broker who is registered with SEBI for trading in derivatives products can trade in derivatives
+Explanation:
+
+Anormal equity market SEBI registered broker cannot deal in derivatives. The broker has to be specially registered for dealing in derivative products with SEBI to deal in derivatives.
+
+A Call Option will give the holder of the option a right to buy how much of the underlying from the writer of the option?
+The specified quantity or more than the specified quantity
+The specified quantity or less than the specified quantity
+Only the specified quantity
+
+Y CORRECT ANSWER
+Explanation:
+
+Only the specified quantity as per the lot size of the option contract.
+
+Those contracts which have been initiated but are not yet offset by a subsequent sale or purchase or by making or taking delivery are considered as
+Offsetting Positions
+Clear Positions
+Open Positions
+Squared-off Positions
+
+v CORRECTANSWER 4
+Explanation:
+
+Outstanding / unsettled position in various derivative contracts is called “Open Position”.
+
+For instance, if Mr. X shorts 5 contracts on Infosys futures and goes long on 3 contracts of Reliance futures, he is said to be having open position, which is equal to short on 5 contracts of Infosys and long on 3
+contracts of Reliance. If on the next day, he buys 2 Infosys contracts of same maturity, his open position would be - short on 3 Infosys contracts and long on 3 Reliance contracts.

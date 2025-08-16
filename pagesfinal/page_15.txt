@@ -1,0 +1,87 @@
+Q 82.
+
+QBs.
+
+Q 86.
+
+As compared to the other financial products mentioned here, which one is more difficult to understand?
+Treasury Bills issued by Government of India
+Index mutual funds replicating index like Nifty
+Index options on a broad-based equity index like Nifty
+Index futures on a broad-based equity index like Nifty
+
+% WRONG ANSWER
+CORRECT ANSWER:
+
+Index options on a broad-based equity index like Nifty
+
+Explanation:
+
+Options are complex financial instruments and difficult to understand when compared to futures, bonds or mutual funds.
+
+For setting limits on his trading members clearing through him, a Clearing Member will have to consult
+SEBI
+The Stock Exchange
+Clearing Corporation
+The Clearing Member can set the limits on his own and no consultation is required
+
+% WRONG ANSWER
+CORRECT ANSWER:
+
+The Clearing Member can set the limits on his own and no consultation is required
+
+Explanation: A
+
+A trading terminal helps the Clearing Members to monitor the open positions of all the Trading Members clearing and settling through him. A Clearing Member may set limits for a Trading Member clearing
+and settling through him.
+
+Clearing corporation assists the Clearing Member to monitor the intraday limits set up by a Clearing Member and whenever a Trading Member exceed the limits, it stops that particular Trading Member from
+further trading.
+
+Strike price is that price at which the can purchase (in case of a call) or sell (in case of put) the underlying asset by exercising the option.
+Option Buyer
+Option Writer
+Clearing Corporation
+Options Stock Exchange
+
+XX WRONG ANSWER
+CORRECT ANSWER:
+
+Option Buyer
+Explanation: 4
+
+An Option is a contract that gives the right, but not an obligation, to buy or sell the underlying on or before a stated date and at a stated price. While buyer of option pays the premium and buys the right,
+writer/seller of option receives the premium with obligation to sell! buy the underlying asset, if the buyer exercises his right.
+
+An option, which gives the buyer/holder a right to buy the underlying asset, is called Call option and an option which gives the buyer/holder a right to sell the underlying asset, is called Put option.
+
+Identify the strategy which has a ‘limited potential gain with limited possible loss’.
+Going short in At-the-money index put and going long in Out-of-the-money index put option, both with the same expiry date
+Going long in index put option
+Going short in index call option
+Going long in index call option
+
+% WRONG ANSWER
+CORRECT ANSWER:
+
+Going short in At-the-money index put and going long in Out-of-the-money index put option, both with the same expiry date
+Explanation: 4
+A limited gain and limited loss strategy can be implemented using either two calls or two puts or both calls and puts. It cannot be implemented using a single Call or Put.
+
+Spreads involve combining options on the same underlying and of same type (call/ put) but with different strikes and maturities. These are limited profit and limited loss positions. They are primarily categorized
+into three sections as: : Vertical Spreads « Horizontal Spreads - Diagonal Spreads.
+
+In India, when the option holder exercises a |TM Call Option on a stock, x
+He/she buys the underlying stock from the option writer at a pre-specified price (strike price)
+He/she sells the underlying stock to the option writer at a pre-specified price (strike price)
+He/she receives cash amount equal to excess of strike price of the call option over the spot price (at the time of exercise)
+He/she receives cash amount equal to excess of spot price (at the time of exercise) over the strike price of the call option
+
+% WRONG ANSWER
+CORRECT ANSWER:
+
+He/she buys the underlying stock from the option writer at a pre-specified price (strike price)
+Explanation: 4
+
+Unlike index options, stock options are settled by physical delivery. All long ITM options are automatically assigned by the exchange on the expiry day to short positions in option contracts with the same series
+on arandom basis. The final settlement takes place by physical delivery in accordance with the settlement schedule of the clearing corporation.

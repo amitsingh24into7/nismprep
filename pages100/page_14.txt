@@ -1,0 +1,101 @@
+Q76.
+
+Q77.
+
+Q80.
+
+Qsi.
+
+Q 82.
+
+The gain or loss is realized on daily basis due to mark to market mechanism in which of the following contracts ?
+Forward Contracts
+Contracts in Swaps
+Future market contracts
+Equity Cash Market contracts
+
+¥ CORRECT ANSWER 4
+Explanation:
+
+Futures contracts have two types of settlements: (A) the mark-to-market (MTM) settlement which happens on a continuous basis at the end of each day, and (B) the final settlement which happens on the last
+trading day of the futures contract.
+
+The market price of a share is Rs 120 and the 110 Call is quoted at Rs 24, what is the intrinsic value of this Call option ?
+Rs. 10
+Rs. 20
+Rs. 34
+Rs. 130
+
+¥ CORRECT ANSWER
+Explanation:
+
+Option Premium consists of two variables - Intrinsic Value and Time Value.
+
+In the above case, the cash market price is 120 and the strike price is Rs 110. So the Intrinsic value is Rs 10 (120 - 110 ). The balance of option premium ( 24 - 10 ) ie. Rs 14 is the time value.
+
+The main logic behind Position limits is to :
+prevent the market being unduly influenced by the activities of an individual/group of investors
+prevent the market being unduly influenced by Central Govt policies
+give direction to the market to move up or down as determined by SEBI
+to encourage high networth investors to provide direction to the market
+
+v¥ CORRECTANSWER
+Explanation:
+
+Position limits are the maximum exposure levels which the entire market can go up to and each Clearing Member / Trading member or investor can go up to.
+
+Thus no investor can take an extra ordinary large position and influence the direction of a scrip / market.
+
+The seller of the put option gains if price of underlying asset
+Decreases
+Increases
+Does not change
+Both 2 and 3
+
+> WRONG ANSWER
+CORRECT ANSWER:
+
+Both 2 and3
+
+Explanation:
+
+The seller of PUT option is either bullish or neutral. He gains the premium received if the underlying increases or remains flat.
+
+MrA buys a call option with lower strike price and sells another call option with higher strike price both on the same underlying share and same expiration date, the strategy is
+called
+
+Bull Spread
+
+Bear Spread
+
+Butterfly Spread
+
+Calendar Spread
+
+¥ CORRECTANSWER A
+Explanation:
+
+A bull call spread is constructed by buying a call option with a low strike price, and selling another call option with a higher strike price.
+
+Futures trading is considered more risky than equity trading due to
+high leverage
+High pressure
+high volatility
+high liquidity
+
+% WRONG ANSWER
+CORRECT ANSWER:
+
+high leverage
+Explanation:
+
+Traders can trade in derivatives by paying a small margin ( around 25 to 30% of the total contract value), This leverage increases the risk as the trader can take up positions beyond his capacity.
+
+Institutional investors pay higher margins than the individual investors for derivatives trading - State True or False ?
+True
+False
+
+v CORRECTANSWER
+Explanation:
+
+The margin requirement is same for both individual investors and institutional investors.

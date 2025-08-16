@@ -1,0 +1,62 @@
+Q 65.
+
+Q 66.
+
+Q 67.
+
+The Clearing of trades on a stock exchange can be done by.
+by the trading members
+by the clearing members
+both by clearing members and trading members
+none of the above
+
+> WRONG ANSWER
+CORRECT ANSWER:
+
+by the clearing members
+
+Explanation:
+
+A Trading member cannot clear trades. A Clearing member or a Trading cum Clearing member can clear trades.
+
+In an ‘In the money’ PUT option____
+strike price would be lower than the market price
+exercise price would be equal to the market price
+strike price would be higher than the market price
+strike price would be zero
+
+% WRONG ANSWER
+CORRECT ANSWER:
+
+strike price would be higher than the market price
+
+Explanation:
+An 'In the Money’ (ITM) option is one that would lead to a positive payoff if exercised immediately.
+For a PUT option (which gives the holder the right to sell an asset at a specified price):
+
+« Itis "in the money" when the strike price is higher than the market price.
+* This is because the holder can sell at the higher strike price and buy at the lower market price, thus making a profit.
+
+Delta measures the expected change in the option premium for a unit change in
+Volatility of underlying asset
+treasury interest rates
+time to option expiry
+spot price of underlying asset
+
+¥ CORRECT ANSWER
+Explanation:
+
+Delta measures the sensitivity of the option value to a given small change in the price of the underlying asset.
+
+In an Out-of-the Money (OTM) Put option
+Strike price would be higher than the market price
+Exercise price would be equal to the market
+Strike price would be lower than the market price
+strike price would be zero
+
+¥ CORRECT ANSWER
+Explanation:
+
+A put option is said to be OTM when spot (market) price is higher than strike price.
+
+A call option is said to be OTM, when spot (market) price is lower than strike price.

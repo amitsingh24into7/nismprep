@@ -1,0 +1,75 @@
+_— Complete the sentence : Shorter the time to expiry of a PUT Option, lesser will be its
+
+Assignment Value
+Time Value
+Intrinsic Value
+Settlement Value
+
+v¥ CORRECTANSWER
+Explanation:
+
+Other things being equal, options tend to lose time value each day throughout their life. This is due to the fact that the uncertainty element in the price decreases.
+
+Thus shorter the time to maturity, lower will be the time value.
+
+047 A derivatives market would primarily have which of the following participants?
+
+Speculators
+
+Long-term investors
+
+Hedgers
+
+Both Speculators and Hedgers
+
+v CORRECTANSWER
+Explanation:
+
+There are broadly three types of participants in the derivatives market - hedgers, traders (also called speculators) and arbitrageurs.
+
+Long-term investors invest in the cash market and take delivery of the securities.
+
+248: Which of these is NOT included in the Indian equity derivatives market?
+
+Options on individual stocks
+Options on equity market indices
+Futures on individual stocks
+Interest rate futures
+
+v¥ CORRECTANSWER
+Explanation:
+
+Although NSE and BSE allows trading in Interest rate futures but it is not a part of equity derivatives.
+
+24 For calculating the net worth of a clearing member, which of these is/are NOT considered?
+
+His Fixed Assets
+
+His pledged securities
+His membership card
+All of the above
+
+¥ CORRECT ANSWER
+Explanation:
+
+The networth of the member shall be computed as follows:
+Capital + Free reserves
+
+Less non-allowable assets which are :
+
+- Fixed assets
+
+- Pledged securities
+
++ Member’s card
+
+- Non-allowable securities (unlisted securities)
+- Bad deliveries
+
+- Doubtful debts and advances
+
+- Prepaid expenses
+
+- Intangible assets
+
+- 30% marketable securities

@@ -1,0 +1,77 @@
+Q32 ‘An Index Option is F
+
+a derivative product
+
+settled in cash
+
+rarely traded on the Indian stock exchanges
+Both 1 and 2
+
+X WRONG ANSWER
+CORRECT ANSWER:
+
+Both 1 and 2
+
+Explanation:
+Index option is a derivative product derived from indices like Nifty, Bank Nifty, Sensex etc.
+
+Index options are settled only in cash.
+
+213. As per the SEBI Act, the board members of Securities Exchange Board of India are appointed by -
+
+The Stock Exchanges
+
+The Central Government
+The High Court of Mumbai
+Securities Appellate Tribunal
+
+/ CORRECTANSWER
+Explanation:
+
+SEBI consists of a Board of Directors who are appointed by the Union Government of India.
+
+wie The rate of change in option premium for a unit change in price of the underlying asset is known as Delta - State True or False ?
+
+False
+True
+
+v CORRECT ANSWER
+Explanation:
+Delta measures the sensitivity of the option value to a given small change in the price of the underlying asset.
+
+21 Client A has purchased 10 contracts of December series and sold 7 contracts of
+
+January series of the NSE Nifty futures. How many lots will get categorized as regular
+(non-spread) open positions?
+
+3
+
+itt
+
+10
+
+17
+
+XX WRONG ANSWER
+CORRECT ANSWER:
+
+3
+Explanation:
+Given:
+
+* Bought 10 contracts of December series
+« Sold 7 contracts of January series
+
+Net Position:
+
+« Inthe December series: The client is long 10 contracts (open long position).
+* Inthe January series: The client is short 7 contracts (open short position).
+
+Categorization:
+
+* Spread positions are offsetting positions in different series of the same underlying asset. Here, 7 contracts between December and January can be categorized as spread positions.
+* The remaining 3 contracts in the December series (10 - 7) will be categorized as regular open positions.
+
+Answer:
+
+3 lots will be categorized as regular (non-spread) open positions.

@@ -1,0 +1,474 @@
+The simultaneous purchase and sale of two different tenors futures contracts in the same underlying is known as a
+Limit order
+Short hedge
+Spread trade
+Long hedge
+
+XX wRoNc ANSWER
+CORRECT ANSWER:
+
+Spread trade
+
+Explanation:
+In case of a Spread Trade, two opposite positions (one long and one short) are taken either in two contracts with same maturity on different products or in two contracts with different maturities on
+the same product.
+
+If the volatility of the underlying stock is decreasing, the premium of call option would
+Increase
+Decrease
+will not change
+None of the above
+
+CORRECT ANSWER
+Explanation:
+
+Lower the volatility lower the risk and so lower the premium.
+
+The stocks which are highly volatile will have comparatively higher option premiums as there involves a lot of risk trading in such stocks.
+
+Excess of premium in an option over the intrinsic value is known as the time value - State True or False ?
+False
+True
+
+X WRONG ANSWER
+CORRECT ANSWER:
+
+True
+
+Explanation:
+Option premium consists of two components - intrinsic value and time value. Option premium is the sum of intrinsic value and time value.
+
+Time value is the difference between premium and intrinsic value. ATM and OTM options will have only time value because the intrinsic value of such options is zero.
+
+As per news, the Government can lose a vote of confidence and this can affect the stock markets pretty badly. If you are an active trader, what is the ideal step you will take?
+Buy index futures
+Sell index futures
+Double your portfolio holdings
+Buy Blue Chip shares
+
+ CORRECTANSWER “
+Explanation:
+
+In case of a negative news like fall of a Government, the stock markets generally fall. Its difficult to judge which stocks will fall more. So, the best way is to short the index futures as the index is bound to fall in
+response to a negative news and the active trader can profit from it.
+
+Q25.
+
+In stock markets, Beta is a statistical measure of the sensitivity of the movement of a share price to the movement of prevailing interest rates - State True or False?
+True
+False
+
+XX WRONG ANSWER
+CORRECT ANSWER:
+
+False
+
+Explanation:
+
+Beta measures the sensitivity of a stock / portfolio vis-a-vis index movement over a period of time, on the basis of historical prices.
+
+20. The trades done by dealers in their own account has to be totally segregated from the trades done in their clients account - State True or False ?
+True
+False
+CORRECT ANSWER A
+Explanation:
+The trades done by dealers are in the ‘PRO’ account ie. Proprietary account and the trades done by Clients are in the "CLI" account.
+‘Proprietary Trading’ is when a member trades on exchange on its own behalf. As directed by SEBI and in pursuance of byelaws members are advised to specify the nature of the order in terms of order being a
+‘Client order’ or ‘Proprietary order’.
+227. The Time value of an option is the portion of option premium that is linked to the amount of time left till expiry of the option contract and also due to the fact that the underlying
+components that determine the value of option may change during that time - State True or False ?
+True
+False
+CORRECT ANSWER A
+Explanation:
+Time value is a key component of an option’s premium, and it reflects two main ideas:
+- Remaining time to expiry: The longer the time left, the more chance the option has to become profitable. As expiry nears, this value decays—this is called time decay or theta decay.
+- Possibility of price movement: Since the underlying asset could change in price before expiry, the option retains extra value beyond its intrinsic value due to this uncertainty.
+Q 28. = F “
+In the Options segment, if you buy a PUT, you expect the market / scrip to move
+Up
+Down
+Range bound
+One cannot buy a PUT in options market.
+/CORRECT ANSWER
+Explanation:
+A buyer of a PUT option has a negative / bearish view and so he expects the market / script to move down to make a profit.
+Q 29.
+
+What advantage does the screen based trading has over floor trading ?
+There are no set up costs in screen based trading
+There is transparency in trade execution and execution price
+The technology needs are lower
+There is no need to route the order through an exchange
+
+/CORRECT ANSWER
+Explanation:
+
+Screen based (Trading thro’ computers) trading is fully transparent.
+
+Q 30.
+
+Q31.
+
+Q32.
+
+Q33.
+
+When there is a ‘Closing buy transaction’, this will have the effect of partly or fully offsetting F
+Across position
+A short position
+A high position
+Along position
+
+% WRONG ANSWER
+CORRECT ANSWER:
+
+A short position
+
+Explanation:
+Creating a Short Position means selling the asset on an exchange with a view to buy it back when the price falls.
+
+So a Closing Buy transaction will be used to buy back / offset the short position created.
+
+Mr P and Mr Q are brokers of a stock exchange . Both of them have maintained Rs 7 crores of liquid assets consisting of equity shares and other assets. Both have the same exposure
+limits on day one. Based on this, which of the following statements is true ?
+
+The minimum exposure possible for the two brokers may change from time to time based on the changes in those asset valuations, even if they do not withdraw the assets deposited
+
+The minimum exposure possible for the two brokers will remain same for ever, even if they withdraw the asset deposited subsequently
+
+The minimum exposure possible for the two brokers will remain the same forever as long as they do not withdraw the assets deposited
+
+None of the above
+
+%X WRONG ANSWER
+CORRECT ANSWER:
+
+The minimum exposure possible for the two brokers may change from time to time based on the changes in those asset valuations, even if they do not withdraw the assets deposited
+
+Explanation: 4A
+
+The exposure depends on the value of assets deposited. Although both P and Q have deposited assets worth Rs.7 crores, the assets could be different (equity shares of different companies) and the value of
+these will become higher or lower as time passes. So the exposure limits will also change accordingly.
+
+Ms. Deepika is bearish on the market, so she is expecting the market to
+Rise
+Fall
+Remain constant
+Move sideways
+
+CORRECT ANSWER
+Explanation:
+Investors who have a bearish on the stock or index expect the stock price or index level to fall, take a short position in the stock futures or index futures contract.
+
+(Investors who have a bullish view on the underlying stock or index expect the stock price or index level to increase and they take a long position in the stock futures or index futures contract).
+
+Identify the True formula for Cost of Carry model.
+Price of Futures = Cost of carry
+Price of Futures = Spot price
+Price of Futures = Spot + Cost of carry
+Price of Futures = Spot - Cost of carry
+
+vCORRECT ANSWER
+Explanation:
+
+Cost of Carry is the relationship between futures prices and spot prices. For stock derivatives, carrying cost Is the interest paid to finance the purchase.
+
+For example, assume the share of XYZ Ltd is trading at Rs. 500 in the cash market. A person wishes to buy the share, but does not have money. In that case he would have to borrow Rs. 500 at the rate of, say,
+12% per annum, So 1% ie. Rs 5 ( 1% of Rs 500) is the per month interest cost. and this Rs 5 is the cost of carry.
+
+‘The future price (ideally) at the beginning of month will be Spot Price + Cost of Carry ie. Rs 500 + Rs 5=Rs 505.
+
+Q34.
+
+Q35.
+
+236.
+
+Identify the FALSE statement.
+For Call Options : With decrease in strike price, the premium on call increases
+For Call Options : With increase in strike price, the premium on call increases
+For Put Options : With increase in strike price, the premium on put increases
+For Put Options : With decrease in strike price, the premium on put decreases
+
+X WRONG ANSWER
+CORRECT ANSWER:
+
+For Call Options : With increase in strike price, the premium on call increases
+
+Explanation:
+Call Option Premium Behavior:
+
+ACall Option gives the buyer the right (but not the obligation) to buy an asset at a specified strike price before expiration.
+
+© If the strike price decreases, the option becomes more attractive because the buyer can purchase the asset at a cheaper price. This increases the premium. (Statement 4 is TRUE)
+* Conversely, if the strike price increases, the call option becomes less attractive, reducing the premium. (Statement 2 is FALSE)
+
+Put Option Premium Behavior:
+A Put Option gives the buyer the right to sell an asset at a specified strike price before expiration.
+
+© If the strike price increases, the put option becomes more valuable since the asset can be sold at a higher price, leading to a higher premium. (Statement 3 is TRUE)
+© If the strike price decreases, the put option becomes less attractive, leading to a lower premium. (Statement 4is TRUE)
+
+Conclusion: Since statement 2 contradicts the basic principle of call options, it is the false statement.
+
+guarantees the performance of exchange traded contracts.
+Clearing Corporation
+SEBI
+Depositories
+Custodians
+
+vCORRECT ANSWER 4a
+Explanation:
+
+Clearing Corporation is responsible for clearing and settlement of all trades executed in the F&O Segment of the Exchange. According to the legal principle of ‘novation’, the Clearing Corporation becomes the
+central counterparty to all trades that take place on the exchange’s derivatives platform.
+
+Aclearing corporation guarantees contract performance (settlement of transactions).
+
+If there is no cross margining between cash and derivative segments of an exchange, this will
+Promotes economic inefficiency
+Increase the cost of trading
+Reduces the volumes for given level of risk capital in the economy
+All of the above
+
+X WRONG ANSWER
+CORRECT ANSWER:
+
+All of the above
+Explanation: 4
+If cross margining is not allowed between the cash and derivative segments, it leads to the following:
+
+Promotes economic inefficiency -Without cross margining, traders must maintain separate margins for positions that may offset each other (e.g., long in cash and short in futures), which is inefficient from a
+capital utilization perspective.
+
+Increases the cost of trading - More margin requirements mean higher capital tied up, increasing the opportunity cost and overall trading cost.
+
+Reduces the volumes for a given level of risk capital in the economy - Since capital is not optimally used, the same amount of risk capital supports fewer trades, reducing trading volumes.
+
+How should a seller of an option treat the premium received in his books of accounts?
+It should be treated as an Income
+It should be treated as an Expense
+It should be treated as an Asset
+It should be treated as a Liability
+
+ CORRECTANSWER A
+Explanation:
+
+‘The buyer/ holder of the option is required to pay the premium. In the books of the buyer/ holder, such premium should be debited to an appropriate account, say, "Equity Index/ Stock Option Premium Account".
+
+In the books of the seller/ writer such premium received should be credited to an appropriate account, say, "Equity Index/ Stock Option Premium Account".
+
+Q38.
+
+Q40.
+
+From the various complaints against a trading member given below, identify which one can be taken up by the exchange for redressal ?
+Complaints in respect of transactions which are already subject matter of arbitration proceedings
+Non-receipt of funds or securities
+Complaints relating to land dealings between a client and a trading member
+Claims for notional loss for the disputed period
+
+ CORRECTANSWER 4
+Explanation:
+
+Exchanges provide assistance if the complaints fall within the purview of the Exchange and are related to trades that are executed on the Exchange Platform. ‘Non-receipt of funds / securities’ comes under this
+assistance.
+
+Mr X sells one ABC stock futures contract at Rs. 745. What is his profit (+) or loss (-), if he purchases the contract back at Rs. 754 ? Lot size is 1500
++13500
+-13500
++9800
+-9800
+
+Y CORRECTANSWER
+
+Explanation:
+
+When you sell a stock future contract you make a profit if the share price falls or you make a loss if the price rises.
+In this case, ABC stock futures has risen by Rs. 9 (754 - 745). So there will be a loss.
+
+Rs. 9 x 1500 (Lot size) = Loss of Rs 13500
+
+Identify the CORRECT statement.
+Ashort position in a put option can be closed out by taking a long position in a put option of any exercise price and exercise date
+Ashort position in a put option can be closed out by taking a long position in a call option with the same exercise price and exercise date
+A short position in a put option can be closed out by taking a long position in a put option with the same exercise price and exercise date
+Ashort position in a put option can be closed out by taking a short position in a call option with the same exercise price and exercise date
+
+CORRECT ANSWER
+
+Explanation:
+
+Aclosing transaction for an option involves the sale or purchase of an option contract with the same terms (contract specifications), i.e., an option with the same strike price and same expiry date.
+Ashort position in a put option means the trader has sold a put option and is obligated to buy the underlying asset if exercised.
+
+To close out this position, the trader must take an opposite position, which is buying (going long) the same put option with the same strike price and expiration date.
+
+This ensures that any potential losses or obligations from the short put are neutralized by the long put.
+
+Hedgers and speculators are two important participants of a securities market and they strike a balance due to their needs as
+Hedger wants to avoids risk while the speculator wants to takes risk
+Hedger wants to takes risk while speculators wants to avoids risk
+Both hedgers and speculators want to avoid risk
+Both hedgers and speculators want to take risk
+
+vCORRECT ANSWER EN
+Explanation:
+
+Corporations, Investing Institutions, banks and governments all use derivative products to hedge or reduce their exposures to market variables such as interest rates, share values, bond prices, currency
+exchange rates and commodity prices.
+
+‘Speculators/Traders try to predict the future movements in prices of underlying assets and based on the view, take positions in derivative contracts. They take a risk to make profits.
+
+Hedgers aim to hedge their risk where as speculators take the risk which hedgers plan to offload from their exposure.
+
+Mr. Harish had purchased 20 call options on a stock by paying a premium of Rs 10 per call (Strike price of Rs. 125). The stock price has closed at Rs. 100 on the exercise date. Based on
+economic rationale alone, Mr. Harish ‘a
+
+Should exercise the option but he should not take delivery of the underlying
+
+Should exercise the option
+
+Should not exercise the option
+
+Should exercise the option as he likes the management of the company
+
+% WRONG ANSWER
+CORRECT ANSWER:
+
+Should not exercise the option
+Explanation: 4a
+
+Mr. Harish has purchased a call option which means he believed that the price of that call will go up. Instead the price has fallen. So he should not exercise the option and the maximum loss he will suffer is the
+premium paid by him.
+
+Q43.
+
+Q44.
+
+What happens to a 'Day Order if its not executed during the day?
+The Order will be executed in the auction market
+The Order will be executed in the after-hours
+The Order will be executed on the next trading day
+The Order will be cancelled automatically at the end of the day
+
+vCORRECT ANSWER
+Explanation:
+
+A Day order is an order which is valid for a single day on which it is entered. If the order is not executed during the day, the trading system cancels the order automatically at the end of the day.
+
+Is it true that at expiration, the value of an option is its intrinsic value?
+Yes, its true for all options
+No, its not true for all options
+Yes, its true but only for Call options
+Yes, its true but only for Put options
+
+% WRONG ANSWER
+CORRECT ANSWER:
+
+Yes, its true for all options
+
+Explanation:
+
+At expiration, the exercise settlement value for each unit of the exercised contract is computed as follows:
+Call options = Closing price of the security on the day of exercise - Strike price
+
+Put options = Strike price - Closing price of the security on the day of exercise.
+
+In other words, the final settlement amount is equal to the intrinsic value of the option at expiration.
+
+The strategy of involves options with different strike prices but same expiry dates.
+Straddle
+Calendar spreads
+Vertical spreads
+Diagonal spreads
+
+XX WRONG ANSWER
+CORRECT ANSWER:
+
+Vertical spreads
+
+Explanation: a
+Spreads are option strategies which involve combining options on the same underlying and of same type (call/ put) but with different strikes and maturities. These are limited profit and limited loss positions.
+Vertical spreads are created by using options having same expiry date but different strike prices. These can be created either using calls as combination or puts as combination.
+
+This strategy is commonly used to limit risk and reward while taking a directional view on the market.
+
+In an American Put Option, the buyer gets the right but not the obligation to the writer an underlying asset at a specified price
+Buy from ; on or before the expiry date
+Buy from ; on the expiry date
+Sell to ; on or before the expiry date
+Sell to ; on the expiry date
+
+vCORRECT ANSWER
+Explanation:
+
+American option: The owner (buyer/holder) of an American option can exercise his right at any time on or before the expiry date/day of the contract.
+A Put Option gives the buyer/holder a right to sell the underlying asset.
+
+Therefore an American Put Option gives the buyer the right but not the obligation to sell to the writer an underlying asset at a specified price on or before the expiry date.
+
+Identify which of these is not an application of indices?
+Exchange traded funds
+Index funds
+Index derivatives
+Private equity funds
+
+CORRECT ANSWER A
+Explanation:
+
+Private Equity Funds are not connected to any index nor are they listed on a stock exchange.
+
+Traditionally, indices were used as a measure to understand the overall direction of stock market. However, few applications on index have emerged in the investment field such as Index Funds, Index
+Derivatives, Exchange Traded Funds etc.
+
+Q 49.
+
+Q 50.
+
+What is the minimum price movement in a scrip called ?
+Badla Rate
+Tick
+Touchline
+Market Lot
+
+CORRECT ANSWER A
+Explanation:
+
+Tick size is the minimum price movement of a trading instrument.
+
+Exchanges decide the tick sizes on traded contracts as part of contract specification. The exchange informs the lot size and the tick size for each of the contracts traded on F&O segment from time to time. For
+eg. Tick size for Nifty futures is 5 paisa.
+
+Delta refers to the Rate of change in the
+Option premium per day
+Option premium for a unit change in spot price of the underlying
+Option premium for a unit change in interest rate
+Option premium for a unit change in volatility of the underlying
+
+CORRECT ANSWER A
+Explanation:
+
+Option premiums change with changes in the factors that determine option pricing i.e., factors such as strike price, volatility, term to maturity, etc. The sensitivities most commonly tracked in the market are
+known collectively as “Greeks” represented by Delta, Gamma, Theta, Vega and Rho
+
+The most important of the ‘Greeks’ is the option’s “Delta”. This measures the sensitivity of the option value to a given small change in the price of the underlying asset. It may also be seen as the speed with
+which an option moves with respect to price of the underlying asset.
+
+Delta = Change in option premium/ Unit change in price of the underlying asset
+
+What is the rate of STT on the sale of an index or stock futures contract?
+0.01%
+0.0125%
+0.02%
+0.1%
+
+X WRONG ANSWER
+CORRECT ANSWER:
+
+0.02%
+Explanation:
+
+The Securities Transaction Tax (STT) on sale of stock futures / index is 0.02% on the price at which such futures is traded.
+

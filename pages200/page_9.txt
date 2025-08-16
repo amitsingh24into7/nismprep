@@ -1,0 +1,62 @@
+243: On what occasion from the below, the derivative segment of the stock market has to report to SEBI ?
+
+Occasions when the 90% Value at Risk (VaR) limit has been violated
+Occasions when the 96.5% Value at Risk (VaR) limit has been violated
+Occasions when the 95% Value at Risk (VaR) limit has been violated
+Occasions when the 99% Value at Risk (VaR) limit has been violated
+
+% WRONG ANSWER
+CORRECT ANSWER:
+
+Occasions when the 99% Value at Risk (VaR) limit has been violated
+
+Explanation:
+
+Some of the reports which a derivatives segment of a Stock Exchange has to provide to SEBI are:
+- Occasions when the 99% Value at Risk limit has been violated
+
+- Defaults by broker-members
+
+- Daily market activity report
+
+- Daily market report
+
+244 Whena person sells a call option, he has a—
+
+Bullish view
+Bearish view
+Long term view
+None of the above
+
+Y¥ CORRECT ANSWER
+Explanation:
+
+Acall option seller has a neutral to bearish perspective regarding the underlying price.
+
+A call option buyer has a bullish view.
+
+You have bought a CALL of Ambuja Cements of Strike price of Rs 500 of January. To close the position, you will Sell a CALL of same strike price of January. True or False ?
+False
+True
+
+¥ CORRECT ANSWER
+Explanation:
+
+When you buy a CALL option, it can only be squared up by selling the same CALL option.
+
+24° When a person sells a put option, he has an —
+
+Bullish view
+Bearish view
+Mixed view
+Long term view
+
+/¥ CORRECT ANSWER
+Explanation:
+
+Views of Option Buyers and Sellers :
+Buyer of Call Option - Bullish
+Seller of Call Option - Bearish or Flat
+Buyer of Put Option - Bearish
+
+Seller of Put Option - Bullish or Flat

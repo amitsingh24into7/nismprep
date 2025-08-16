@@ -1,0 +1,86 @@
+Q38.
+
+A member has two client M and N. M has bought 300 contracts and N has sold 250 contracts in October ABC futures series. Calculate the outstanding liability (open position) of the
+member towards Clearing Corporation in number of contracts?
+
+550
+
+50
+
+300
+
+NIL
+
+% WRONG ANSWER
+CORRECT ANSWER:
+
+550
+
+Explanation:
+While calculating the outstanding liability of a member, the total of all clients open position is taken into account. The positions cannot be netted against two clients.
+
+So in the above case the total open position is 300 + 250 = 550 contracts.
+
+In the books of account of the client, the balance in the Initial Margin account on the Balance Sheet date must be shown under the head
+Reserves and surplus
+Investments
+Current Liabilities
+Current Assets
+
+% WRONG ANSWER
+CORRECT ANSWER:
+Current Assets
+
+Explanation: A
+
+The buyer and seller of futures contract and the seller/ writer of the options is required to pay initial margin for entering into the such contract. It should be debited to an appropriate account. In the balance sheet,
+such account should be shown separately under the head "Current Assets".
+
+Calculate the Intrinsic Value for the following Call option :
+Current price of the stock - Rs. 340.
+Call option of strike price Rs. 300 is quoted at Rs. 56
+
+Rs. 16
+
+Rs. 40
+
+Rs. 56
+
+NIL
+
+¥ CORRECT ANSWER
+Explanation:
+
+When the Strike Price is below the Spot Price, the Call Option is 'In the Money’ ie. profitable.
+Intrinsic Value for a such a Call Option = Spot Price - Strike Price
+= 340 - 300
+
+=40
+
+The key to determining if a futures transaction is for hedging or speculation lies in
+basic intention of the person entering into the transaction
+whether there already exists a related commercial position which is has a risk of loss due to price movement
+whether the futures position is held till expiry date
+whether the transaction has resulted in a profit or a loss
+
+v CORRECT ANSWER A
+Explanation:
+Hedging basically means doing a trade to reduce the risk of adverse price movements in an asset. Normally, a hedge consists of taking an offsetting position in a related security, such as a futures contract.
+
+An example of a hedge would be if you owned a stock, then sold a futures contract stating that you will sell your stock at a set price, therefore avoiding market fluctuations.
+
+Who decides the daily settlement price for equity derivatives contracts?
+ICAL
+RBI
+SEB!
+The Clearing Corporation / The Exchange
+
+XX WRONG ANSWER
+CORRECT ANSWER:
+
+The Clearing Corporation / The Exchange
+Explanation:
+The exchange follows a daily settlement procedure for open positions in equity index and stock futures contracts.
+
+All open positions are settled daily based on the daily settlement price of the futures contracts, which is calculated by the exchange on the basis of the last half-an-hour weighted average price of that futures
+contract.

@@ -1,0 +1,49 @@
+Q 25.
+
+Q 26.
+
+Intrinsic value is always positive for in-the-money options and zero for out-of-the money options - State True or False ?
+True
+False
+
+¥ CORRECT ANSWER
+Explanation:
+
+In-the-money options have positive intrinsic value whereas at-the-money and out-of-the-money options have zero intrinsic value. The intrinsic value of an option can never be negative.
+
+If futures price is higher than spot price of an underlying asset, this is known as
+Maximization
+Normalization
+Backwardation
+Contango
+
+¥ CORRECT ANSWER
+Explanation:
+
+If futures price is higher than spot price of an underlying asset, market participants may expect the spot price to go up in near future. This expectedly rising market is called “Contango market”.
+
+Similarly, if futures price are lower than spot price of an asset, market participants may expect the spot price to come down in future. This expectedly falling market is called “Backwardation market”.
+
+What is the role of speculators in the market ?
+They stabilise the markets
+They reduce their risks by speculating
+They maintain the Dollar-Rupee price parity
+They add to the liquidity in the futures market
+
+¥ CORRECT ANSWER
+Explanation:
+
+Speculators constantly buy and sell creating good liquidity.
+
+What is an Index Future ?
+Its a synthetic option
+Its a cash market product
+Its a derivative product
+Its an option
+
+¥ CORRECT ANSWER
+Explanation:
+
+The future price of an index is derived from the spot / cash price.
+
+So Index Future is a derivative product.

@@ -1,0 +1,84 @@
+Q45.
+
+As per SEBI's guidelines, derivatives trading takes place through
+Online screen based trading system
+Kerb trading
+Auctions at public mandis
+Open outcry method in the trading ring
+
+v CORRECT ANSWER a“
+Explanation:
+
+Derivatives trading as per SEBI’s guidelines takes place through an online screen based electronic trading system.
+
+In case of electronic trading, there are screen-based broker dealing terminals, instead of the trading pit. Futures and options trading in India is electronic in nature, with the bids and offers, and the acceptance
+being displayed on the terminal continuously.
+
+Ms. Seema, a stock market trader, is very bearish on specific companies. However she is bullish on the market as a whole. Identify the most appropriate strategy to take advantage from
+this view?
+
+She should sell shares of those specific companies and buy index futures
+
+She should sell the shares of those specific companies and also sell index futures
+She should buy the shares of those specific companies and sell index futures
+She should not do anything
+
+¥ CORRECT ANSWER 4
+Explanation:
+
+The trader should sell the shares of those specific companies in futures and buy index futures. By this she will profit when the stock prices of those specific companies fall and index rises - if her view proves
+correct.
+
+Why is the Clearing Corporation considered very important in the derivatives market?
+Clearing Corporation deals with exchanges
+Clearing Corporation related with stocks
+Clearing Corporation provides settlement guarantee and assumes role of counterparty for each trade
+Clearing Corporation collects margins from members
+
+¥ CORRECTANSWER A
+Explanation:
+
+Clearing corporations are required to have in place a Core Settlement Guarantee Fund (SGF).
+
+The primary objective of the Core SGF is to have a fund for each segment to guarantee the settlement of trades executed in the respective segment of the stock exchange. The Clearing Corporation acts as a legal
+counterparty for every contract.
+
+Aclient has asked for a quarterly settlement of his running account. In this connection, identify the INCORRECT statements.
+A. The settlement will be done on first Friday of the quarter
+B. The settlement will be done on last Friday of the quarter
+C. The settlement will be done on any trading day of the quarter
+Both A and B are incorrect
+Both B and C are incorrect
+Both A and C are incorrect
+None of the above
+
+% WRONG ANSWER
+CORRECT ANSWER:
+
+Both B and C are incorrect
+Explanation: 4
+
+With a view to prevent any misuse of a client’s funds by the broker, SEBI has made it mandatory for brokers to settle the running account of client funds on a monthly or quarterly basis as per the mandate of the
+client.
+
+To bring uniformity in the settlement of running accounts, brokers are now required to settle the running account after considering the client’s EOD obligations as on the date of settlement across all the
+Exchanges on the first Friday of the quarter, in case of clients requiring a quarterly settlement, and on the first Friday of the month in the case of clients opting for a monthly settlement.
+
+Identify the CORRECT statement .
+Penny stocks are and good investment options for senior citizens
+Brokers of a stock exchange are not expected to disclose the investment risks to their clients
+Low income families can use derivatives instruments to get rich quickly
+Sales agents of the brokers should not use high pressure luring tactics
+
+¥ CORRECT ANSWER
+Explanation:
+
+As per ethical Sales Practices to be followed by brokers :
+
+Sales agents of brokers must at all times:
+
+- Be courteous and professional.
+
+- Shall refrain from making false assumptions, in particular over potential returns on their investments.
+
+- Avoid the use of high pressure/ luring tactics.

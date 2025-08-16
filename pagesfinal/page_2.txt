@@ -1,0 +1,91 @@
+Q7.
+
+Qs.
+
+Qo
+
+Q10.
+
+Qu.
+
+Which tax is applicable on the transactions done on a recognised Indian stock exchange?
+Stock Subversion Tax
+Derivatives Transaction Tax
+Securities Trading Tax
+Securities Transaction Tax
+
+¥ CORRECT ANSWER 4a
+Explanation:
+
+Securities Transaction Tax (STT) is levied on every purchase and sale of securities that are listed on the Indian stock exchanges. STT is levied on transactions involving equity, derivatives and equity oriented
+mutual funds.
+
+Option premium is the price which is paid by the 5
+Option seller to option buyer
+Option buyer to option seller
+Option buyer and option seller to the exchange
+Option buyer and option seller to a third party
+
+% WRONG ANSWER
+CORRECT ANSWER:
+
+Option buyer to option seller
+
+Explanation:
+
+Option Premium is the price which the option buyer pays to the option seller.
+
+A ‘Closing buy transaction’ is a buy transaction which will have the effect of offsetting a a
+Long position
+Short position
+Cross position
+High position
+
+v¥ CORRECTANSWER
+Explanation:
+
+A'"short position" means you've sold an asset you don't own, with the obligation to buy it back later.
+
+A"Closing buy transaction" is when you buy that asset back, effectively closing out (offsetting) your short position.
+
+Which of these is an order with a time condition?
+Market Order
+Limit Order
+Stop Loss order
+Good Till Cancelled Order
+
+> WRONG ANSWER
+CORRECT ANSWER:
+
+Good Till Cancelled Order
+Explanation: 4
+
+Good Till Cancel (GTC) is a type of order that enables client to place buying and selling orders with specifying time interval for which instruction of request remains valid. The maximum validity of a GTC order is
+365 days.
+
+Mr. Subu has buy position in a stock, he can square-off his long position in the stock by selling__.
+Any index stock of equal quantity
+Any security of equal quantity
+The same stock and same quantity
+Any 'A' group stock of equal quantity
+
+> WRONG ANSWER
+CORRECT ANSWER:
+
+The same stock and same quantity
+
+Explanation:
+
+To square up / cover a long position, the same quantity of the same stock has to be sold.
+
+For extra-ordinary dividends above 2% of the market value of the underlying security, the amount of dividend is the strike price of options on the stock.
+divided by
+subtracted from
+added to
+multiplied to
+
+Y¥ CORRECT ANSWER a
+Explanation:
+
+In case of declaration of "extra-ordinary" dividend by any company, the total dividend amount (special and / or ordinary) would be reduced from all the strike prices of the option contracts on that stock. The
+revised strike prices would be applicable from the ex-dividend date specified by the exchange.

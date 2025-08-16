@@ -1,0 +1,83 @@
+Q38.
+
+Q40.
+
+From the various complaints against a trading member given below, identify which one can be taken up by the exchange for redressal ?
+Complaints in respect of transactions which are already subject matter of arbitration proceedings
+Non-receipt of funds or securities
+Complaints relating to land dealings between a client and a trading member
+Claims for notional loss for the disputed period
+
+¥ CORRECTANSWER 4
+Explanation:
+
+Exchanges provide assistance if the complaints fall within the purview of the Exchange and are related to trades that are executed on the Exchange Platform. ‘Non-receipt of funds / securities’ comes under this
+assistance.
+
+Mr X sells one ABC stock futures contract at Rs. 745. What is his profit (+) or loss (-), if he purchases the contract back at Rs. 754 ? Lot size is 1500
++13500
+-13500
++9800
+-9800
+
+Y CORRECTANSWER
+
+Explanation:
+
+When you sell a stock future contract you make a profit if the share price falls or you make a loss if the price rises.
+In this case, ABC stock futures has risen by Rs. 9 (754 - 745). So there will be a loss.
+
+Rs. 9 x 1500 (Lot size) = Loss of Rs 13500
+
+Identify the CORRECT statement.
+Ashort position in a put option can be closed out by taking a long position in a put option of any exercise price and exercise date
+Ashort position in a put option can be closed out by taking a long position in a call option with the same exercise price and exercise date
+A short position in a put option can be closed out by taking a long position in a put option with the same exercise price and exercise date
+Ashort position in a put option can be closed out by taking a short position in a call option with the same exercise price and exercise date
+
+¥ CORRECT ANSWER
+
+Explanation:
+
+Aclosing transaction for an option involves the sale or purchase of an option contract with the same terms (contract specifications), i.e., an option with the same strike price and same expiry date.
+Ashort position in a put option means the trader has sold a put option and is obligated to buy the underlying asset if exercised.
+
+To close out this position, the trader must take an opposite position, which is buying (going long) the same put option with the same strike price and expiration date.
+
+This ensures that any potential losses or obligations from the short put are neutralized by the long put.
+
+Hedgers and speculators are two important participants of a securities market and they strike a balance due to their needs as
+Hedger wants to avoids risk while the speculator wants to takes risk
+Hedger wants to takes risk while speculators wants to avoids risk
+Both hedgers and speculators want to avoid risk
+Both hedgers and speculators want to take risk
+
+v CORRECT ANSWER EN
+Explanation:
+
+Corporations, Investing Institutions, banks and governments all use derivative products to hedge or reduce their exposures to market variables such as interest rates, share values, bond prices, currency
+exchange rates and commodity prices.
+
+‘Speculators/Traders try to predict the future movements in prices of underlying assets and based on the view, take positions in derivative contracts. They take a risk to make profits.
+
+Hedgers aim to hedge their risk where as speculators take the risk which hedgers plan to offload from their exposure.
+
+Mr. Harish had purchased 20 call options on a stock by paying a premium of Rs 10 per call (Strike price of Rs. 125). The stock price has closed at Rs. 100 on the exercise date. Based on
+economic rationale alone, Mr. Harish ‘a
+
+Should exercise the option but he should not take delivery of the underlying
+
+Should exercise the option
+
+Should not exercise the option
+
+Should exercise the option as he likes the management of the company
+
+% WRONG ANSWER
+CORRECT ANSWER:
+
+Should not exercise the option
+Explanation: 4a
+
+Mr. Harish has purchased a call option which means he believed that the price of that call will go up. Instead the price has fallen. So he should not exercise the option and the maximum loss he will suffer is the
+premium paid by him.

@@ -1,0 +1,80 @@
+Aperson sells one ABC Ltd. stock futures contract at Rs.268 and the lot size is 1,500. What is the profit (+) or loss (-), if he/she purchases the contract back at Rs.274?
++9000
++18000
+-9000
+-18000
+
+¥ CORRECT ANSWER
+Explanation:
+
+When a person sells a stock future contract, he/she can make a profit if the share price falls or make a loss if the price rises and he/she buys back the contract.
+In this case, ABC Ltd. stock futures has risen by Rs. 6 (274 - 268). So there will be a loss.
+
+Rs. 6 x 1500 (Lot size) = Loss of Rs 9000
+
+27. Institutional investors pay lower margins than the individual investors for derivatives trading - State True or False ?
+
+True
+False
+
+¥ CORRECTANSWER
+Explanation:
+
+The margin requirement is same for both individual investors and institutional investors.
+
+O78 person who provides two way quotes for various stocks is known as
+
+Arbitrageur
+Speculator
+Hedger
+Market Maker
+
+% WRONG ANSWER
+CORRECT ANSWER:
+
+Market Maker
+
+Explanation:
+
+A market maker or liquidity provider is a company or an individual that quotes both a buy and a sell price in a financial instrument hoping to make a profit on the bid-offer spread.
+
+ren can write an option in the Indian stock market .
+
+Common individuals
+
+Market makers
+
+Foreign Financial Institutions (Fll)
+All of the above
+
+¥ CORRECTANSWER
+Explanation:
+
+All of the above can write (sell) options in Indian stock market.
+
+In case of forward contracts, the rules regarding the minimum amount by which the price would change and the price limits are specified by an authority - State True or False ?
+True
+False
+
+% WRONG ANSWER
+CORRECT ANSWER:
+
+False
+
+Explanation:
+
+In a Forward Contract, there is no such authority. Forward contract is agreement between two parties to buy/sell an underlying asset and no other authority like a Stock Exchange or SEB! is involved.
+
+al Foreign Exchange can be a part of liquid assets to be maintained by Clearing Members with the clearing corporation - State True or False ?
+
+True
+False
+
+> WRONG ANSWER
+CORRECT ANSWER:
+
+False
+
+Explanation:
+
+Liquid assets can comprise of Cash, Bank Guarantees, Govt. Securities etc. but not foreign exchange.

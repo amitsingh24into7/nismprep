@@ -1,0 +1,30 @@
+249 Mr R wants to sell 17 contracts of January series at Rs.4550 and Mr S wants to sell 20 contracts of February series at Rs. 4500. Lot size is 50. The Initial Margin is fixed at 9%. How much
+
+Initial Margin is required to be collected from both these investors by the broker?
+Rs 3,48,075
+Rs 4,05,000
+Rs 5,87,500
+Rs 7,53,075
+
+¥ CORRECT ANSWER 4
+Explanation:
+
+The Broker has to collect -
+From Mr. R : 17 x 4550 x 50 x 9% = Rs 3,48,075
+From Mr. S : 20 x 4500 x 50 x 9% = Rs 4,05,000
+
+Therefore the total margin to be collected is 348075 + 405000 = Rs 7,53,075
+
+Q90. ifthe price of a stock is volatile, then the option premium would be relatively 4
+
+Lower
+
+Higher
+
+No effect of volatility
+zero
+
+¥ CORRECT ANSWER
+Explanation:
+
+Higher volatility means higher risk and higher risk means one has to pay a higher premium.

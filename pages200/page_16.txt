@@ -1,0 +1,93 @@
+285: Mr. X does not hold any shares of ABC company so he cannot write a CALL option on it - State True or False?
+
+True
+False
+
+v CORRECT ANSWER
+Explanation:
+
+Mr. X can write (i.e., sell) a call option on ABC company even if he does not hold the shares. This is known as naked call writing or uncovered call writing.
+In naked call writing, the seller does not own the underlying shares.
+
+iowever, It is a high-risk strategy, because if the stock price rises sharply, Mr. X would be obligated to deliver the shares at the strike price, potentially incurring unlimited losses.
+
+© 89. ‘An equity index option like NIFTY OPTION is a .
+
+Treasury instrument
+Debt instrument
+Derivative Product
+Cash market product
+
+¥ CORRECT ANSWER
+Explanation:
+
+Nifty options are derived from the NSE index ie. Nifty and so its an derivative product.
+
+If a trader buys a put option with a higher strike price and sells a put option with a lower strike price, both of the same underlying then this strategy is called
+Bullish Spread
+Bearish Spread
+Straddie
+Butterfly spread
+¥ CORRECT ANSWER 4a
+Explanation:
+
+Bearish Vertical Spread using puts - The trader is bearish on the market and so goes long in one put option by paying a premium. Further, to reduce his cost, he shorts another low strike put and receives a
+premium.
+
+086. A trader sells a lower strike price CALL option and buys a higher strike price CALL option, both of the same scrip and same expiry date. This strategy is called
+
+Bearish Spread
+Bullish Spread
+
+Long term Investment
+Butterfly
+
+% WRONG ANSWER
+CORRECT ANSWER:
+
+Bearish Spread
+
+Explanation:
+The trader sells a lower strike price CALL option (receives a premium) and buys a higher strike price CALL option (pays a premium).
+
+Since the lower strike price option has a higher premium, the trader receives a net credit initially.
+
+This strategy benefits when the stock declines or remains below the lower strike price, making it a Bear Call Spread, which is a Bearish Spread strategy.
+
+289 It is recommended but not compulsory that all Stock Exchanges of India have a uniform settlement cycle. True or False ?
+
+False
+True
+
+X WRONG ANSWER
+CORRECT ANSWER:
+
+True
+
+Explanation:
+
+Uniform settlement cycle across all exchanges is recommended but the exchanges can fix their settlement cycle as per their wish and what suits them best.
+
+299. ‘A low level of initial margin increases the possibility of defaults of a stock broker - State True or False ?
+
+True
+False
+
+¥ CORRECTANSWER
+Explanation:
+
+Abroker collects the initial margins from his clients as per their positions and pays to the exchange.
+
+A low level of initial margin collected from clients can lead to defaults of clients in case of major movement of stock prices. So if clients defaults, it also increases the chances of the broker defaulting.
+
+29% The daily settlement of all open positions in futures contract is called
+
+Exercising of the futures contract
+Mark to Market settlement
+VaR settlement
+None of the above
+¥ CORRECT ANSWER 4
+Explanation:
+In futures market, the contracts have maturity of several months. So to safe gaurd against substantial rise /fall in the prices, profits and losses are settled on day-to-day basis — called mark to market settlement.
+
+The exchange collects these margins from the loss making traders and pays to the gainers on day-to-day basis.

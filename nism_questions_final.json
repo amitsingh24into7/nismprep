@@ -1,0 +1,178 @@
+[
+    {
+        "question": "Initial margin to be paid in derivatives is set up taking into account the volatility of the underlying market. Generally",
+        "options": {
+            "a": "Lower the volatility, higher the initial margin",
+            "b": "Higher the volatility, lower the initial margin",
+            "c": "Higher the volatility, higher the initial margin",
+            "d": "None of the above"
+        },
+        "correct_option": "c",
+        "explanation": "When the markets are very volatile, it could results in losses to the traders. So to safe guard the trading member and the trader, higher initial margin are levied on when volatility is high."
+    },
+    {
+        "question": "Fs - . What will be the Delta for a Far Out-of-the-money option?",
+        "options": {
+            "a": "Near 0",
+            "b": "Near 1",
+            "c": "Near -1",
+            "d": "Near 2"
+        },
+        "correct_option": "a",
+        "explanation": "Delta for Out of the Money Call and Put option approaches zero as it nears expiry. Delta for In the Money Call option approaches 1 and delta for In the Money Put option approaches -1 as it nears expiry."
+    },
+    {
+        "question": "The term mark-to-market means",
+        "options": {
+            "a": "process by which a portfolio manager checks the daily profits / losses",
+            "b": "the current / spot index price",
+            "c": "intimation from the broker to a client for additional funds",
+            "d": "the every day revaluation of open positions by the exchanges to reflect profits and losses in the market"
+        },
+        "correct_option": "d",
+        "explanation": "Mark to Market (MTM) is a process by which margins are adjusted on the basis of daily price changes in the markets for underlying assets."
+    },
+    {
+        "question": "What should Mr. Ashu do? A long position in ABC. What should Mr. Ashu do?",
+        "options": {
+            "a": "Place a stop loss order for 100 shares of ABC at Rs 990 per share",
+            "b": "Place a stop loss order for 100 shares of ABC at Rs 970 per share",
+            "c": "Place a limit buy order for 100 shares of ABC at Rs 990 per share",
+            "d": "None of the above"
+        },
+        "correct_option": "b",
+        "explanation": "Mr. Ashu will lose Rs 1000 if the ABC share will fall by Rs 10 as he has 100 shares and a 10 rupee fall will lead to Rs 1000 loss. He has bought at Rs 980. So he will put the stop loss order at Rs 970 (980 - 10)."
+    },
+    {
+        "question": "What is his profit or loss, if he squares off the position at Rs 778?",
+        "options": {
+            "a": "Rs. 12000",
+            "b": "Rs 1200000",
+            "c": "-Rs 12000",
+            "d": "-Rs 10000"
+        },
+        "correct_option": "a",
+        "explanation": "The trader buys at Rs 768 and sells off at Rs 778, so he makes a profit of Rs 10. Lot size is 1200. So the total profit is Rs 10 X 1200 = Rs 12000"
+    },
+    {
+        "question": "245: A Professional Clearing member of derivatives segment",
+        "options": {
+            "a": "should also be a member of the cash segment",
+            "b": "should also become a member of the cash segment within 2 years",
+            "c": "provides trading facility to its clients",
+            "d": "does not have any trading rights"
+        },
+        "correct_option": "d",
+        "explanation": "Professional clearing member is not a Trading Member of the exchange and does not have trading rights."
+    },
+    {
+        "question": "Which one of these complaints against a trading member can an Exchange take up for redressal?",
+        "options": {
+            "a": "Complaints regarding land dealings between a client and trading member",
+            "b": "Complaints in respect of transactions which are already subject matter of Arbitrage proceedings",
+            "c": "Claims regarding notional loss for the disputed trade",
+            "d": "Claims regarding unauthorized transaction in the client's account"
+        },
+        "correct_option": "d",
+        "explanation": "Complaints against trading members on account of the following can be taken by an Exchange for redressal : - Non-receipt of funds / securities - Non- receipt of documents such as member client agreement, contract notes, settlement of accounts, order trade log etc. - Non-Receipt of Funds / Securities kept as margin - Trades executed without adequate margins - Delay /non - receipt of funds - Squaring up of positions without consent - Unauthorized transaction in the account - Excess Brokerage charged by Trading Member / Sub-broker - Unauthorized transfer of funds from commodities account to other accounts etc."
+    },
+    {
+        "question": "Can a Clearing Member give 'Fixed Deposits' as part of liquid assets to the Clearing Corporation? Yes No",
+        "options": {
+            "a": "Yes",
+            "b": "No",
+            "c": "X WRONG ANSWER",
+            "d": "WRONG ANSWER"
+        },
+        "correct_option": "a",
+        "explanation": "Clearing member is required to provide liquid assets which adequately cover various margins and liquid Net-worth requirements. Liquid Assets can be in the form of Cash, Cash Equivalents (Government Securities, Fixed Deposits, Treasury Bills, Bank Guarantees, and Investment Grade Debt Securities) and Equity Securities."
+    },
+    {
+        "question": "Q31. Can the exercise price be more than or equal to or less than the cash spot price ?",
+        "options": {
+            "a": "Yes",
+            "b": "No",
+            "c": "Exercise price means the Strike price for which options can be traded.",
+            "d": "For eg. - A scrip ABC has options trading at a strike price of Rs 100. The spot price (market price) can easily fluctuate as per market sentiments and can be above, below or equal to Rs. 100."
+        },
+        "correct_option": "a",
+        "explanation": "Exercise price means the Strike price for which options can be traded. For eg. - A scrip ABC has options trading at a strike price of Rs 100. The spot price (market price) can easily fluctuate as per market sentiments and can be above, below or equal to Rs. 100."
+    },
+    {
+        "question": "Q36. The money and securities which are deposited in a clients account * Can be attached for meeting the obligations of the broker on his proprietary account Cannot be attached for meeting the obligations of the broker on his proprietary account Can or cannot be attached depends on the decision of Clearing Corporation None of the above",
+        "options": {
+            "a": "Can be attached for meeting the obligations of the broker on his proprietary account",
+            "b": "Cannot be attached for meeting the obligations of the broker on his proprietary account",
+            "c": "Can or cannot be attached depends on the decision of Clearing Corporation",
+            "d": "None of the above"
+        },
+        "correct_option": "b",
+        "explanation": "The securities or money deposited by clients cannot be attached for meeting broker's obligation on his proprietary account. The broker has to maintain separate client bank account for segregation of client money. Also brokers should keep margins collected from clients in a separate bank account."
+    },
+    {
+        "question": "238 A Derivative market helps in transferring the risk from x",
+        "options": {
+            "a": "Speculators to Hedgers",
+            "b": "Arbitrageurs to Hedgers",
+            "c": "Speculators to Arbitrageurs",
+            "d": "Hedgers to Speculators"
+        },
+        "correct_option": "a",
+        "explanation": "Hedgers aim to hedge their risk and speculators/traders take the risk which hedgers plan to offload from their exposure. Speculators form one of the most important participants of the derivatives market, providing depth to the market. Hedgers may not be able to hedge, if speculators were not present in the system."
+    },
+    {
+        "question": "Which of these options is an example of a Calendar Spread?",
+        "options": {
+            "a": "Going short on the underpriced futures contract of one month and at the same time buying the overpriced futures contract of another month",
+            "b": "Buying stock futures contract while at the same time shorting the stock",
+            "c": "Buying the underpriced futures contract of one month and simultaneously selling the overpriced futures contract of another month",
+            "d": "Going short on the stock futures contract while simultaneously buying the stock"
+        },
+        "correct_option": "c",
+        "explanation": "Calendar spread refers to the arbitrage between futures contracts of different expiration months. In this strategy, the arbitrageur buys and sells the futures contracts of two different months. To execute this strategy, the arbitrageur must identify which contract to buy or sell. The principal rule of arbitrage is that one must buy the underpriced contract and sell the overpriced one. Hence, the arbitrageur needs to compute the fair price of both futures contracts and compare these with the traded prices, to decide which contract is overpriced and which one is underpriced."
+    },
+    {
+        "question": "Ms. Kavita wants to 'Sell' on a futures market. For this, she .",
+        "options": {
+            "a": "need not own the underlying",
+            "b": "must own the underlying",
+            "c": "must own at least 25 of the underlying",
+            "d": "must own at least 50 of the underlying"
+        },
+        "correct_option": "a",
+        "explanation": "Selling on a futures market does not need any delivery. Only margin is required to be paid to Buy/Sell on a futures market. Therefore, Ms. Kavita can sell on the futures market even without owning the underlying. However, she needs to square up her position before the expiry."
+    },
+    {
+        "question": "The Derivatives market helps in x",
+        "options": {
+            "a": "Transfer of risk from those who are exposed to risk but have low risk appetite to participants with high risk appetite",
+            "b": "The reallocation of risk among the market participants",
+            "c": "Both of the above",
+            "d": "None of the above"
+        },
+        "correct_option": "a",
+        "explanation": "Derivatives play a positive role by reallocating risks. They help in transfer of various risks from those who are exposed to risk but have low risk appetite (Hedgers) to participants with high risk appetite (Speculators). For example, hedgers do not want any risk where as traders/speculators are willing to take risk. Derivatives were first invented as a Hedgeing tool so that people who wanted to play safe can use them to transfer the risk by hedgeing."
+    },
+    {
+        "question": "Q45. Identify the FALSE statement with respect to Options.",
+        "options": {
+            "a": "Option contracts are NOT symmetrical regarding the rights and obligations of the parties involved Buyer of an option gets the right while seller of an option bears the obligation Options contracts have non-linear payoffs Options contracts have linear payoffs",
+            "b": "",
+            "c": "",
+            "d": ""
+        },
+        "correct_option": "d",
+        "explanation": "Options have non-linear payoffs: The profit/loss profile of options Is not a straight line; it depends on factors like strike price, premium, volatility, and time decay. In case of futures contracts, long as well as short position has unlimited profit or loss potential. This results into linear payoffs for futures contracts. However, option contracts do not have linear payoffs as the buyers and sellers have different obligations and risk factors."
+    },
+    {
+        "question": "The clearing member is free to close out transactions of a trading member if",
+        "options": {
+            "a": "The trading member has not paid initial margin money",
+            "b": "The trading member has not paid daily settlement dues",
+            "c": "In both the above cases",
+            "d": "The following are some of the compliance lapses which attract penal charges"
+        },
+        "correct_option": "c",
+        "explanation": "The following are some of the compliance lapses which attract penal charges: ... In the event of a violation, Clearing Corporation may advice the Exchanges to withdraw any or all of the membership rights of the clearing member including the withdrawal of trading facilities of all trading members and/or clearing facility of custodial participants clearing through such clearing members, without any notice."
+    }
+]

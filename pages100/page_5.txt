@@ -1,0 +1,91 @@
+oe In Options - the seller of an contract pays an upfront premium at the time of entering into the contract - State whether True or False ?
+
+True
+
+False as the premium is paid on maturity
+
+False as the premium is paid by the buyer and not the seller
+None of the above
+
+X WRONG ANSWER
+CORRECT ANSWER:
+
+False as the premium is paid by the buyer and not the seller
+
+Explanation:
+
+In Options (Both Call and Put), the premium is paid by the buyer of options and not the seller of options. The seller receives the premium.
+
+In case of , the gain or loss is realised on daily basis due to mark-to-market mechanism.
+Swaps
+Forward contracts
+Future contracts
+Option contracts
+
+v CORRECT ANSWER a
+Explanation:
+
+In futures contracts, the mark-to-market (MT) mechanism is used to adjust the gains or losses on a daily basis. This means that each day, the profit or loss on the futures position is calculated based on the
+day's closing price, and the margin account is credited or debited accordingly.
+
+Swaps and forward contracts are OTC (Over-the-Counter) products and do not have daily mark-to-market adjustments.
+
+Options may involve premium payments but are not settled daily by MTM in the same way futures are.
+
+2? A calendar spread in index futures is treated as in a far month contract when the near months contract is expired.
+
+long position
+hedged position
+naked position
+Short position
+
+¥ CORRECT ANSWER
+Explanation:
+
+A calendar spread becomes a naked/open position, when the near month contract expires or either of the legs of spread is closed.
+
+The main objective of derivatives is to enable market participants to___
+Trade
+Manage the risks
+Speculate
+Arbitrage
+
+v CORRECT ANSWER A
+Explanation:
+
+Derivatives market helps in transfer of various risks from those who are exposed to risk but have low risk appetite to participants with high risk appetite. For example, hedgers want to give away the risk where as
+traders are willing to take risk.
+
+ae Higher the interest rate, the higher the CALL option premium - State True or False ?
+
+True
+False
+
+¥ CORRECT ANSWER
+Explanation:
+
+High interest rates will result in an increase in the value of a CALL option and a decrease in the value of a PUT option.
+
+QBS Buyer or holder of the option is the party to the contract who has
+
+the obligation but not the right
+the right but not the obligation
+the right and the obligation
+None of the above
+
+¥ CORRECT ANSWER
+Explanation:
+
+A Call option gives the buyer the right, but not the obligation to buy the underlying at the strike price.
+
+A put option gives the buyer of the option the right, but not the obligation, to sell the underlying at the strike price.
+
+The Trading members on the exchanges derivatives segment are not required to be registered with SEBI.- State whether True or False ?
+False
+True
+
+¥ CORRECTANSWER 4
+Explanation:
+
+‘SEBI has powers for Registering and regulating the working of stock brokers, sub—brokers, etc. A trading member on both the segments i.e. Cash and Derivative segments has to register with SEBI and Stock
+Exchanges.

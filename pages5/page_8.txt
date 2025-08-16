@@ -1,0 +1,80 @@
+Q38.
+
+Q 39.
+
+Q 40.
+
+Q41.
+
+Q42.
+
+When does the Clearing Corporation change the initial margin requirements?
+Clearing Corporation can continuously change the initial margin requirements according to changes in market volatility
+Clearing Corporation can continuously change the initial margin requirements whenever their is an increase in trading volumes
+Clearing Corporation changes the | margin requirements periodically, based on specific instructions received from SEBI
+Clearing Corporation changes the initial margin requirements periodically, after each expiry date
+
+¥ CORRECT ANSWER
+Explanation:
+
+The initial margin is dependent on price movement of the underlying asset. As high volatility assets carry more risk, the Exchange / Clearing Corporation would charge higher initial margin on them.
+
+Mark-to-market margins are collected .
+On a weekly basis
+On a daily basis
+Every 2 days
+Every 3 days
+
+¥ CORRECT ANSWER
+Explanation:
+
+In the futures market, profits and losses are settled on day-to-day basis — called mark to market (MTM) settlement.
+
+The exchange collects these margins (MTM margins) from the loss making participants and pays to the gainers on day-to-day basis.
+
+The facility for lending and borrowing securities is usually necessary for smooth execution of
+Cash and carry arbitrage
+Reverse cash-and-carry arbitrage
+Cross-hedge using futures
+Calendar spread using futures
+
+XX WRONG ANSWER
+CORRECT ANSWER:
+
+Reverse cash-and-carry arbitrage
+
+Explanation: 4
+
+Usually the futures prices are higher than cash market prices. The reverse cash-and-carry arbitrage is done when the futures contract are lower than the cash market price. For eg. Reliance Industries Ltd. is
+trading at Rs 2050 in the cash market and Rs. 2000 in futures market. The arbitrageur will sell in the cash market at Rs 2050 and buy in the future market at Rs 2000, thus making a profit of Rs 50 (less expenses).
+
+The arbitrageur should have the stock to deliver in the cash market, which will be bought back at the time of reversing the position. If stock is not available, arbitrageur needs to borrow the stock to implement the
+arbitrage. Therefore, existence of a facility for lending and borrowing securities is required for smooth execution Reverse cash-and-carry arbitrage.
+
+Identify the strategy which will be most appropriate when volatility is expected to be very low.
+Short Straddle
+Short Butterfly
+Long Butterfly
+Long Straddle
+
+¥ CORRECTANSWER A
+Explanation:
+
+Short Straddle Strategy - Here, the trader’s views that the price of underlying would not move much or remain stable (Low volatility). So, he sells a call and a put so that he can profit from the premiums received.
+
+Identify the TRUE statement with respect to Option Spreads.
+Abullish call spread will result in an initial cash inflow for the trader
+Abearish call spread will result in an initial cash inflow for the trader
+Abullish put spread will result in an initial cash outflow for the trader
+Abearish put spread will result in an initial cash inflow for the trader
+
+%X WRONG ANSWER
+CORRECT ANSWER:
+
+A bearish call spread will result in an initial cash inflow for the trader
+Explanation: 4a
+
+In a bearish call spread, there is a net in-flow of premium when the spread is initiated. A bear call spread is achieved by simultaneously selling a call option and buying a call option at a higher strike price but with
+the same expiration date, The maximum profit to be gained using this strategy is equal to the credit received when initiating the trade.
+
+(Ina bearish put spread and bullish call spread there is a net out-flow of premium when the spread is initiated. In a bullish put spread, there is a net in-flow of premium when the spread is initiated.)

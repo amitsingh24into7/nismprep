@@ -1,0 +1,741 @@
+Q7.
+
+Initial margin to be paid in derivatives is set up taking into account the volatility of the underlying market. Generally ___
+Lower the volatility, higher the initial margin
+Higher the volatility, lower the initial margin
+Higher the volatility, higher the initial margin
+None of the above
+
+% WRONG ANSWER
+CORRECT ANSWER:
+
+Higher the volatility, higher the initial margin
+
+Explanation:
+
+When the markets are very volatile, it could results in losses to the traders. So to safe guard the trading member and the trader, higher initial margin are levied on when volatility is high.
+
+To whom is a high impact cost beneficial ?
+Only buyers
+Only sellers
+Neither buyers nor sellers
+Only arbitrageurs
+
+¥ CORRECT ANSWER
+Explanation:
+
+Impact cost is the cost that the buyer or seller of stocks incur while executing a transaction due to prevailing liquidity conditions in that counter.
+A high impact cost will increase the purchasing price for the buyer and decrease the selling price for the seller.
+
+So a high impact cost is neither beneficial to the buyer nor the seller.
+
+is the ratio of change in option premium for a unit change in volatility.
+Rho
+Theta
+Delta
+Vega
+
+v CORRECT ANSWER
+
+Explanation:
+Vega (v) is a measure of the sensitivity of an option price to changes in market volatility. It is the change of an option premium for a given change in the underlying volatility.
+
+In a derivatives exchange, the networth requirement for a clearing member is higher than that of a non-clearing member — State whether True or False?
+True
+False
+
+Y CORRECT ANSWER
+Explanation:
+
+In a derivative exchange, the networth requirement for a clearing member is higher than that of a non-clearing member.
+
+The risk that cannot be controlled by diversification of portfolio is
+Systematic Risk
+Unsystematic Risk
+Credit Risk
+Operational Risk
+
+¥ CORRECT ANSWER 4a
+Explanation:
+An investor can diversify his portfolio and eliminate major part of price risk i.e. the diversifiable/unsystematic risk but what is left is the non-diversifiable portion or the market risk-called Systematic risk.
+
+Systematic risk refers to market-wide risks that cannot be mitigated through diversification. This includes factors such as economic recessions, interest rate fluctuations, geopolitical events, and inflation—all of
+which impact the entire market rather than specific sectors or companies.
+
+Can a long position in a Put option can be closed out by taking a short position in a call option with identical exercise date and exercise price ?
+Yes
+No
+
+v CORRECT ANSWER
+Explanation:
+
+Along position in a Put Option can be closed out (squared up) only by selling the same Put Option.
+
+After the initiation of the futures contract, the price of the underlying asset has risen. In this situation,
+Basically. price change in underlying asset has no effect on long or short positions in futures
+Along position becomes unprofitable
+A short position becomes profitable
+Along position becomes profitable
+
+¥ CORRECTANSWER
+Explanation:
+
+When the price of the underlying asset rises in the spot market, its price in the futures market will also rise. So, those who have purchased the futures (long postion) will make a profit.
+
+There are many products in the market which give high returns in risk-free manner - State whether True or False?
+True
+False
+
+v¥ CORRECTANSWER A
+
+Explanation:
+Returns are related to the risk taken and hence there cannot be a product in the market that gives high return in risk free manner.
+
+Investors should be careful of opportunities that promise spectacular profits or "guaranteed" returns. The deal sounds too good to resist. An individual may claim that unrealistic returns can be realized from
+“Low-Risk Investment Opportunities", but one has to keep in mind no investment is risk-free.
+
+9. Fs -
+. What will be the Delta for a Far Out-of-the-money option?
+Near 0
+Near 1
+Near -1
+Near 2
+¥ CORRECT ANSWER
+Explanation:
+Delta for Out of the Money Call and Put option approaches zero as it nears expiry.
+Delta for In the Money Call option approaches 1 and delta for In the Money Put option approaches -1 as it nears expiry.
+240. ‘The term mark-to-market means 5
+process by which a portfolio manager checks the daily profits / losses
+the current / spot index price
+intimation from the broker to a client for additional funds
+the every day revaluation of open positions by the exchanges to reflect profits and losses in the market
+¥ CORRECT ANSWER
+Explanation:
+Mark to Market (MTM) is a process by which margins are adjusted on the basis of daily price changes in the markets for underlying assets.
+The clearing member who suffers a loss is required to pay the MTM loss amount which is in turn passed on to the clearing member who has made a MTM profit.
+aan The margining system for index futures is based on
+Margin at risk
+Price at risk
+Volume at risk
+Value at risk
+% WRONG ANSWER
+CORRECT ANSWER:
+Value at risk
+Explanation:
+As per the recommendations of Dr. L.C.Gupta Committee - Margins should be based on Value at Risk Methodology at 99% confidence.
+Clearing corporation charges an upfront initial margin for all the open positions of a Clearing Member. It specifies the initial margin requirements for each futures/ options contract on a daily basis and also
+follows Value-At-Risk (VAR) based margining.
+12. Mr. Ashu has bought 100 shares of ABC at Rs 980 per share. He expects the price to go up but wants to protect himself if price falls. He does not want to lose more than Rs. 1000 on this
+long position in ABC. What should Mr. Ashu do?
+Place a stop loss order for 100 shares of ABC at Rs 990 per share
+Place a stop loss order for 100 shares of ABC at Rs 970 per share
+Place a limit buy order for 100 shares of ABC at Rs 990 per share
+Place a limit sell order for 100 shares of ABC at Rs 970 per share
+v CORRECT ANSWER 4a
+Explanation:
+Mr. Ashu will lose Rs 1000 if the ABC share will fall by Rs 10 as he has 100 shares and a 10 rupee fall will lead to Rs 1000 loss.
+He has bought at Rs 980. So he will put the stop loss order at Rs 970 (980 - 10).
+O13) A call option gives the buyer the right to buy the underlying at market price - State True or False ?
+True
+False
+
+X WRONG ANSWER
+CORRECT ANSWER:
+
+False
+Explanation:
+Acall option gives the buyer the right to buy the underlying at a set price ie. the strike price and not the market price.
+
+CALL OPTION : An agreement that gives an investor the right (but not the obligation) to buy a stock, bond, commodity, or other instrument at a specified price within a specific time period.
+
+214. a trader buys a January ABC stock futures contract at Rs 768 and the lot size is 1200. What is his profit or loss , if he squares off the position at Rs 778 ?
+
+Rs. 12000
+Rs 1200000
+-Rs 12000
+-Rs 10000
+
+¥ CORRECT ANSWER
+Explanation:
+
+The trader buys at Rs 768 and sells off at Rs 778, so he makes a profit of Rs 10.
+
+Lot size is 1200. So the total profit is Rs 10 X 1200 = Rs 12000
+
+245: A Professional Clearing member of derivatives segment
+
+should also be a member of the cash segment
+
+should also become a member of the cash segment within 2 years
+provides trading facility to its clients
+
+does not have any trading rights
+
+X WRONG ANSWER
+CORRECT ANSWER:
+
+does not have any trading rights
+
+Explanation:
+
+Professional clearing member is not a Trading Member of the exchange and does not have trading rights.
+
+O46: Theta is a measure of the sensitivity of an option price to changes in market volatility. - State True or False?
+
+True
+False
+
+v CORRECTANSWER
+
+Explanation:
+Theta : It is a measure of an option’s sensitivity to time decay. Theta is the change in option price given a one-day decrease in time to expiration.
+
+Vega : This is a measure of the sensitivity of an option price to changes in market volatility.
+
+017 Which one of these complaints against a trading member can an Exchange take up for redressal?
+
+Complaints regarding land dealings between a client and trading member
+
+Complaints in respect of transactions which are already subject matter of Arbitrage proceedings
+Claims regarding notional loss for the disputed trade
+
+Claims regarding unauthorized transaction in the client’s account
+
+¥ CORRECTANSWER
+
+Explanation:
+
+Complaints against trading members on account of the following can be taken by an Exchange for redressal :
+- Non-receipt of funds / securities
+
+- Non- receipt of documents such as member client agreement, contract notes, settlement of accounts, order trade log etc.
+- Non-Receipt of Funds / Securities kept as margin
+
+- Trades executed without adequate margins
+
+- Delay /non - receipt of funds
+
+- Squaring up of positions without consent
+
+- Unauthorized transaction in the account
+
+- Excess Brokerage charged by Trading Member / Sub-broker
+
+- Unauthorized transfer of funds from commodities account to other accounts etc.
+
+In India, the clearing and settlement of derivatives trades would be through
+State Bank of India
+Euroclear
+SEBI approved Clearing Corporation / Clearing House
+The Interbank Clearing House
+
+Y¥ CORRECT ANSWER 4
+
+Explanation:
+Clearing Corporation/ Clearing House is responsible for clearing and settlement of all trades executed on the F&O Segment of the Exchange.
+
+The clearing and settlement of derivatives trades would be through a SEBI approved clearing corporation /nouse. Clearing corporations/houses complying with the eligibility conditions as laid down by the L. C.
+Gupta committee have to apply to SEBI for grant of approval.
+
+ae Delta is the change in option price given a one percentage point change in the risk-free interest rate - State True or False ?
+
+False
+True
+
+X WRONG ANSWER
+CORRECT ANSWER:
+
+False
+
+Explanation:
+Rho is the change in option price given a one percentage point change in the interest rate.
+
+Delta measures the sensitivity of the option value to a given small change in the price of the underlying asset.
+
+Q20.
+
+Q21.
+
+Q22.
+
+Q23.
+
+Q 25.
+
+Can a Clearing Member give ‘Fixed Deposits’ as part of liquid assets to the Clearing Corporation?
+Yes
+No
+
+X WRONG ANSWER
+CORRECT ANSWER:
+
+Yes
+
+Explanation:
+Clearing member is required to provide liquid assets which adequately cover various margins and liquid Net-worth requirements.
+
+Liquid Assets can be in the form of Cash, Cash Equivalents (Government Securities, Fixed Deposits, Treasury Bills, Bank Guarantees, and Investment Grade Debt Securities) and Equity Securities.
+
+Vega measures change in delta with respect to change in price of the underlying asset - State True or False?
+True
+False
+
+% WRONG ANSWER
+CORRECT ANSWER:
+
+False
+
+Explanation:
+Vega is a measure of the sensitivity of an option price to changes in market volatility.
+
+Gamma measures change in delta with respect to change in price of the underlying asset.
+
+A short position in a PUT option can be closed out by taking a long position in a same PUT option - State True or False?
+False
+True
+
+v¥ CORRECT ANSWER
+Explanation:
+
+Ashort position in a PUT option can be closed out by taking a long position in a same PUT option with same exercise date and exercise price.
+
+On final settlement, the buyer/holder of the option will recognise the favourable difference received from the seller/writer as in the profit and loss account.
+Income
+Expense
+Loan
+Amortization
+
+¥ CORRECT ANSWER
+Explanation:
+On exercise of the option, the buyer/ holder will receive favourable difference, between the final settlement price as on the exercise/expiry date and the strike price, which will be recognised as INCOME.
+
+Higher the strike price, the premium on call option will decrease - State True or False?
+True
+False
+
+¥ CORRECT ANSWER A
+Explanation:
+
+The option premium consists of two components - intrinsic value and time value.
+
+The intrinsic value of an option refers to the amount by which the option is in-the-money i.e., the amount an option buyer will realize, before adjusting for premium paid, if he exercises the option instantly.
+Therefore, only in-the-money options have intrinsic value whereas at-the-money and out-of-the-money options have zero intrinsic value.
+
+The higher strike price would have a lower call option premium because the intrinsic value is low or nil.
+
+Trading is allowed in Indian Equity markets in which of the following -
+Index Options
+Individual stock options
+Individual stock futures
+All of the above
+
+v CORRECT ANSWER
+Explanation:
+
+Trading is permitted in all the mentioned derivatives in Indian equity markets:
+
+* Index Options — Options contracts based on stock indices like Nifty 50 and Bank Nifty.
+* Individual Stock Options — Options on specific stocks that meet exchange requirements.
+¢ Individual Stock Futures — Futures contracts on individual stocks that allow directional trading and hedging.
+
+Indian exchanges such as NSE (National Stock Exchange) and BSE (Bombay Stock Exchange) actively facilitate trading in index and stock-based derivatives.
+
+Q27.
+
+Q28.
+
+Q29.
+
+Q30.
+
+Q31.
+
+Can the exercise price be more than or equal to or less than the cash spot price ?
+Yes
+No
+
+v CORRECTANSWER
+Explanation:
+
+Exercise price means the Strike price for which options can be traded.
+
+For eg. - A scrip ABC has options trading at a strike price of Rs 100. The spot price (market price) can easily fluctuate as per market sentiments and can be above, below or equal to Rs. 100.
+
+Can one sell assets in futures market even if he does not own any such assets ?
+Yes
+No
+
+Y CORRECT ANSWER
+Explanation:
+
+One can sell futures / options etc. even if he does not own the underlying asset.
+
+On the derivatives futures market, if there are three series of one, two and three months open at a point of time, how many calendar spread can one have ?
+
+RON
+
+% WRONG ANSWER
+CORRECT ANSWER:
+
+3
+
+Explanation:
+
+The three calendar spreads can be between months 1 and 2, 2 and 3 and 1 and 3.
+
+All the 50 stocks of NSE Nifty index are equally weighed while calculating the index - State True or False ?
+True
+False
+
+¥ CORRECT ANSWER A
+Explanation:
+
+The NIFTY 50 index is a well-diversified 50 companies index reflecting overall market conditions.
+
+NIFTY 50 Index is computed using free float market capitalization method. As per this method, the 50 stocks of Nifty are weighed as per their free float market capitalisation. For eg - Reliance Industry has a
+weightage of appx 7% where as Wipro has a weightage of appx 2% in Nifty.
+
+What does an Call Option gives the buyer ?
+The right but not the obligation
+The obligation but not the right
+Gives both the right and obligation
+Neither the right not the obligation
+
+¥ CORRECT ANSWER
+Explanation:
+
+Acall option gives the buyer the right but not the obligation to buy from the seller an underlying at the prevailing market price on or before the expiry date.
+Speculators are those who take risk whereas hedgers are those who wish to reduce risk - State True or False ?
+True
+
+False
+
+¥ CORRECT ANSWER
+Explanation:
+Hedgers - They face risk associated with the prices of underlying assets and use derivatives to reduce their risk.
+
+Speculators/Traders - They try to predict the future movements in prices of underlying assets and based on the view, take positions in derivative contracts.
+
+Q32.
+
+Q34.
+
+Q35.
+
+Q36.
+
+The money and securities which are deposited in a clients account *
+Can be attached for meeting the obligations of the broker on his proprietary account
+Cannot be attached for meeting the obligations of the broker on his proprietary account
+Can or cannot be attached depends on the decision of Clearing Corporation
+None of the above
+
+X WRONG ANSWER
+CORRECT ANSWER:
+
+Cannot be attached for meeting the obligations of the broker on his proprietary account
+
+Explanation:
+The securities or money deposited by clients cannot be attached for meeting broker’s obligation on his proprietary account.
+The broker has to maintain separate client bank account for segregation of client money.
+
+Also brokers should keep margins collected from clients in a separate bank account.
+
+In case there is a Stock Split of a company which is a part of an Index, than what will its impact on the index value?
+The index value can increase or decrease but this cannot be forecasted with accuracy
+The index value will remain unchanged
+The index value will decrease
+The index value will increase
+
+v CORRECTANSWER
+Explanation:
+
+Astock split lowers its stock price but doesn't weaken its value to current shareholders as the number of shares increase proportionally.
+
+Stock Split has an effect on Options, Strike Price etc. but has no impact on the index as such. Therefore, when a stock which is part of the index has a stock split, it does not have an impact on the index.
+
+"Time Decay’ is beneficial to the
+Option Buyer
+Option Seller
+Option Buyer and Seller equally
+Neither the option buyer or seller
+
+v CORRECT ANSWER A
+
+Explanation:
+If all other factors affecting an option’s price remain the same, the time value portion of an option’s premium will decrease with the passage of time. This is also known as time decay. Options are known as
+‘wasting assets’, due to this property where the time value gradually falls to zero.
+
+Any fall in premium is advantageous to the option seller.
+
+Identify the TRUE statement with respect to a Put option.
+In a Put Option, both the buyer and seller have the obligation to buy and sell the underlying at a specified price
+A put option will give the buyer a right but not an obligation to sell to the writer an underlying at a specified price
+A put option will give the seller a right but not an obligation to buy from the buyer an underlying at a specified price
+A put option will give the buyer an obligation but not the right to sell to the writer an underlying at a specified price
+
+v CORRECT ANSWER
+
+Explanation:
+
+Options may be categorized into two main types: « Call Options - Put Options
+
+An option, which gives the buyer/holder a right to buy the underlying asset, is called a call option; and an option which gives the buyer/holder a right to sell the underlying asset, is called a 'put option’.
+
+The buyer of an option is one who has a right but not the obligation in the contract. For owning this right, he pays a price called ‘option premium’ to the seller of this right. He has a right to buy the underlying
+asset in case of a call option and the right to sell the underlying asset in case of a put option.
+
+Mr. Menon has bought a futures contract and the price rises. In this case, Mr. Menon will
+Make a profit
+Make a loss
+Make a profit or make a loss depending on the situation
+Insufficient information to arrive at a conclusion
+
+v CORRECT ANSWER
+Explanation:
+
+Mr. Menon has bought the future contract which means he believes that the prices will rise so that he can gain from it. So he will make a profit if the price rises.
+
+How is the forward contract, which is for hedging purpose, accounted for in books of accounts?
+The premium or discount will be shown in the Profit and Loss Account
+The premium or discount will be ignored for accounting
+The premium or discount will be amortized over the life of contract
+No premium or discount will be recognised in the books of accounts
+
+X WRONG ANSWER
+CORRECT ANSWER:
+
+The premium or discount will be amortized over the life of contract
+
+Explanation: 4
+Accounting for Forward Contract as per Accounting Standard - 11
+
+When forward contract is for hedging
+
+- Exchange difference (difference between the value of settlement date/ reporting date and value at previous reporting date/ inception of the contract) is recognized in Profit & Loss statement of the year.
+
+= Profit/ loss on cancellation/ renewal of forward contract are recognized in P&L of the year.
+
+238 A Derivative market helps in transferring the risk from x
+
+Speculators to Hedgers
+Arbitrageurs to Hedgers
+Speculators to Arbitrageurs
+Hedgers to Speculators
+
+% WRONG ANSWER
+CORRECT ANSWER:
+
+Hedgers to Speculators
+
+Explanation:
+Hedgers aim to hedge their risk and speculators/traders take the risk which hedgers plan to offload from their exposure.
+
+Speculators form one of the most important participants of the derivatives market, providing depth to the market. Hedgers may not be able to hedge, if speculators were not present in the system.
+
+239. Which of these options is an example of a Calendar Spread?
+
+Going short on the underpriced futures contract of one month and at the same time buying the overpriced futures contract of another month
+Buying stock futures contract while at the same time shorting the stock
+
+Buying the underpriced futures contract of one month and simultaneously selling the overpriced futures contract of another month
+
+Going short on the stock futures contract while simultaneously buying the stock
+
+XX WRONG ANSWER
+CORRECT ANSWER:
+
+Buying the underpriced futures contract of one month and simultaneously selling the overpriced futures contract of another month
+
+Explanation: A
+Calendar spread refers to the arbitrage between futures contracts of different expiration months.
+
+In this strategy, the arbitrageur buys and sells the futures contracts of two different months. To execute this strategy, the arbitrageur must identify which contract to buy or sell. The principal rule of arbitrage is
+that one must buy the underpriced contract and sell the overpriced one.
+
+Hence, the arbitrageur needs to compute the fair price of both futures contracts and compare these with the traded prices, to decide which contract is overpriced and which one is underpriced.
+
+240. Ms. Kavita wants to ‘Sell’ on a futures market. For this, she .
+
+need not own the underlying
+
+must own the underlying
+
+must own at least 25% of the underlying
+must own at least 50% of the underlying
+
+v CORRECTANSWER
+Explanation:
+
+Selling on a futures market does not need any delivery. Only margin is required to be paid to Buy/Sell on a futures market.
+
+Therefore, Ms. Kavita can sell on the futures market even without owning the underlying. However, she needs to square up her position before the expiry.
+
+24% The Derivatives market helps in x
+
+Transfer of risk from those who are exposed to risk but have low risk appetite to participants with high risk appetite
+The reallocation of risk among the market participants
+
+Both of the above
+
+None of the above
+
+v CORRECT ANSWER A
+Explanation:
+
+Derivatives play a positive role by reallocating risks. They help in transfer of various risks from those who are exposed to risk but have low risk appetite (Hedgers) to participants with high risk appetite
+(Speculators). For example, hedgers do not want any risk where as traders/speculators are willing to take risk.
+
+Derivatives were first invented as a Hedgeing tool so that people who wanted to play safe can use them to transfer the risk by hedgeing.
+
+Q43.
+
+Q45.
+
+Identify the FALSE statement with respect to Options.
+Option contracts are NOT symmetrical regarding the rights and obligations of the parties involved
+Buyer of an option gets the right while seller of an option bears the obligation
+Options contracts have non-linear payoffs
+Options contracts have linear payoffs
+
+> WRONG ANSWER
+CORRECT ANSWER:
+
+Options contracts have linear payoffs
+Explanation: A
+Options have non-linear payoffs: The profit/loss profile of options Is not a straight line; it depends on factors like strike price, premium, volatility, and time decay.
+
+In case of futures contracts, long as well as short position has unlimited profit or loss potential. This results into linear payoffs for futures contracts. However, option contracts do not have linear payoffs as the
+buyers and sellers have different obligations and risk factors.
+
+The buyer of an option has limited risk (premium which he pays) but can earn unlimited profits whereas the seller of the option has unlimited risk but can earn only limited profits (premium which he receives).
+Option contracts are not symmetrical as the buyers and sellers have different obligations and risk factors. The buyer has limited risk where as seller of an option has unlimited risk.
+
+"SCORES' is the name given to -
+SEBI's web-based compliant redressal system
+Securities Collateral Records System
+Exchange's risk management and margin system
+Suspicious transaction reporting system
+
+¥ CORRECTANSWER
+Explanation:
+
+SEBI’s web-based complaints redressal system is called SCORES (Sebi COmplaints REdress System).
+
+SCORES is a centralized grievance management system with tracking mechanism to know the latest updates and time taken for complaint resolution.
+
+A trading member reaches his prescribed position limits, therefore he will
+be allowed to take only 5% additional exposure
+not be able to reverse his position
+be able to take fresh new positions for his clients but not in his proprietary account
+not be able to open new positions
+
+v CORRECT ANSWER 4a
+Explanation:
+
+A trading member, on reaching the prescribed limits, cannot open new positions. But he can reverse existing positions.
+
+Position limits are an important part of the risk management framework of a derivatives exchange. A position limit on a derivatives exchange is a restriction on the ownership that limits the number of derivatives
+contracts that a trading member or client, acting individually or together with others, can own.
+
+When client-level position limits are exceeded, the clearing member/ trading member must ensure that the client does not take any fresh positions and the existing positions must be reduced within permissible
+limits.
+
+A calendar spread in index futures will be treated as in a far month contract if the near months contract is expired.
+Long position
+Short position
+Optional position
+Naked position
+
+% WRONG ANSWER
+CORRECT ANSWER:
+
+Naked position
+Explanation:
+Anaked position is long or short in any of the futures contracts but a spread position consists of two opposite positions.
+
+Acalendar spread becomes a naked/open position, when the near month contract expires or either of the legs of spread is closed.
+
+Q46.
+
+Qa47.
+
+Q48.
+
+Q49.
+
+Q50.
+
+The clearing member is free to close out transactions of a trading member if
+The trading member has not paid initial margin money
+The trading member has not paid daily settlement dues
+In both the above cases
+
+v CORRECT ANSWER 4
+Explanation:
+
+The following are some of the compliance lapses which attract penal charges:
+- Non fulfilment of initial margin obligations - Non-fulfilment of settlement obligation - Non-fulfilment of securities deliverable obligation - Non-fulfilment of minimum deposit requirements etc.
+
+In the event of a violation, Clearing Corporation may advice the Exchanges to withdraw any or all of the membership rights of the clearing member including the withdrawal of trading facilities of all trading
+members and/or clearing facility of custodial participants clearing through such clearing members, without any notice.
+
+In addition, the outstanding positions of such clearing member andlor trading members clearing and settling through such clearing member, may be closed out and such action shall be final and binding on the
+clearing member and/or trading member.
+
+Identify the contract which is cleared and settled bilaterally?
+Aone month Nifty futures contract
+Aone-month USDINR options contract
+A3-month forward contract to buy Swiss Francs against the Indian rupee
+Aone-month GO! bond futures contract
+
+v CORRECT ANSWER A
+Explanation:
+
+Bilateral contract is a contract between two parties. Generally, all Forward contracts are bilateral contracts and are not done on any Exchange.
+
+In the above options, only 'A 3-month forward contract to buy Swiss Francs against the Indian rupee’ is a forward contract and the other three are futures / options contract. A futures contract is an agreement
+made through an organized exchange to buy or sell a fixed amount of a commodity or a financial asset on a future date at an agreed price.
+
+When the volatility of the underlying stock decreases, the premium of its Call option will
+Increase
+Decrease
+Not change
+
+> WRONG ANSWER
+CORRECT ANSWER:
+
+Decrease
+Explanation:
+
+Higher volatility = Higher premium, Lower volatility = Lower premium (for both call and put options).
+
+Therefore, with a decrease in volatilty, the premium on the call option decreases.
+
+An ‘European’ call option will give the buyer the right but not the obligation to buy from the seller an underlying at the strike price
+Only on the expiry date
+On or before the expiry date
+One day preceding the expiry date
+One day after the expiry date
+
+¥ CORRECT ANSWER
+Explanation:
+
+European option: The owner (buyer/holder) of a European option can exercise his right only on the expiry date/day of the contract. In India, all index and stock options are European style options.
+
+American option: The owner (buyer/holder) of an American option can exercise his right at any time on or before the expiry date/day of the contract.
+
+In futures trading, the margin is paid by
+The Buyer only
+The Seller only
+Both Buyer and Seller
+The Clearing Corporation
+
+v CORRECT ANSWER
+Explanation:
+
+The amount one needs to deposit in the margin account at the time of entering into a futures contract is known as the initial margin.
+In case of futures, both the buyer and seller are required to pay initial margin as decided by exchanges for entering into futures contract.
+
+In case of Options, the initial margin is paid only by the sellers. The option buyers have to pay the premium to the option sellers.
+

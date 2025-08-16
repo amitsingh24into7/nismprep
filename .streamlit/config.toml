@@ -1,0 +1,11 @@
+[theme]
+base = "dark"
+primaryColor = "#FF4B4B"        # Streamlit red
+backgroundColor = "#0E1117"     # Near black
+secondaryBackgroundColor = "#262B32"  # Dark gray
+textColor = "#FFFFFF"           # White text
+font = "sans serif"
+
+[client]
+# Prevent users from changing theme (optional)
+# theme.block_theme_changes = true

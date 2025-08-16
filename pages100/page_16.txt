@@ -1,0 +1,85 @@
+ase. In case of ordinary cash dividends, on the ex-dividend date, Put Option values will decrease - State True or False ?
+
+True
+False
+
+% WRONG ANSWER
+CORRECT ANSWER:
+
+False
+
+Explanation:
+
+Cash dividends issued by stocks have big impact on their option prices. This is because the underlying stock price is expected to drop by the dividend amount on the ex-dividend date.
+Put options gets more expensive due to the fact that stock price always drop by the dividend amount after ex-dividend date.
+
+In case of call options, they can get discounted by as much as the dividend amount.
+
+289. A Writer of an option :
+
+has obligation in the contract
+receives the premium
+
+has choice in the contract
+Both 1 and 2
+
+¥ CORRECTANSWER
+Explanation:
+
+The writer of an option is one who receives the option premium and is thereby obliged to sell/buy the asset if the buyer of option exercises his right.
+
+2 The daily settlement prices of equity derivatives are decided by P
+
+Clearing Corporation
+SEBI
+
+Brokers Association
+RBI
+
+¥ CORRECTANSWER
+Explanation:
+
+One of the responsi ies of the Clearing Corporation is to decide the Daily Settlement Prices.
+
+The maximum possible loss for the option buyer is the premium paid , but the profits can be higher depending on the underlying price movement. This is true for which type of options
+true for all types of options
+true for American options only
+true for European options only
+false for all types options
+
+¥ CORRECT ANSWER 4a
+Explanation:
+
+The difference between American and European options is relating to the time of exercising the contract. Profit potential in both of them is same.
+
+09% Ifa Clearing members defaults, the margin paid on his own account only is allowed to be used by the clearing corporation for realizing its dues from the member. The clients margin
+remain unaffected - State True or False ?
+
+True
+False
+
+%X WRONG ANSWER
+CORRECT ANSWER:
+
+True
+
+Explanation: A
+As per SEBI’s Standard Operating Procedures and clearing corporation norms:
+
+- If a Clearing Member (CM) defaults, the clearing corporation can only use the margin deposited by the CM on its own account to recover dues.
+
+- The clients’ margins and collateral are segregated and protected, and cannot be used to settle the CM’s proprietary obligations.
+
+This ensures that non-defaulting clients are safeguarded from the financial risks of their clearing member’s failure.
+
+293. future contract is a very standardized contract that leaves very little (except the price) open to negotiation - State True or False ?
+
+False
+True
+
+v¥ CORRECT ANSWER
+Explanation:
+
+Terms of the future contracts are standardized wrt. quantity, time period etc. Only price is decided by the demand supply and other market situations.
+
+A forward contract on the other hand is not standardized.

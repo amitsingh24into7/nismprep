@@ -1,0 +1,76 @@
+243: Can clients position be netted off against each other while calculating initial
+Margin on the derivatives segment.
+
+No
+Yes
+
+Vv CORRECT ANSWER
+Explanation:
+
+Each clients open position is taken separately for calculating the initial margin. Positions of two or more clients cannot be netted off against each other for calculation of initial margin.
+
+For eg - If Mr A has bought 10 contracts of Nifty and Mr B has sold 4 contracts of Nifty, then the broker has to pay the | margin on 14 contracts and not 6 contracts.
+
+2 ipa person buys a share in one market and the simultaneously sells in a different market to benefit from differentials is known as.
+
+Long trading
+Arbitrage
+Speculation
+Jobbing
+
+¥ CORRECTANSWER
+Explanation:
+
+Arbitrage means the simultaneous purchase and sale of an asset in order to profit from a difference in the price.
+It is a trade that profits by exploiting price differences of identical or similar financial instruments, on different markets.
+For example- If SBI is quoted on NSE at Rs 200 and on BSE there is a buyer at Rs 203, then the arbitrageur will buy on NSE and sell on BSE and Rs 3 (less brokerage etc.) will be is profit.
+
+Arbitrage exists as a result of market inefficiencies; it provides a mechanism to ensure prices do not deviate substantially from fair value for long periods of time.
+
+24°. Three Call series of same strike price of State Bank of India stock-June, July and August are quoted. Which will have the lowest option premium ?
+Same premium for all
+
+June
+July
+August
+
+¥ CORRECTANSWER
+Explanation:
+
+The series closest to current date will have the lowest premium due to low time value of money ( so lower interest costs ).
+
+246 if a trader does a calendar spread in index futures and the near leg of the calendar spread expires, the Further leg becomes a regular open position. True or False ?
+True
+
+False
+
+¥ CORRECTANSWER a
+Explanation:
+
+Calendar spread means an options or futures spread established by simultaneously entering a long and short position on the same underlying asset but with different delivery months.
+
+In the above question, lets assume a trader has gone long in index options in current month and short in index options in third month. Incase he does not close his position by the end of current month, his
+current month option will expire and the third month option contract will become an open position as there is no opposite option contract in his account.
+
+247. Are Broker-Members allowed on the Clearing Council of the Clearing Corporation of the derivatives segment ?
+
+Yes
+No
+
+v¥ CORRECT ANSWER
+Explanation:
+
+No, broker members are not allowed on the Clearing Council of the Clearing Corporation of the derivatives segment.
+
+ai Margins in futures trading are applicable to -
+
+Only Institutional players.
+Both the buyer and the seller
+Only the buyer
+
+Only the Seller
+
+¥ CORRECTANSWER
+Explanation:
+
+In a futures market margins are payable by both the parties.

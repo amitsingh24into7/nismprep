@@ -1,0 +1,90 @@
+247 Rho is linked to the
+
+Volatility of the stock / asset
+Interest rates in the market
+Time to option expiry
+Underlying asset price
+
+v¥ CORRECT ANSWER
+Explanation:
+
+Rho is the change in option price given a one percentage point change in the risk-free interest rate.
+Rho measures the change in an option’s price per unit increase in the cost of funding the underlying.
+
+Rho = Change in an option premium / Change in cost of funding the underlying.
+
+248. an investor, who is anticipating a broad stock market fall, but is not willing to sell his
+
+entire portfolio of stocks, can offset his potential losses by shorting a certain number of
+Index futures.
+True
+False
+¥ CORRECT ANSWER 4
+Explanation:
+
+Index derivatives are useful as a tool to hedge against the market risk. An investor with a diversified equity portfolio, who wants to protect his portfolio from any temporary correction in the stock market can sell
+index futures for this purpose.
+
+O49. If the share price of ABC share increases by Rs 5 and the delta of its option is 0.5, then by how much will the option price rise ?
+
+Rs. 5
+Rs. 10
+Rs. 2.50
+Rs. 1
+
+XX WRONG ANSWER
+CORRECT ANSWER:
+
+Rs. 2.50
+
+Explanation:
+Delta measures the sensitivity of the option value to a given small change in the price of the underlying asset.
+In this case the price has moved by Rs 5 and the delta is 0.5,
+
+So Option Price will move by Rs 5 x 0.5 = Rs 2.50
+
+O50. The buyer of an option is one who has a but not the to buy/sell the underlying asset in the contract.
+
+Right , Obligation
+Obligation , Right
+Duty , Claim
+Claim , Duty
+
+> WRONG ANSWER
+CORRECT ANSWER:
+
+Right , Obligation
+
+Explanation:
+Buyer of an option: The buyer of an option is one who has a right but not the obligation in the contract.
+
+For owning this right, he pays a price called ‘option premium’ to the seller of this right. He will have a right to buy the underlying asset in case of a call option and will have a right to sell the underlying asset in
+case of a put option.
+
+qsn According to the corporate hierarchy for users defined in the trading system for stock exchanges, the exposure limits for the branches of the broking firm can be defined only by the
+
+Dealer
+Branch Manager
+Corporate Manager
+Firm Manager
+¥ CORRECT ANSWER 4
+Explanation:
+
+In the Futures and options trading software, trading member will have a provision of defining the hierarchy amongst users of the system. This hierarchy comprises: Corporate Manager, Branch Manager and
+Dealer
+
+Corporate Manager : As a user, it is the highest level in a trading firm. Corporate Manager can perform all the functions such as order and trade related activities, receiving reports for all branches of the trading
+member firm and also all dealers of the firm. Along with this he can also define exposure limits for the branches of the firm. This facility is available only to the corporate manager.
+
+252 Ate price level of Rs. 6300, what will be the value of one lot of ABC futures contract (Contract multiplier 50)?
+Rs. 5,00,000
+Rs. 3,15,000
+Rs. 6,30,000
+Rs. 4,25,000
+
+/¥ CORRECT ANSWER
+Explanation:
+
+The value of the futures contract is the Price X Lot size
+
+= Rs 6300 X 50 = Rs 315000

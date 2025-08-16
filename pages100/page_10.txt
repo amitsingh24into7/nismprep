@@ -1,0 +1,58 @@
+In an Index Futures contract, the tick size is 0.2 of an index point & the index multiple is Rs 50, then ‘a tick’ is valued at.
+Rs 50
+Rs 100
+Rs 10
+Rs 2.50
+
+XX WRONG ANSWER
+CORRECT ANSWER:
+
+Rs 10
+Explanation:
+Rs 50X0.2=Rs 10.
+
+Each tick movement will result in profit or loss of Rs 10 for the Index buyer or seller resp.
+
+O06: The securities which are placed by clearing members with the clearing corporation as a part of liquid assets are
+marked to market on a periodical basis
+is not marked to market as they are blue chip shares
+may or may not be marked to market depending on the decision of the Stock Exchange
+None of the above
+¥ CORRECT ANSWER
+Explanation:
+As per Prof. J. R. Verma Committee recommendations the securities placed with the Clearing Corporation shall be marked to market on a periodical basis (weekly).
+57.
+" Contract month means
+Month in which the transaction is done
+Month of expiry of the futures contract
+Month of beginning of the futures contract
+None of the above
+¥ CORRECT ANSWER
+Explanation:
+Contract month is the maturity month of the contract.
+For eg - A trader may buy a March month contract in January.
+So March will be the contract month.
+Q 58.
+
+Initial margin is calculated based on____
+Average price movement in the last 5 working days
+Value-At-Risk (VAR) based margining.
+fixed at 25% for most of the scrips and 35% for volatile scrips
+As per the The Black & Scholes Model
+
+¥ CORRECT ANSWER
+Explanation:
+
+Initial margin requirements are based on 99% value at risk over a one day time horizon.
+
+Daily ‘Trading Price Limits’ define the maximum percentage by which the price of a future contract can rise above or fall below the previous days settlement price - State whether True or
+False ?
+
+True
+False
+
+v CORRECT ANSWER 4a
+Explanation:
+
+A price limit is the maximum range that a futures contract is allowed to move up or down within a single day. Price limits are re-calculated every day. When price limits are reached in one day, the variable price
+limits might be implemented to expand the initial limits to the variable amount for the next trading day.

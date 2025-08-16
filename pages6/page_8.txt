@@ -1,0 +1,86 @@
+Q40.
+
+Q41.
+
+Q42.
+
+Who can clear trades in index options?
+All AMF! and IRDA members
+Members of a stock exchange
+Members and sub brokers of the stock exchange
+Clearing members registered in the derivatives segment.
+
+¥ CORRECT ANSWER a
+Explanation:
+
+Clearing and settlement activities in the F&O segment are undertaken by Clearing Corporation with the help of Clearing Members and Clearing Banks.
+
+Exercise settlement in respect of admitted deals in index option contracts are cash settled by debit/credit of the clearing accounts of the relevant clearing members with the respective clearing bank. Index option
+contracts, which have been exercised, shall be assigned and allocated to clearing members at the client level with the same series.
+
+Cost of carry model means price of futures is equal to
+Spot price + Cost of Carry
+Spot Price
+Cost of Carry
+Spot price — Cost of Carry
+
+¥ CORRECT ANSWER 4
+Explanation:
+
+Cost of Carry is the relationship between futures prices and spot prices. For stock derivatives, carrying cost is the interest paid to finance the purchase.
+
+For example, assume the share of XYZ Ltd is trading at Rs. 200 in the cash market. A person wishes to buy the share, but does not have money. In that case he would have to borrow Rs. 200 at the rate of, say,
+12% per annum. So 1% ie. Rs 2 ( 1% of Rs 200) is the per month interest cost. and this Rs 2 is the cost of carry.
+
+The future price (ideally) at the beginning of month will be Spot Price + Cost of Carry ie. Rs 200 + Rs 2= Rs 202.
+
+As per SEBI rules , a stock broker can be suspended from the derivatives segment if i
+he violates the conditions of registration
+he is suspended by the stock exchange
+he fails to pay fees
+Any of above
+
+¥ CORRECT ANSWER
+
+Explanation:
+
+A penalty or suspension of registration of a stock - broker under the SEBI (Stock Broker & Sub - Broker) Regulations, 1992 can be ordered if:
+* The stock broker violates the provisions of the Act
+
++ The stock broker does not follow the code of conduct
+
+« The stock broker fails to resolve the complaints of the investors
+
+* The stock broker indulges in manipulating, or price rigging or cornering of the market
+* The stock broker’s financial position deteriorates substantially
+
+* The stock broker fails to pay fees
+
+* The stock broker violates the conditions of registration
+
+* The stock broker is suspended by the stock exchange
+
+In case of Bonus shares, the new option strike price is arrived at by the old strike price by the adjustment factor.
+adding
+dividing
+subtracting
+multiplying
+
+X WRONG ANSWER
+CORRECT ANSWER:
+dividing
+
+Explanation:
+
+In case of Bonus, Stock Splits and Consolidations. the new strike price for option contracts is arrived at by dividing the old strike price by the adjustment factor.
+
+Mr Gautam has sold a put option with strike of Rs.650 at a premium of Rs.60. What is the maximum gain per share that he may have on expiry of this positon?
+650
+590
+60
+0
+
+¥ CORRECTANSWER
+Explanation:
+
+The maximum a seller of an option (either CALL or PUT) can gain is the premium he receives. In this case Mr. Gautam is receiving Rs 60 per share as premium and that can be his maximum profit.

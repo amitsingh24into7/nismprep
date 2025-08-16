@@ -1,0 +1,91 @@
+Q 80.
+
+Q8i.
+
+Mr Prashant has bought one lot of ABC futures for Rs 75 (lot size 2000) expecting that this share will go up. But he also wants to protect himself against any loss of more than Rs 3000.
+What should he do ?
+
+Place a stop loss sell order at Rs 74
+
+Place a stop loss sell order at Rs 73.50
+
+Place a buy order for 2000 shares of ABC at Rs.76.50 per
+
+None of the above
+
+% WRONG ANSWER
+CORRECT ANSWER:
+
+Place a stop loss sell order at Rs 73.50
+
+Explanation:
+
+Mr. Prashant has bought one lot ie. 2000 shares and does not want to have a loss of more than Rs 3000. So 3000 / 2000 = Rs 1.50. So per share he should not lose more than Rs 1.50.
+His buying price is Rs 75. So 75 - 1.50 = 73.50 will be his stop loss price price.
+
+When the share falls to Rs 73.50 , he will stand to lose Rs 3000.
+
+The settlement in futures contract happen only in A
+Cash
+Physical Delivery
+Cash or Delivery
+None of the above
+
+X WRONG ANSWER
+CORRECT ANSWER:
+
+Cash or Delivery
+
+Explanation:
+
+SEBI has now permitted physical deliveries also.
+
+You have a short position in LPQ Stock futures at Rs 350 (one lot size is 500 shares) and you have made a profit of Rs 28000. To do this you will have to :
+Sell one lot ar Rs 406
+Sell one lot at Rs 294
+Buy one lot at 406
+Buy one lot at Rs 294
+
+XX WRONG ANSWER
+CORRECT ANSWER:
+
+Buy one lot at Rs 294
+
+Explanation:
+
+Profit = Rs 28000 , Lot size = 500 , So per share profit = 28000/500 = Rs 56
+
+Since he has a short position, he will be in a profit if the share falls and he buys at a lower price.
+
+So the price has to fall by Rs 56 from Rs 350 = Rs 294
+
+282. OTC derivative market is less regulated market because these transactions occur in private among qualified counterparties, who are supposed to be capable enough to take care of
+themselves. True or False
+False
+True
+¥ CORRECT ANSWER A
+Explanation:
+In an OTC market, no exchange is involved.
+83. Z
+2 Theta is m
+is the change in option price given a one percentage point change in the risk-free interest rate
+a measure of the sensitivity of an option price to changes in market volatility
+the change in option price given a one-day decrease in time to expiration.
+speed with which an option moves with respect to price of the underlying asset.
+v¥ CORRECTANSWER
+Explanation:
+Theta is the change in option price given a one-day decrease in time to expiration. It is a measure of time decay.
+Q 84.
+
+The Over the counter options are
+calculated based on the delta.
+standardised options
+customised options
+always in the money options
+
+¥ CORRECT ANSWER
+Explanation:
+
+Over the Counter options are made as per the needs of the trading parties - so they are customised.
+
+Future options are standardised as per the rules of stock exchange.

@@ -1,0 +1,48 @@
+Q 49.
+
+Q 50.
+
+What is the minimum price movement in a scrip called ?
+Badla Rate
+Tick
+Touchline
+Market Lot
+
+¥ CORRECT ANSWER A
+Explanation:
+
+Tick size is the minimum price movement of a trading instrument.
+
+Exchanges decide the tick sizes on traded contracts as part of contract specification. The exchange informs the lot size and the tick size for each of the contracts traded on F&O segment from time to time. For
+eg. Tick size for Nifty futures is 5 paisa.
+
+Delta refers to the Rate of change in the
+Option premium per day
+Option premium for a unit change in spot price of the underlying
+Option premium for a unit change in interest rate
+Option premium for a unit change in volatility of the underlying
+
+¥ CORRECT ANSWER A
+Explanation:
+
+Option premiums change with changes in the factors that determine option pricing i.e., factors such as strike price, volatility, term to maturity, etc. The sensitivities most commonly tracked in the market are
+known collectively as “Greeks” represented by Delta, Gamma, Theta, Vega and Rho
+
+The most important of the ‘Greeks’ is the option’s “Delta”. This measures the sensitivity of the option value to a given small change in the price of the underlying asset. It may also be seen as the speed with
+which an option moves with respect to price of the underlying asset.
+
+Delta = Change in option premium/ Unit change in price of the underlying asset
+
+What is the rate of STT on the sale of an index or stock futures contract?
+0.01%
+0.0125%
+0.02%
+0.1%
+
+X WRONG ANSWER
+CORRECT ANSWER:
+
+0.02%
+Explanation:
+
+The Securities Transaction Tax (STT) on sale of stock futures / index is 0.02% on the price at which such futures is traded.

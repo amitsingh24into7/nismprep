@@ -1,0 +1,91 @@
+Qis.
+
+Q19.
+
+Q21.
+
+Q 22.
+
+Mr. Ravi purchases 10 call option on stock at Rs. 20 per call with strike price of Rs 350. If on exercise date, stock price is Rs. 310, ignoring transaction cost, Mr. Ravi will
+choose.
+
+to exercise the option
+
+not to exercise the option
+
+may or may not exercise the option depending on whether he likes the company or not
+
+may or may not depending on whether he is in town or not
+
+¥ CORRECTANSWER
+Explanation:
+
+Mr. Ravi has bought a Call Option assuming that the price will rise.
+The price has fallen and he is in a loss. So he will choose not to exercise his option.
+
+His loss is restricted to the premium he has paid.
+
+Trading members are required to possess a higher level of Capital Adequacy (as per balance sheet) than clearing members- True or False ?
+True
+False
+
+Y CORRECT ANSWER
+Explanation:
+
+Clearing Members are permitted to settle their own trades as well as the trades of the other non-clearing members known as Trading Members who have agreed to settle the trades through them.
+
+Thus the Capital Adequacy requirement is higher for Clearing Members.
+
+A trader sold a call option on a share of strike price Rs. 200 and received a premium of Rs. 12 from the option buyer. What can be his maximum loss on this position ?
+Rs 200
+Rs 188
+Rs 12
+Unlimited
+
+% WRONG ANSWER
+CORRECT ANSWER:
+
+Unlimited
+
+Explanation:
+
+In this scenario, the trader sold a call option (i.e., wrote a call), meaning he has the obligation to sell the stock at the strike price (Rs. 200) if the option is exercised.
+If the market price of the stock stays at or below 200, the option won't be exercised, and the trader keeps the premium (Rs.12) as profit.
+
+* If the stock price rises above Rs. 200, the option will be exercised, and the trader must sell the share at Rs. 200.
+« If the stock rises significantly (e.g., Rs. 250, 300...), the trader still has to sell at Rs. 200, incurring a loss that increases as the stock price increases.
+
+There is no upper limit to how high the stock price can go. Since the trader must sell at Rs. 200, his loss is theoretically unlimited, reduced by the premium received (Rs. 12).
+
+Securities Transaction Tax (STT) is levied on
+Purchase of Equity Shares
+Sale of Derivatives
+Purchase of Derivatives
+Only 1 and 2
+
+% WRONG ANSWER
+CORRECT ANSWER:
+
+Only 1 and 2
+
+Explanation:
+
+STTis levied on transactions involving equity, derivatives and equity oriented mutual funds.
+It is levied on purchase and sale of equity shares.
+
+STT is applicable only on all SELL transactions for futures and option contracts and not on purchase transactions of futures and options (derivatives).
+
+The contract size in futures market is defined by
+The Stock Brokers
+The Stock Exchange
+The Parties to the contract
+SEBI
+
+X WRONG ANSWER
+CORRECT ANSWER:
+
+The Stock Exchange
+
+Explanation:
+
+The Contract size (Lot size) is specified by the exchange. (minimum value of Rs 5,00,000).

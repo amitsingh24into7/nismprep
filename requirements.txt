@@ -1,0 +1,9 @@
+python-poppler
+"docquery[torch]"
+pdf2image
+pytesseract
+pip uninstall pydantic
+pip install "pydantic==1.10.13"
+dotenv
+langchain_groq
+streamlit

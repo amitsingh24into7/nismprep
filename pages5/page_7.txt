@@ -1,0 +1,79 @@
+Q 32.
+
+Q34.
+
+Q 36.
+
+A future contract .
+can be traded on a one to one basis by counterparties
+will never have a specified maturity
+can be squared off any time before expiry
+cannot be squared off before expiry
+
+v¥ CORRECTANSWER
+Explanation:
+
+Futures contract can be squared off any time before expiry.
+
+A Trading-cum-clearing member has a client X who has purchased and sold 1000 and 2000 contracts respectively in the June series of ABC futures (contract multiplier 50). The Trading-
+cum-clearing member has purchased and sold 2200 and 1500 contracts respectively on his own account in the same June series of ABC futures (contract multiplier 50). What is the
+outstanding liability (open position) of the member towards clearing corporation in the number of contracts?
+
+1700
+
+300
+
+6700
+
+2200
+
+v CORRECTANSWER 4
+Explanation:
+
+The open position of a client and the clearing member cannot be netted off with each other.
+Open position of client X is 1000 - 2000 = 1000 sale contracts
+Open position of Clearing member is 2200 - 1500 = 700 purchase contracts
+
+Total outstanding position of the clearing member towards the Clearing Corporation is 1000 + 700 = 1700 contracts
+
+Which of these is an example of derivative contract?
+Treasury Bills of Government of India
+Equity shares of XYZ Ltd
+S&P 500 futures
+Certificate of Deposit
+
+¥ CORRECT ANSWER
+Explanation:
+
+Index Derivatives are derivative contracts which have the index as the underlying asset.
+The Standard and Poor's 500, or simply the S&P 500, is a stock market index tracking the stock performance of 500 of the largest companies listed on stock exchanges in the United States.
+
+S&P futures are a derivative contract with S&P 500 index as the underlying.
+
+Who becomes a legal counter party to every trade in futures transactions on a recognised stock exchange?
+SEBI
+Clearing Corporation
+Custodian
+Depository
+
+¥ CORRECTANSWER
+Explanation:
+
+Clearing Corporation is responsible for clearing and settlement of all trades executed on the F&O Segment of the Exchange.
+
+It acts as a legal counterparty to all trades on this segment and also guarantees their financial settlement.
+
+What will the option holder receive when he exercises a put option on an index?
+He will receive cash amount equal to excess of spot price over exercise price
+He will receive cash amount equal to excess of exercise price over spot price
+He will receive cash amount equal to spot price
+He will receive nothing
+
+¥ CORRECT ANSWER A
+Explanation:
+
+An option will only be exercised when its In the Money (Profitable)
+Aput option is In the Money when the Exercise price is higher than the spot price. So the excess of exercise price over the spot price will be receivable by the option holder.
+
+(IN THE MONEY - A call option with a strike (exercise) price that is lower than the market (spot) price of the underlying asset, or a put option with a strike price that is higher than the market price of the underlying
+asset. In the money means that your stock option is worth money and you can turn around and sell or exercise it.)

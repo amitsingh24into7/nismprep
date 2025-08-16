@@ -1,0 +1,90 @@
+Q53.
+
+Q54
+
+Q56.
+
+Q5s.
+
+Rho is ‘
+is the change in option price given a one percentage point change in the risk-free interest rate
+the change in option price given a one-day decrease in time to expiration
+speed with which an option moves with respect to price of the underlying asset
+a measure of the sensitivity of an option price to changes in market volatility
+
+¥ CORRECT ANSWER
+Explanation:
+
+Please memorise : Rho = change in INTEREST rate.
+
+ETFs is basket of securities that trade like individual stock on an exchange- True or False ?
+True
+False
+
+¥ CORRECT ANSWER A
+Explanation:
+
+Exchange Traded Funds (ETFs) is basket of securities that trade like individual stock on an exchange. They have number of advantages over other mutual funds as they can be bought and sold on the exchange.
+
+Since, ETFs are traded on exchanges intraday transaction is also possible.
+
+Along position in a January future contract can be reversed by a short position in that stock futures of February month - True / False ?
+False
+True
+
+¥ CORRECT ANSWER
+Explanation:
+
+A position in futures can be reversed by squaring up in the same month and not in a different month. So in the above case the position can be reversed by selling the stock future in January month.
+
+The mark to market debits for stock futures are done ona —
+Daily basis
+Weekly basis
+Monthly basis
+Hourly basis when markets are very volatile
+
+¥ CORRECTANSWER
+Explanation:
+
+In the futures market, profits and losses are settled on day-to-day basis — called mark to market (MTM) settlement.
+The exchange collects these margins (MTM margins) from the loss making participants and pays to the gainers on day-to-day basis.
+
+Therefore all futures positions - for both Index and Stocks are marked to market on a daily basis.
+
+You have sold one lot of JSW Steel futures for Rs 800 (lot size 2000) expecting that this share price will go down. But you also wants to protect yourself against any loss of more than Rs
+10,000. What should you do ?
+
+Place a limit order to buy at Rs 805
+Place a stop loss buy order at Rs 795
+Place a stop loss buy order at Rs 805
+Place a limit sell order at Rs 805
+
+XX WRONG ANSWER
+CORRECT ANSWER:
+
+Place a stop loss buy order at Rs 805
+
+Explanation: 4
+As you have sold a futures contract, you will make a loss when the price will move up.
+
+You do not want to make a loss of more then Rs 10,000. The lot size is 2000.
+
+10,000 / 2000 =5 - which means if the price moves up by Rs 5 ( from 800 to 805) , you will make a loss of Rs 10,000.
+
+So you will put a STOP LOSS buy order at 805. Which means in case the prices move up, the trade will be executed and the contract will be squared up at Rs 805, resulting in a maximum loss of Rs 10,000.
+
+Arisky trader / speculator believes that the future price of ABC company will fall and being a smart trader he will
+buy ABC futures now and sell them later when it falls
+wait till the price of ABC futures and cash market price become same
+sell ABC futures now and buy them later when the price falls
+will do nothing as he had suffered a loss in his previous trade
+
+¥ CORRECT ANSWER
+Explanation:
+
+Aspeculator who believes that the price of a stock (ABC) will fall in the future is taking a bearish view.
+To profit from a price decline, a smart trader would:
+
+* Sell futures contracts now (at a higher price)
+¢ Buy them back later (at a lower price)
+* The difference is the profit

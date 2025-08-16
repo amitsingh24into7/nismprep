@@ -1,0 +1,71 @@
+Q 25.
+
+Q26.
+
+Q27.
+
+Q28.
+
+Q 29.
+
+Of the below options, when will the April index future monthly contract be introduced on NSE ?
+On the ‘1st trading day after last Thursday in March
+On the 1st trading day after last Friday in March
+On the 1st trading day after last Thursday in January
+On the 1st trading day after last Friday in January
+
+¥ CORRECTANSWER
+Explanation:
+
+In January, the contracts available are:
+
+* January (near month)
+¢ February (next month)
+¢ March (far month)
+
+On the last Thursday of January, the January contract expires.
+On the next trading day (usually Friday), the April contract is introduced to maintain the 3-month cycle:
+
+Now we have February (near), March (next), and April (far) contracts.
+
+Aclearing member is required to bring in an additional incremental deposits of to clearing corporation for each additional TM he undertakes to clear and settle deals.
+Rs.5 lakhs
+Rs.10 lakhs
+Rs.15 lakhs
+Rs.20 lakhs
+
+v CORRECTANSWER sa
+Explanation:
+
+Aclearing member is required to bring in an additional incremental deposits of Rs.10 lakhs to clearing corporation for each additional TM (Trading Member), in case the Clearing Member undertakes to clear and
+settle deals for other TMs.
+
+settle deals for other TMs.
+
+A common individual investor cannot write an option.
+True
+False
+
+v¥ CORRECTANSWER
+Explanation:
+
+Writing an option means selling an option. Any person can write an option after he has fullfilled the necessary formalities like client registration, margin payments etc.
+
+STT means *
+Stock Trading Tax
+Stock Transaction Tax
+Securities Transaction Tax
+Securities Trading Tax
+
+v CORRECT ANSWER
+Explanation:
+
+Securities Transaction Tax (STT) is payable by the Trading Members / Brokers on the stock market transactions and this is collected from their clients.
+
+Value-at-risk calculations are done on the basis of 2
+best possible market conditions
+ideal market conditions
+volatility
+90 % risk parameter
+
+¥ CORRECT ANSWER
