@@ -1,5 +1,4 @@
 python-poppler
-"docquery[torch]"
 pdf2image
 pytesseract
 pip uninstall pydantic
