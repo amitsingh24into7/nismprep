@@ -1,8 +1,7 @@
 python-poppler
 pdf2image
 pytesseract
-pip uninstall pydantic
-pip install "pydantic==1.10.13"
-dotenv
-langchain_groq
+pydantic==1.10.13
+python-dotenv
+langchain-groq
 streamlit
