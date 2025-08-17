@@ -1,0 +1,44 @@
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: nsmexamprep-deployment
+  labels:
+    app: nsmexamprep
+spec:
+  replicas: 1
+  selector:
+    matchLabels:
+      app: nsmexamprep
+  template:
+    metadata:
+      labels:
+        app: nsmexamprep
+    spec:
+      containers:
+      - name: nsmexamprep
+        image: akhilbmenon/nsmExamPrep:latest
+        ports:
+        - containerPort: 8501
+        resources:
+          requests:
+            cpu: "100m"
+            memory: "256Mi"
+          limits:
+            cpu: "500m"
+            memory: "512Mi"
+---
+apiVersion: v1
+kind: Service
+metadata:
+  name: nsmexamprep-service
+  labels:
+    app: nsmexamprep
+spec:
+  selector:
+    app: nsmexamprep
+  ports:
+  - protocol: TCP
+    port: 80
+    targetPort: 8501
+    nodePort: 30104 
+  type: NodePort
