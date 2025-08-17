@@ -16,7 +16,7 @@ spec:
     spec:
       containers:
       - name: nsmexamprep
-        image: akhilbmenon/nsmExamPrep:latest
+        image: akhilbmenon/nsmexamprep.ai:latest
         ports:
         - containerPort: 8501
         resources:
