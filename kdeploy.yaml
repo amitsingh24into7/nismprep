@@ -1,22 +1,22 @@
 apiVersion: apps/v1
 kind: Deployment
 metadata:
-  name: nsmexamprep-deployment
+  name: stockagent-deployment
   labels:
-    app: nsmexamprep
+    app: stockagent
 spec:
-  replicas: 1
+  replicas: 2
   selector:
     matchLabels:
-      app: nsmexamprep
+      app: stockagent
   template:
     metadata:
       labels:
-        app: nsmexamprep
+        app: stockagent
     spec:
       containers:
-      - name: nsmexamprep
-        image: akhilbmenon/nsmexamprep.ai:latest
+      - name: stockagent
+        image: akhilbmenon/tradeshala.ai:latest
         ports:
         - containerPort: 8501
         resources:
@@ -30,15 +30,15 @@ spec:
 apiVersion: v1
 kind: Service
 metadata:
-  name: nsmexamprep-service
+  name: stockagent-service
   labels:
-    app: nsmexamprep
+    app: stockagent
 spec:
   selector:
-    app: nsmexamprep
+    app: stockagent
   ports:
   - protocol: TCP
     port: 80
     targetPort: 8501
-    nodePort: 30104 
+    nodePort: 30001 
   type: NodePort
