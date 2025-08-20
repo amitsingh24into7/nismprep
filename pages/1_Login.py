@@ -23,10 +23,12 @@ if login_btn:
         try:
             with get_db_connection() as conn:
                 with conn.cursor() as cur:
+                    APP_SLUG = os.getenv("APP_SLUG", "nism-test")
                     cur.execute("""
-                        SELECT password_hash, valid_until, is_active
-                        FROM users WHERE username = %s
-                    """, (username,))
+                            SELECT password_hash, valid_until, is_active
+                            FROM users
+                            WHERE username = %s AND app_slug = %s
+                        """, (username, APP_SLUG))
                     row = cur.fetchone()
 
             if not row:
