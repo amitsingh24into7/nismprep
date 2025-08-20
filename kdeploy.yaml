@@ -5,7 +5,7 @@ metadata:
   labels:
     app: nsmexamprep
 spec:
-  replicas: 1
+  replicas: 2
   selector:
     matchLabels:
       app: nsmexamprep
@@ -16,7 +16,8 @@ spec:
     spec:
       containers:
       - name: nsmexamprep
-        image: akhilbmenon/nsmexamprep.ai:latest
+        image: akhilbmenon/nsmexamprep.ai:${BUILD_NUMBER}
+        imagePullPolicy: Always
         ports:
         - containerPort: 8501
         resources:
@@ -40,5 +41,5 @@ spec:
   - protocol: TCP
     port: 80
     targetPort: 8501
-    nodePort: 30104 
+    nodePort: 30004 
   type: NodePort

@@ -1,3 +1,5 @@
 python-dotenv
 langchain-groq
 streamlit
+psycopg2
+bcrypt
